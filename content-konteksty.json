@@ -1,0 +1,25 @@
+{
+  "title": "Konteksty",
+  "content": {
+    "mitologia": [
+      { "type": "text", "text": "## Mitologia grecka — źródło kultury\n\nMitologia to zbiór opowieści o bogach, herosach i powstaniu świata, stanowiący fundament kultury europejskiej. Mity nie były bajkami — dla Greków wyjaśniały porządek kosmosu, naturę ludzką i relacje między śmiertelnikami a bogami.\n\nNajważniejsze mity maturalne: mit prometejski (bunt wobec bogów w imię ludzkości), mit o Syzyfie (absurd powtarzania bezcelowego wysiłku), mit o Dedalu i Ikarze (granice ludzkiej ambicji), mit trojański (honor, zdrada, fatum)." },
+      { "type": "text", "text": "## Mitologia w literaturze\n\nMity przenikają całą literaturę europejską. Prometeusz — symbol buntownika (Shelley, Mickiewicz). Syzyf — bohater absurdu (Camus). Antygona — konflikt sumienia i prawa (Sofokles, Anouilh). Odys — wieczny tułacz i sprytny człowiek (Homer, Joyce). Znajomość mitów jest kluczem do rozumienia aluzji literackich." },
+      { "type": "quiz", "text": "Dlaczego mit prometejski jest ważny dla literatury romantycznej?", "answer": "Prometeusz — buntownik cierpiący za ludzkość — stał się wzorem bohatera romantycznego (samotny geniusz rzucający wyzwanie porządkowi świata w imię wyższych wartości)." }
+    ],
+    "biblia": [
+      { "type": "text", "text": "## Biblia — księga kultury\n\nBiblia to nie tylko tekst religijny, ale fundament kultury zachodniej. Stary Testament (Księga Rodzaju, Psalmy, Pieśń nad Pieśniami, Księga Hioba, Księga Koheleta) i Nowy Testament (Ewangelie, Apokalipsa) dostarczyły archetypów, motywów i gatunków literackich.\n\nGatunki biblijne: psalm (pieśń pochwalna/błagalna), przypowieść (parabola dydaktyczna), apokalipsa (wizja końca świata), hymn, lamentacja, pieśń miłosna." },
+      { "type": "text", "text": "## Motywy biblijne na maturze\n\nRaj utracony — tęsknota za stanem niewinności (Milton, Mickiewicz). Hiob — cierpienie sprawiedliwego i pytanie o sens zła. Vanitas vanitatum — marność nad marnościami (Kohelet → barok). Apokalipsa — wizja końca i sądu. Syn marnotrawny — przebaczenie i powrót. Topos homo viator — człowiek jako pielgrzym." },
+      { "type": "quiz", "text": "Co oznacza vanitas vanitatum i w jakiej epoce ten motyw był szczególnie popularny?", "answer": "„Marność nad marnościami" (Księga Koheleta) — refleksja nad przemijaniem i nicością dóbr doczesnych. Szczególnie popularna w baroku." }
+    ],
+    "filozofia": [
+      { "type": "text", "text": "## Filozofia w literaturze\n\nLiteratura każdej epoki wyrasta z dominującego nurtu filozoficznego. Antyk — Sokrates (poznaj samego siebie), Platon (świat idei), Arystoteles (złoty środek), stoicyzm (opanowanie), epikureizm (rozsądna przyjemność). Średniowiecze — scholastyka, św. Augustyn (zło jako brak dobra), św. Tomasz (harmonia wiary i rozumu).\n\nRenesans — humanizm, neoplatonizm. Oświecenie — empiryzm (Locke), racjonalizm (Kartezjusz, Wolter). Romantyzm — idealizm (Hegel), irracjonalizm." },
+      { "type": "text", "text": "## Filozofie XIX i XX w.\n\nPozytywizm — Auguste Comte: wiedza naukowa jedyną pewną wiedzą, utylitaryzm (Bentham, Mill). Modernizm — Nietzsche (nadczłowiek, śmierć Boga), Schopenhauer (pesymizm, wola). XX wiek — egzystencjalizm (Sartre, Camus): człowiek jest wolny i skazany na wybór, absurd istnienia. Personalizm — godność osoby ludzkiej (Wojtyła)." },
+      { "type": "quiz", "text": "Jak filozofia Schopenhauera wpłynęła na literaturę Młodej Polski?", "answer": "Pesymizm Schopenhauera (życie jako cierpienie, świat rządzony ślepą wolą) stał się fundamentem dekadentyzmu — poczucia bezsensu, niemocy twórczej i fascynacji śmiercią." }
+    ],
+    "historia": [
+      { "type": "text", "text": "## Historia Polski jako kontekst literacki\n\nLiteratura polska jest nierozerwalnie związana z historią narodu. Kluczowe wydarzenia kształtujące literaturę: rozbiory (1772–1795) — trauma utraty państwowości, emigracja, mesjanizm. Powstanie listopadowe (1830) — bezpośredni impuls dla Dziadów cz. III i liryki emigracyjnej.\n\nPowstanie styczniowe (1863) — klęska romantycznego idealizmu → narodziny pozytywizmu. Odzyskanie niepodległości (1918) — eksplozja awangardy." },
+      { "type": "text", "text": "## XX wiek\n\nII wojna światowa i Holocaust — literatura świadectwa (Borowski, Szymborska, Miłosz). PRL i cenzura — literatura drugiego obiegu, Miłosz Zniewolony umysł. Solidarność i transformacja — nowa tożsamość, rozliczenie z przeszłością. Kontekst historyczny na maturze: zawsze pytaj, jak historia wpłynęła na światopogląd autora i kształt utworu." },
+      { "type": "quiz", "text": "Dlaczego klęska powstania styczniowego była przełomem w literaturze polskiej?", "answer": "Skompromitowała romantyczny model walki zbrojnej o niepodległość. Pisarze odrzucili idealizm na rzecz pozytywizmu: pracy organicznej, edukacji i budowy społeczeństwa od podstaw." }
+    ]
+  }
+}
