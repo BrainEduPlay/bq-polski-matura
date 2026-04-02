@@ -256,11 +256,9 @@
     }
   ],
   "files": {
-    "romantyzm.json": [
-      "romantyzm",
-      "dziady3",
-      "ballada",
-      "historia"
-    ]
+    "content-epoki.json": ["antyk", "sredniowiecze", "renesans", "barok", "romantyzm", "pozytywizm"],
+    "content-lektury.json": ["antygona", "iliada", "bogurodzica", "makbet", "dziady3", "lalka"],
+    "content-poetyka.json": ["tragedia", "epos", "sonet", "ballada", "powiesc"],
+    "content-konteksty.json": ["mitologia", "biblia", "filozofia", "historia"]
   }
 }
