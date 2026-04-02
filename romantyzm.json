@@ -1,0 +1,35 @@
+{
+  "title": "Romantyzm — konteksty i quizy",
+  "content": {
+    "romantyzm": [
+      { "type": "flashcard", "text": "Czym jest romantyzm?", "answer": "Prąd kulturowy przełomu XVIII i XIX w. stawiający uczucie, intuicję i wyobraźnię ponad rozum" },
+      { "type": "flashcard", "text": "Czym jest bajronizm?", "answer": "Postawa bohatera zbuntowanego, samotnego, skłóconego ze światem — wzorowana na postaciach Byrona" },
+      { "type": "flashcard", "text": "Czym jest prometeizm?", "answer": "Postawa poświęcenia się jednostki dla dobra ogółu, bunt przeciw niesprawiedliwości boskiej lub ludzkiej" },
+      { "type": "flashcard", "text": "Czym jest mesjanizm?", "answer": "Wiara, że naród polski cierpi za grzechy innych narodów i przez to cierpienie je zbawi" },
+      { "type": "flashcard", "text": "Czym jest wallenrodyzm?", "answer": "Postawa walki podstępnej z wrogiem od wewnątrz, gdy jawna walka jest niemożliwa" },
+      { "type": "flashcard", "text": "Kim był Adam Mickiewicz?", "answer": "Najważniejszy poeta polskiego romantyzmu, autor Dziadów i Pana Tadeusza" },
+      { "type": "flashcard", "text": "Kim był Juliusz Słowacki?", "answer": "Poeta romantyczny, autor Kordiana, Balladyny i Beniowskiego — rywal Mickiewicza" },
+      { "type": "flashcard", "text": "Kim był Zygmunt Krasiński?", "answer": "Trzeci wieszcz, autor Nie-Boskiej komedii i Irydiona, poeta arystokratyczny" },
+      { "type": "flashcard", "text": "Kim był Cyprian Kamil Norwid?", "answer": "Czwarty wieszcz, niedoceniony za życia, autor Vade-mecum i Promethidiona" },
+      { "type": "question", "text": "Który wieszcz był autorem Wielkiej Improwizacji?", "answer": "Adam Mickiewicz (Dziady cz. III)" },
+      { "type": "question", "text": "Czym różni się prometeizm od wallenrodyzmu?", "answer": "Prometeizm to jawne poświęcenie dla ogółu, wallenrodyzm to walka podstępem od wewnątrz" },
+      { "type": "question", "text": "Który dramat Słowackiego jest polemiką z Dziadami?", "answer": "Kordian — samotny bohater vs. zbiorowy mesjanizm" },
+      { "type": "question", "text": "Co symbolizuje zajazd w Panu Tadeuszu?", "answer": "Ostatni akt szlacheckiej tradycji i nadzieję na odzyskanie niepodległości (nadejście Napoleona)" },
+      { "type": "question", "text": "Kim byli filomaci?", "answer": "Tajne stowarzyszenie studentów w Wilnie (1817–1823), do którego należał m.in. Mickiewicz" },
+      { "type": "question", "text": "Jaki jest główny konflikt Nie-Boskiej komedii?", "answer": "Starcie arystokracji (hrabia Henryk) z rewolucją (Pankracy) — oba obozy są moralnie skompromitowane" }
+    ],
+    "dziady3": [
+      { "type": "flashcard", "text": "Czym jest Wielka Improwizacja?", "answer": "Monolog Konrada z III cz. Dziadów — bunt przeciw Bogu, żądanie władzy nad duszami narodu" },
+      { "type": "flashcard", "text": "Co to są Dziady cz. III?", "answer": "Dramat Mickiewicza — wizja cierpienia narodu, scena Wielkiej Improwizacji, prometeizm i mesjanizm" }
+    ],
+    "ballada": [
+      { "type": "flashcard", "text": "Czym jest ballada?", "answer": "Gatunek łączący lirykę, epikę i dramat — ludowość, tajemniczość, morał" },
+      { "type": "flashcard", "text": "Czym jest ludowość w romantyzmie?", "answer": "Zainteresowanie kulturą ludu — wierzenia, obrzędy, język — jako źródło prawdy i autentyczności" }
+    ],
+    "historia": [
+      { "type": "flashcard", "text": "Czym było powstanie listopadowe?", "answer": "Zryw niepodległościowy 1830–1831 przeciw Rosji — klęska, Wielka Emigracja" },
+      { "type": "flashcard", "text": "Czym była Wielka Emigracja?", "answer": "Emigracja polskiej elity po powstaniu listopadowym — Paryż centrum życia politycznego i kulturalnego" },
+      { "type": "flashcard", "text": "Kim byli filomaci?", "answer": "Tajne stowarzyszenie studentów wileńskich (1817–1823) — Mickiewicz, Zan — patriotyzm i samokształcenie" }
+    ]
+  }
+}
