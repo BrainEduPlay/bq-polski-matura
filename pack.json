@@ -1,0 +1,954 @@
+[
+  {
+    "type": "tree",
+    "data": {
+      "title": "Polski — matura (mini)",
+      "branches": "{\"epoki\": {\"label\": \"Epoki\", \"color\": \"#f43f5e\"}, \"lektury\": {\"label\": \"Lektury\", \"color\": \"#3b82f6\"}, \"poetyka\": {\"label\": \"Poetyka\", \"color\": \"#10b981\"}, \"konteksty\": {\"label\": \"Konteksty\", \"color\": \"#f59e0b\"}}",
+      "edges": "[{\"from\": \"antyk\", \"to\": \"sredniowiecze\", \"type\": \"progression\"}, {\"from\": \"sredniowiecze\", \"to\": \"renesans\", \"type\": \"progression\"}, {\"from\": \"renesans\", \"to\": \"barok\", \"type\": \"progression\"}, {\"from\": \"barok\", \"to\": \"romantyzm\", \"type\": \"progression\"}, {\"from\": \"romantyzm\", \"to\": \"pozytywizm\", \"type\": \"progression\"}, {\"from\": \"antyk\", \"to\": \"antygona\", \"type\": \"branch\"}, {\"from\": \"antyk\", \"to\": \"iliada\", \"type\": \"branch\"}, {\"from\": \"antyk\", \"to\": \"tragedia\", \"type\": \"branch\"}, {\"from\": \"antyk\", \"to\": \"mitologia\", \"type\": \"branch\"}, {\"from\": \"sredniowiecze\", \"to\": \"bogurodzica\", \"type\": \"branch\"}, {\"from\": \"sredniowiecze\", \"to\": \"biblia\", \"type\": \"branch\"}, {\"from\": \"renesans\", \"to\": \"makbet\", \"type\": \"branch\"}, {\"from\": \"renesans\", \"to\": \"sonet\", \"type\": \"branch\"}, {\"from\": \"renesans\", \"to\": \"filozofia\", \"type\": \"branch\"}, {\"from\": \"romantyzm\", \"to\": \"dziady3\", \"type\": \"branch\"}, {\"from\": \"romantyzm\", \"to\": \"ballada\", \"type\": \"branch\"}, {\"from\": \"romantyzm\", \"to\": \"historia\", \"type\": \"branch\"}, {\"from\": \"pozytywizm\", \"to\": \"lalka\", \"type\": \"branch\"}, {\"from\": \"pozytywizm\", \"to\": \"powiesc\", \"type\": \"branch\"}, {\"from\": \"antygona\", \"to\": \"tragedia\", \"type\": \"branch\"}, {\"from\": \"iliada\", \"to\": \"epos\", \"type\": \"branch\"}]"
+    },
+    "children": [
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "antyk",
+          "title": "Antyk",
+          "branch": "epoki",
+          "tier": 0,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Antyk — kolebka kultury europejskiej\n\nAntyk to okres od ok. VIII w. p.n.e. do V w. n.e., obejmujący cywilizację grecką i rzymską. To wówczas narodziły się fundamentalne gatunki literackie: tragedia, komedia, epos i liryka.\n\nKultura antyczna opierała się na ideale kalokagathii — harmonii piękna i dobra. Człowiek antyczny dążył do arete (doskonałości), ale podlegał fatum — nieuchronnemu przeznaczeniu wyznaczonemu przez bogów."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Najważniejsi twórcy\n\nHomer — legendarny autor Iliady i Odysei, ojciec eposu europejskiego. Sofokles — tragik ateński, twórca Antygony i Króla Edypa, mistrz konfliktu tragicznego. Horacy — poeta rzymski, autor sentencji carpe diem i non omnis moriar."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Co oznacza ideał kalokagathii?",
+              "answer": "Harmonia piękna i dobra — jedność doskonałości fizycznej i moralnej."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Czym jest fatum w literaturze antycznej?",
+              "answer": "Nieuchronne przeznaczenie, los wyznaczony przez bogów, któremu nie może się przeciwstawić nawet heros."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "sredniowiecze",
+          "title": "Średniowiecze",
+          "branch": "epoki",
+          "tier": 1,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Średniowiecze — epoka wiary i rycerstwa\n\nŚredniowiecze trwało od V do XV w. Kultura podporządkowana była teocentryzmowi — Bóg stanowił centrum myśli i sztuki. Literatura pełniła funkcję dydaktyczną i religijną.\n\nTrzy wzorce osobowe epoki: święty (asceta), rycerz (honor i wierność) oraz władca (mądrość i sprawiedliwość). Wszystkie podporządkowane idei służby Bogu i społeczności."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Język i piśmiennictwo\n\nDominowal łaciński język literacki. Pierwsze zabytki polskiego piśmiennictwa to Bogurodzica (XIII w.) — pieśń religijna i hymn rycerski, oraz Kazania świętokrzyskie. Bogurodzica łączy funkcję modlitwy z manifestem tożsamości narodowej."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Wymień trzy wzorce osobowe średniowiecza.",
+              "answer": "Święty (asceta), rycerz (honor, wierność), władca (mądrość, sprawiedliwość)."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "renesans",
+          "title": "Renesans",
+          "branch": "epoki",
+          "tier": 2,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Renesans — odrodzenie człowieka\n\nRenesans (XV–XVI w.) przyniósł zwrot od teocentryzmu ku antropocentryzmowi. Hasło epoki: ad fontes — powrót do źródeł antycznych. Humanizm postawił w centrum człowieka, jego rozum, godność i twórczość.\n\nW Polsce złoty wiek przypadł na czasy Zygmuntów. Jan Kochanowski stworzył poezję dorównującą europejskim mistrzom — Treny to arcydzieło liryki żałobnej."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Reformacja i tolerancja\n\nRenesans to także czas reformacji — krytyki Kościoła i powstania protestantyzmu. Polska wyróżniała się tolerancją religijną, potwierdzoną konfederacją warszawską (1573). Mikołaj Rej — pierwszy twórca piszący wyłącznie po polsku: «A niechaj narodowie wżdy postronni znają, iż Polacy nie gęsi, iż swój język mają.»"
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Co oznacza hasło ad fontes?",
+              "answer": "Powrót do źródeł — nawiązanie do kultury antycznej jako wzorca."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "barok",
+          "title": "Barok",
+          "branch": "epoki",
+          "tier": 3,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Barok — kontrast i niepokój\n\nBarok (XVII w.) to epoka kontrastów: przepych i vanitas (marność), mistycyzm i zmysłowość. W literaturze dominował konceptyzm — kunsztowna forma, paradoksy, zaskakujące metafory.\n\nJan Andrzej Morsztyn uprawiał marinizm (wirtuozeria językowa), Daniel Naborowski podejmował motyw vanitas — przemijania i nicości ludzkiego istnienia."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Sarmatyzm\n\nPolski barok to sarmatyzm — ideologia szlachty odwołująca się do legendarnych przodków (Sarmatów). Wacław Potocki w Wojnie chocimskiej gloryfikował rycerskie cnoty, a w Moraliach krytykował wady szlachty. Jan Chryzostom Pasek w Pamiętnikach utrwalił autoportret sarmaty — odważnego, pobożnego, ale też zaściankowego."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Czym jest konceptyzm?",
+              "answer": "Nurt literacki baroku oparty na kunsztownej formie, zaskakujących metaforach i paradoksach intelektualnych."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "romantyzm",
+          "title": "Romantyzm",
+          "branch": "epoki",
+          "tier": 4,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Romantyzm — uczucie, naród, wolność\n\nRomantyzm (koniec XVIII – poł. XIX w.) przeciwstawił się oświeceniowemu racjonalizmowi. Na pierwszy plan wysunął uczucie, wyobraźnię, intuicję i indywidualizm. Natura stała się lustrem duszy.\n\nPolski romantyzm był silnie związany z walką o niepodległość po rozbiorach. Mesjanizm — wiara, że cierpienie Polski ma sens odkupicielski — stał się centralną ideą epoki."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Wielka Trójca\n\nAdam Mickiewicz — wieszcz narodowy, autor Dziadów i Pana Tadeusza. Juliusz Słowacki — mistrz liryki i dramatu (Kordian, Balladyna). Zygmunt Krasiński — autor Nie-Boskiej Komedii, prorok konfliktu klasowego. Każdy z nich tworzył na emigracji, pisząc dla narodu pozbawionego państwa."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Co to jest mesjanizm w kontekście polskiego romantyzmu?",
+              "answer": "Wiara, że cierpienie narodu polskiego ma charakter odkupicielski — Polska jako 'Chrystus narodów' cierpi za wolność wszystkich ludów."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "pozytywizm",
+          "title": "Pozytywizm",
+          "branch": "epoki",
+          "tier": 5,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Pozytywizm — praca i nauka\n\nPozytywizm (2. poł. XIX w.) powstał w reakcji na klęskę powstania styczniowego (1863). Odrzucił romantyczny idealizm na rzecz pracy organicznej (budowa społeczeństwa od podstaw) i pracy u podstaw (edukacja najuboższych).\n\nProgram pozytywistów opierał się na filozofii Augusta Comte'a: wiedza naukowa, empiryzm i utylitaryzm jako droga do postępu społecznego."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Powieść realistyczna\n\nDominujący gatunek epoki. Bolesław Prus w Lalce stworzył panoramę społeczeństwa warszawskiego i portret idealisty Wokulskiego. Eliza Orzeszkowa w Nad Niemnem ukazała pracę jako wartość łączącą klasy. Henryk Sienkiewicz w Trylogii budował mit pokrzepiający serca."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Czym różni się praca organiczna od pracy u podstaw?",
+              "answer": "Praca organiczna — budowa gospodarki i społeczeństwa jako organizmu. Praca u podstaw — edukacja i pomoc najuboższym warstwom (chłopi, kobiety)."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "antygona",
+          "title": "Antygona",
+          "branch": "lektury",
+          "tier": 0,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Antygona Sofoklesa\n\nTragedia z 441 r. p.n.e. Antygona, corka Edypa, decyduje sie pochowac cialo brata Polinejkesa wbrew zakazowi krola Kreona. Staje przed wyborem: prawo boskie (obowiazek pogrzebania bliskich) czy prawo ludzkie (dekret wladcy).\n\nKonflikt tragiczny polega na tym, ze obie strony maja racje -- Kreon broni porzadku panstwowego, Antygona -- odwiecznych praw moralnych. Zadne rozwiazanie nie jest wolne od winy."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Motyw tragiczny\n\nAntygona ponosi smierc za swoje przekonania -- jest gotowa przyjac konsekwencje. Kreon traci syna i zone, bo zbyt pozno zrozumial swoj blad. Tragedia uczy, ze hybris (pycha) prowadzi do zaglady, a hamartia (blad tragiczny) jest wpisana w ludzkie dzialanie."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Na czym polega konflikt tragiczny w Antygonie?",
+              "answer": "Starcie dwoch rownorzednych racji: prawa boskiego (Antygona -- obowiazek pochowku) z prawem panstwowym (Kreon -- zakaz grzebania zdrajcy)."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "iliada",
+          "title": "Iliada",
+          "branch": "lektury",
+          "tier": 1,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Iliada Homera\n\nEpos opisujacy 51 dni ostatniego roku wojny trojanskiej. Centralnym motywem jest gniew Achillesa -- najdzielniejszego z Grekow, ktory odmawia walki po konflikcie z Agamemnonem o branke Bryzeide.\n\nIliada to nie tylko opowiesc wojenna. Homer ukazuje tragizm wojny, cierpienie obu stron i ludzka cene chwaiy. Scena, w ktorej Priam blaga Achillesa o cialo Hektora, jest jednym z najpiekniejszych momentow literatury swiatowej."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Cechy eposu\n\nIliada uksztaltowala konwencje eposu: inwokacja do muzy, narrator wszechwiedzacy, katalog okretow, sceny bitewne, ingerencja bogow, staly epitet (Achilles szybkonogi, Hera wolookie), porownanie homeryckie (rozbudowane, wielowarstwowe)."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Co jest centralnym motywem Iliady?",
+              "answer": "Gniew Achillesa (menis) -- obrazony przez Agamemnona odmawia walki, co prowadzi do klesk Grekow i smierci Patroklosa."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "bogurodzica",
+          "title": "Bogurodzica",
+          "branch": "lektury",
+          "tier": 2,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Bogurodzica -- najstarsza piesn polska\n\nBogurodzica powstala prawdopodobnie w XIII w. Jest pierwszym zabytkiem polskiej poezji i najstarszym hymnem religijnym w jezyku polskim. Spiewano ja przed bitwa pod Grunwaldem (1410).\n\nDwie najstarsze strofy to modlitwa: pierwsza do Matki Boskiej (posredniczki), druga do Chrystusa -- przez Jana Chrzciciela. Struktura jest dwustopniowa: czlowiek -> posrednik -> Bog."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Znaczenie kulturowe\n\nBogurodzica laczy funkcje religijna (modlitwa), patriotyczna (hymn bojowy) i literacka (pierwszy tekst poetycki po polsku). Jan Dlugosz nazywal ja carmen patrium -- piesnia ojczysta. Pelnila role hymnu narodowego az do XVI w."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Jakie funkcje pelnila Bogurodzica?",
+              "answer": "Religijna (modlitwa do Matki Boskiej), patriotyczna (hymn bojowy pod Grunwaldem) i literacka (pierwszy znany utwor poetycki w jezyku polskim)."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "makbet",
+          "title": "Makbet",
+          "branch": "lektury",
+          "tier": 3,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Makbet Szekspira\n\nDramat z ok. 1606 r. Makbet, szkocki wodz, po przepowiedni trzech wiedzm i namowach zony zabija krola Duncana, by przejac tron. Zbrodnie te napedzaja ambicja i zadza wladzy.\n\nMakbet to studium degeneracji moralnej. Bohater przechodzi od wahan i wyrzutow sumienia do coraz latwiejszego zabijania. Lady Makbet, poczatkowo silniejsza, zalamuje sie -- jej slynna scena mycia rak symbolizuje niezmywalna wine."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Motywy i symbolika\n\nKrew -- wina, ktora nie daje sie zmyc. Sen -- spokoj sumienia (Makbet «zamordowal sen»). Ciemnosc -- zlo skrywane pod oslona nocy. Szekspir ukazuje, ze wladza zdobyta zbrodnia niszczy zdobywce -- ambicja bez hamulcow moralnych prowadzi do szalenstwa i upadku."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Co symbolizuje scena mycia rak Lady Makbet?",
+              "answer": "Niezmywalna wine i wyrzuty sumienia -- plama krwi, ktorej nie mozna usunac, symbolizuje moralna skaze po zbrodni."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "dziady3",
+          "title": "Dziady cz. III",
+          "branch": "lektury",
+          "tier": 4,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Dziady cz. III Mickiewicza\n\nDramat romantyczny z 1832 r., napisany po powstaniu listopadowym. Konrad, przeobraony z Gustawa (Dziady cz. IV), wyglasza Wielka Improwizacje -- monolog, w ktorym domaga sie od Boga wladzy nad ludzkimi uczuciami, by kierowac losem narodu.\n\nScena wiezienna w Wilnie ukazuje martyrologie mlodziezy polskiej przesladowanej przez senatora Nowosilcowa. Widzenie ksiedza Piotra przynosi mesjanistyczna wizje: Polska jako Chrystus narodow zmartwychwstanie."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Romantyczny prometeizm\n\nKonrad to buntownik prometejski -- samotny geniusz rzucajacy wyzwanie Bogu w imie narodu. Jego pycha (hybris) jest jednoczesnie sila i slaboscia. W przeciwienstwie do niego ksiadz Piotr -- pokorny i cichy -- otrzymuje wizje przyszlosci. Mickiewicz przeciwstawia dume jednostki pokorze wiary."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Na czym polega prometeizm Konrada w Wielkiej Improwizacji?",
+              "answer": "Konrad buntuje sie przeciw Bogu, zadajac wladzy nad ludzkimi uczuciami -- chce samodzielnie zbawic narod, co jest aktem pychy prometejskiej."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "lalka",
+          "title": "Lalka",
+          "branch": "lektury",
+          "tier": 5,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Lalka Boleslawa Prusa\n\nPowiesc realistyczna (1890), panorama spoleczenstwa warszawskiego. Stanislaw Wokulski -- kupiec, idealista, byly zeslaniec syberyjski -- kocha arystokratke Izabele Lecka. Jego milosc staje sie symbolem niemoznosci porozumienia miedzy klasami.\n\nTrzy warstwy narracji: pamietnik Rzeckiego (stary idealista), narrator trzeciosobowy i obserwacje Wokulskiego odslaniaja trzy perspektywy na rzeczywistosc -- romantyczna, pozytywistyczna i dekadencka."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Obraz spoleczenstwa\n\nArystokracja -- pasoytnicza, zadluzona, zyjaca pozorami. Burzuazja -- energiczna, ale pogardzana. Inteligencja -- bezsilna (Ochocki ucieka w nauke). Biedota -- niewidoczna dla wyzszych warstw. Prus ukazal, ze polskie spoleczenstwo nie jest zdolne do modernizacji, bo dziela je uprzedzenia stanowe."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Dlaczego Lalka jest nazywana powiescia o trzech pokoleniach idealistow?",
+              "answer": "Rzecki -- idealista napoleonski, Wokulski -- romantyk i pozytywista, Ochocki -- naukowiec-marzyciel. Kazdy ponosi kleske, bo idealy rozbijaja sie o rzeczywistosc."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "tragedia",
+          "title": "Tragedia",
+          "branch": "poetyka",
+          "tier": 0,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Tragedia -- gatunek wielkich pytan\n\nTragedia narodzila sie w starozytnej Grecji (VI/V w. p.n.e.) z obrzedow ku czci Dionizosa. Arystoteles w Poetyce zdefiniowal ja jako nasladowanie dzialania powaznego, ktore przez litosc i trwoge prowadzi do katharsis -- oczyszczenia uczuc widza.\n\nKlasyczna tragedia grecka przestrzega trzech jednosci: czasu (jedno okrazenie slonca), miejsca (jedna lokalizacja) i akcji (jeden watek glowny)."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Elementy tragedii\n\nBohater tragiczny -- szlachetny, ale obciazony hamartia (bledem tragicznym) lub hybris (pycha). Konflikt tragiczny -- zderzenie dwoch rownorzednych racji, bez mozliwosci dobrego wyjscia. Chor -- komentator wydarzen, glos wspolnoty. Ironia tragiczna -- bohater nie wie tego, co wie widz."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Czym jest katharsis wedlug Arystotelesa?",
+              "answer": "Oczyszczenie uczuc widza (litosci i trwogi) przez przezycie tragedii -- widz doswiadcza emocji w bezpiecznych warunkach i zostaje z nich wyzwolony."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "epos",
+          "title": "Epos",
+          "branch": "poetyka",
+          "tier": 1,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Epos -- wielka opowiesc o bohaterach\n\nEpos (epopeja) to rozbudowany utwor narracyjny wierszem, opisujacy czyny bohaterow na tle przelomowych wydarzen. Najstarsze eposy to Iliada i Odyseja Homera oraz Eneida Wergiliusza.\n\nKonwencje eposu: inwokacja (wezwanie muzy), rozpoczecie in medias res (w srodku akcji), narrator wszechwiedzacy, staly epitet, porownanie homeryckie, ingerencja bogow w losy ludzi."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Epos w literaturze polskiej\n\nPan Tadeusz Mickiewicza (1834) -- ostatni wielki epos europejski. Podtytul: «Ostatni zajazd na Litwie» -- historia szlacheckiego sporu osadzona w realiach 1811-1812. Mickiewicz zachowal epicki rozmach, ale nasycil go nostalgia emigranta i humorem, tworzac epopeje narodowa o swiecie, ktory odchodzi."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Co oznacza in medias res?",
+              "answer": "Rozpoczecie narracji w srodku akcji (dosl. «w srodek rzeczy») -- czytelnik trafia w toczace sie juz wydarzenia, a przeszlosc poznaje z retrospekcji."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "sonet",
+          "title": "Sonet",
+          "branch": "poetyka",
+          "tier": 2,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Sonet -- kunsztowna miniatura\n\nSonet to utwor liryczny o scislej budowie: 14 wersow podzielonych na dwa czterowiersze (kwatryny) i dwa trzywiersze (tercyny). Powstal we Wloszech w XIII w. (Petrarka), rozkwitl w renesansie i baroku.\n\nKwatryny zwykle opisuja (teza), tercyny reflektuja (konkluzja). Sonet wymaga dyscypliny formalnej -- rygor budowy zmusza poete do precyzji mysli."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Sonety polskie\n\nJan Kochanowski pisal sonety w duchu petrarkistowskim. Mickiewicz w Sonetach krymskich (1826) polaczyl forme sonetu z romantycznym zachwytem orientalnym krajobrazem. Sonet V (Bakczysaraj w nocy) -- mistrzostwo synestezji. Sonety, choc krotkie, potrafia zmiescic pelna refleksje filozoficzna."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Jak zbudowany jest sonet?",
+              "answer": "14 wersow: dwie kwatryny (4+4) -- czesc opisowa/tezowa, dwie tercyny (3+3) -- refleksja/konkluzja. Scisly schemat rymow."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "ballada",
+          "title": "Ballada",
+          "branch": "poetyka",
+          "tier": 3,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Ballada -- gatunek romantyczny\n\nBallada to utwor synkretyczny, laczacy elementy liryki (nastroj, emocje), epiki (fabula) i dramatu (dialogi). Romantycy uczynili z niej sztandarowy gatunek. Nawiazuje do ludowych opowiesci o zjawiskach nadprzyrodzonych.\n\nMickiewicz w Balladach i romansach (1822) zainaugurowal romantyzm w Polsce. Romantycznosc -- programowy utwor epoki: «Czucie i wiara silniej mowi do mnie / Niz medrca szkielko i oko.»"
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Ballady Mickiewicza\n\nSwiteZ -- jezioro skrywa zatopione miasto, dziewczeta zamienione w lilie wodne karaja tych, ktorzy naruszaja tajemnice. Switezianka -- zdrada przysIegi prowadzi do smierci. Lilie -- zbrodnia zony ukarana nadprzyrodzona moca. Ballady lacza ludowa fantastyke z moralnoscia: wina i kara sa nieuchronne."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Dlaczego ballada jest gatunkiem synkretycznym?",
+              "answer": "Laczy trzy rodzaje literackie: liryke (nastroj, uczucia), epike (opowiada historie) i dramat (zawiera dialogi postaci)."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "powiesc",
+          "title": "Powieść",
+          "branch": "poetyka",
+          "tier": 4,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Powiesc -- gatunek dominujacy od XIX w.\n\nPowiesc to rozbudowany utwor narracyjny proza, z wielowatkowa fabula i rozbudowana galeria postaci. Stala sie dominujacym gatunkiem pozytywizmu i realizmu -- pozwalala ukazac panorame spoleczenstwa.\n\nPowiesc realistyczna (Balzac, Prus, Tolstoj) dazy do obiektywnego obrazu rzeczywistosci. Narrator wszechwiedzacy, szczegolowe opisy, motywacja psychologiczna postaci, tlo spoleczno-historyczne."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Odmiany powiesci\n\nPowiesc historyczna -- Sienkiewicz (Trylogia), Scott. Powiesc tendencyjna -- jawna teza spoleczna (Orzeszkowa, Marta). Powiesc epistolarna -- listy jako forma narracji. Powiesc psychologiczna -- analiza wnetrza bohatera (Zbrodnia i kara Dostojewskiego). Powiesc-rzeka -- wielotomowa saga rodzinna."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Czym charakteryzuje sie powiesc realistyczna?",
+              "answer": "Narrator wszechwiedzacy, obiektywny obraz rzeczywistosci, szczegolowe opisy, poglebiona psychologia postaci, szerokie tlo spoleczne i historyczne."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "mitologia",
+          "title": "Mitologia",
+          "branch": "konteksty",
+          "tier": 0,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Mitologia grecka -- zrodlo kultury\n\nMitologia to zbior opowiesci o bogach, herosach i powstaniu swiata, stanowiacy fundament kultury europejskiej. Mity nie byly bajkami -- dla Grekow wyjasnialy porzadek kosmosu, nature ludzka i relacje miedzy smiertelnikami a bogami.\n\nNajwazniejsze mity maturalne: mit prometejski (bunt wobec bogow w imie ludzkosci), mit o Syzyfie (absurd powtarzania bezcelowego wysilku), mit o Dedalu i Ikarze (granice ludzkiej ambicji), mit trojanski (honor, zdrada, fatum)."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Mitologia w literaturze\n\nMity przenikaja cala literature europejska. Prometeusz -- symbol buntownika (Shelley, Mickiewicz). Syzyf -- bohater absurdu (Camus). Antygona -- konflikt sumienia i prawa (Sofokles, Anouilh). Odys -- wieczny tulacz i sprytny czlowiek (Homer, Joyce). Znajomosc mitow jest kluczem do rozumienia aluzji literackich."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Dlaczego mit prometejski jest wazny dla literatury romantycznej?",
+              "answer": "Prometeusz -- buntownik cierpIacy za ludzkosc -- stal sie wzorem bohatera romantycznego (samotny geniusz rzucajacy wyzwanie porzadkowi swiata w imie wyzszych wartosci)."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "biblia",
+          "title": "Biblia",
+          "branch": "konteksty",
+          "tier": 1,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Biblia -- ksiega kultury\n\nBiblia to nie tylko tekst religijny, ale fundament kultury zachodniej. Stary Testament (Ksiega Rodzaju, Psalmy, Piesn nad Piesniami, Ksiega Hioba, Ksiega Koheleta) i Nowy Testament (Ewangelie, Apokalipsa) dostarczyly archetypow, motywow i gatunkow literackich.\n\nGatunki biblijne: psalm (piesn pochwalna/blagalna), przypowiesc (parabola dydaktyczna), apokalipsa (wizja konca swiata), hymn, lamentacja, piesn milosna."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Motywy biblijne na maturze\n\nRaj utracony -- tesknota za stanem niewinnosci (Milton, Mickiewicz). Hiob -- cierpienie sprawiedliwego i pytanie o sens zla. Vanitas vanitatum -- marnosc nad marnosciami (Kohelet -> barok). Apokalipsa -- wizja konca i sadu. Syn marnotrawny -- przebaczenie i powrot. Topos homo viator -- czlowiek jako pielgrzym."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Co oznacza vanitas vanitatum i w jakiej epoce ten motyw byl szczegolnie popularny?",
+              "answer": "«Marnosc nad marnosciami» (Ksiega Koheleta) -- refleksja nad przemijaniem i nicoscia dobr doczesnych. Szczegolnie popularna w baroku."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "filozofia",
+          "title": "Filozofia",
+          "branch": "konteksty",
+          "tier": 2,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Filozofia w literaturze\n\nLiteratura kazdej epoki wyrasta z dominujacego nurtu filozoficznego. Antyk -- Sokrates (poznaj samego siebie), Platon (swiat idei), Arystoteles (zloty srodek), stoicyzm (opanowanie), epikureizm (rozsadna przyjemnosc). Sredniowiecze -- scholastyka, sw. Augustyn (zlo jako brak dobra), sw. Tomasz (harmonia wiary i rozumu).\n\nRenesans -- humanizm, neoplatonizm. Oswiecenie -- empiryzm (Locke), racjonalizm (Kartezjusz, Wolter). Romantyzm -- idealizm (Hegel), irracjonalizm."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Filozofie XIX i XX w.\n\nPozytywizm -- Auguste Comte: wiedza naukowa jedyna pewna wiedza, utylitaryzm (Bentham, Mill). Modernizm -- Nietzsche (nadczlowiek, smierc Boga), Schopenhauer (pesymizm, wola). XX wiek -- egzystencjalizm (Sartre, Camus): czlowiek jest wolny i skazany na wybor, absurd istnienia. Personalizm -- godnosc osoby ludzkiej (Wojtyla)."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Jak filozofia Schopenhauera wplynela na literature Mlodej Polski?",
+              "answer": "Pesymizm Schopenhauera (zycie jako cierpienie, swiat rzadzony slepa wola) stal sie fundamentem dekadentyzmu -- poczucia bezsensu, niemocy tworczej i fascynacji smiercia."
+            }
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "historia",
+          "title": "Historia Polski",
+          "branch": "konteksty",
+          "tier": 3,
+          "hits": 0
+        },
+        "children": [
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## Historia Polski jako kontekst literacki\n\nLiteratura polska jest nierozerwalnie zwiazana z historia narodu. Kluczowe wydarzenia ksztaltujace literature: rozbiory (1772-1795) -- trauma utraty panstwowosci, emigracja, mesjanizm. Powstanie listopadowe (1830) -- bezposredni impuls dla Dziadow cz. III i liryki emigracyjnej.\n\nPowstanie styczniowe (1863) -- kleska romantycznego idealizmu -> narodziny pozytywizmu. Odzyskanie niepodleglosci (1918) -- eksplozja awangardy."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "text",
+              "text": "## XX wiek\n\nII wojna swiatowa i Holocaust -- literatura swiadectwa (Borowski, Szymborska, Milosz). PRL i cenzura -- literatura drugiego obiegu, Milosz Zniewolony umysl. Solidarnosc i transformacja -- nowa tozsamosc, rozliczenie z przeszloscia. Kontekst historyczny na maturze: zawsze pytaj, jak historia wplynela na swiatopoglad autora i ksztalt utworu."
+            }
+          },
+          {
+            "type": "content",
+            "data": {
+              "contentType": "quiz",
+              "text": "Dlaczego kleska powstania styczniowego byla przelomem w literaturze polskiej?",
+              "answer": "Skompromitowala romantyczny model walki zbrojnej o niepodleglosc. Pisarze odrzucili idealizm na rzecz pozytywizmu: pracy organicznej, edukacji i budowy spoleczenstwa od podstaw."
+            }
+          }
+        ]
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "romantyzm",
+          "definition": "Prąd kulturowy przełomu XVIII i XIX w. stawiający uczucie, intuicję i wyobraźnię ponad rozum",
+          "forms": "[\"romantyzmu\", \"romantyczny\", \"romantyzmie\"]",
+          "example": "",
+          "category": "epoka"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "bajronizm",
+          "definition": "Postawa bohatera zbuntowanego, samotnego, skłóconego ze światem — wzorowana na postaciach Byrona",
+          "forms": "[\"bajroniczny\", \"bajronizmu\"]",
+          "example": "",
+          "category": "epoka"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "prometeizm",
+          "definition": "Postawa poświęcenia się jednostki dla dobra ogółu, bunt przeciw niesprawiedliwości boskiej lub ludzkiej",
+          "forms": "[\"prometejski\", \"prometeizmu\"]",
+          "example": "",
+          "category": "epoka"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "mesjanizm",
+          "definition": "Wiara, że naród polski cierpi za grzechy innych narodów i przez to cierpienie je zbawi",
+          "forms": "[\"mesjanistyczny\", \"mesjanizmu\"]",
+          "example": "",
+          "category": "epoka"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "wallenrodyzm",
+          "definition": "Postawa walki podstępnej z wrogiem od wewnątrz, gdy jawna walka jest niemożliwa",
+          "forms": "[\"wallenrodyczny\"]",
+          "example": "",
+          "category": "epoka"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Adam Mickiewicz",
+          "definition": "Najważniejszy poeta polskiego romantyzmu, autor Dziadów i Pana Tadeusza",
+          "forms": "[\"Mickiewicza\", \"Mickiewiczowi\"]",
+          "example": "",
+          "category": "autorzy"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Juliusz Słowacki",
+          "definition": "Poeta romantyczny, autor Kordiana, Balladyny i Beniowskiego — rywal Mickiewicza",
+          "forms": "[\"S\\u0142owackiego\", \"S\\u0142owackiemu\"]",
+          "example": "",
+          "category": "autorzy"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Zygmunt Krasiński",
+          "definition": "Trzeci wieszcz, autor Nie-Boskiej komedii i Irydiona, poeta arystokratyczny",
+          "forms": "[\"Krasi\\u0144skiego\"]",
+          "example": "",
+          "category": "autorzy"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Cyprian Kamil Norwid",
+          "definition": "Czwarty wieszcz, niedoceniony za życia, autor Vade-mecum i Promethidiona",
+          "forms": "[\"Norwida\", \"Norwidowi\"]",
+          "example": "",
+          "category": "autorzy"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Dziady cz. III",
+          "definition": "Dramat Mickiewicza — wizja cierpienia narodu, scena Wielkiej Improwizacji, prometeizm i mesjanizm",
+          "forms": "[\"Dziad\\u00f3w\"]",
+          "example": "",
+          "category": "dzieła"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Pan Tadeusz",
+          "definition": "Epopeja narodowa Mickiewicza — obraz szlachty litewskiej, ostatni zajazd, miłość i patriotyzm",
+          "forms": "[\"Pana Tadeusza\"]",
+          "example": "",
+          "category": "dzieła"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Konrad Wallenrod",
+          "definition": "Powieść poetycka Mickiewicza — Litwin walczący z Krzyżakami podstępem, wallenrodyzm",
+          "forms": "[\"Wallenroda\"]",
+          "example": "",
+          "category": "dzieła"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Kordian",
+          "definition": "Dramat Słowackiego — samotny bohater próbuje zabić cara, ponosi klęskę, polemika z Dziadami",
+          "forms": "[\"Kordiana\"]",
+          "example": "",
+          "category": "dzieła"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Balladyna",
+          "definition": "Tragedia Słowackiego — zbrodnia siostrobójstwa, baśniowość i groteska, krytyka władzy",
+          "forms": "[\"Balladyny\", \"Balladynie\"]",
+          "example": "",
+          "category": "dzieła"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Nie-Boska komedia",
+          "definition": "Dramat Krasińskiego — konflikt arystokracji z rewolucją, wizja apokalipsy społecznej",
+          "forms": "[]",
+          "example": "",
+          "category": "dzieła"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Wielka Improwizacja",
+          "definition": "Monolog Konrada z III cz. Dziadów — bunt przeciw Bogu, żądanie władzy nad duszami narodu",
+          "forms": "[\"Wielkiej Improwizacji\"]",
+          "example": "",
+          "category": "motywy"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "ballada",
+          "definition": "Gatunek łączący lirykę, epikę i dramat — ludowość, tajemniczość, morał",
+          "forms": "[\"ballady\", \"balladowy\"]",
+          "example": "",
+          "category": "motywy"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "ludowość",
+          "definition": "Zainteresowanie kulturą ludu — wierzenia, obrzędy, język — jako źródło prawdy i autentyczności",
+          "forms": "[\"ludowy\", \"ludowo\\u015bci\"]",
+          "example": "",
+          "category": "motywy"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "natura",
+          "definition": "W romantyzmie: żywa siła, lustro uczuć bohatera, przestrzeń tajemnicy i wolności",
+          "forms": "[\"natury\", \"naturze\"]",
+          "example": "",
+          "category": "motywy"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "powstanie listopadowe",
+          "definition": "Zryw niepodległościowy 1830–1831 przeciw Rosji — klęska, Wielka Emigracja",
+          "forms": "[\"powstania listopadowego\"]",
+          "example": "",
+          "category": "historia"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "Wielka Emigracja",
+          "definition": "Emigracja polskiej elity po powstaniu listopadowym — Paryż centrum życia politycznego i kulturalnego",
+          "forms": "[\"Wielkiej Emigracji\"]",
+          "example": "",
+          "category": "historia"
+        }
+      },
+      {
+        "type": "lexicon",
+        "data": {
+          "term": "filomaci",
+          "definition": "Tajne stowarzyszenie studentów wileńskich (1817–1823) — Mickiewicz, Zan — patriotyzm i samokształcenie",
+          "forms": "[\"filomat\\u00f3w\", \"filomacki\"]",
+          "example": "",
+          "category": "historia"
+        }
+      }
+    ]
+  }
+]
