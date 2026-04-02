@@ -1,0 +1,36 @@
+{
+  "title": "Epoki literackie",
+  "content": {
+    "antyk": [
+      { "type": "text", "text": "## Antyk — kolebka kultury europejskiej\n\nAntyk to okres od ok. VIII w. p.n.e. do V w. n.e., obejmujący cywilizację grecką i rzymską. To wówczas narodziły się fundamentalne gatunki literackie: tragedia, komedia, epos i liryka.\n\nKultura antyczna opierała się na ideale kalokagathii — harmonii piękna i dobra. Człowiek antyczny dążył do arete (doskonałości), ale podlegał fatum — nieuchronnemu przeznaczeniu wyznaczonemu przez bogów." },
+      { "type": "text", "text": "## Najważniejsi twórcy\n\nHomer — legendarny autor Iliady i Odysei, ojciec eposu europejskiego. Sofokles — tragik ateński, twórca Antygony i Króla Edypa, mistrz konfliktu tragicznego. Horacy — poeta rzymski, autor sentencji carpe diem i non omnis moriar." },
+      { "type": "quiz", "text": "Co oznacza ideał kalokagathii?", "answer": "Harmonia piękna i dobra — jedność doskonałości fizycznej i moralnej." },
+      { "type": "quiz", "text": "Czym jest fatum w literaturze antycznej?", "answer": "Nieuchronne przeznaczenie, los wyznaczony przez bogów, któremu nie może się przeciwstawić nawet heros." }
+    ],
+    "sredniowiecze": [
+      { "type": "text", "text": "## Średniowiecze — epoka wiary i rycerstwa\n\nŚredniowiecze trwało od V do XV w. Kultura podporządkowana była teocentryzmowi — Bóg stanowił centrum myśli i sztuki. Literatura pełniła funkcję dydaktyczną i religijną.\n\nTrzy wzorce osobowe epoki: święty (asceta), rycerz (honor i wierność) oraz władca (mądrość i sprawiedliwość). Wszystkie podporządkowane idei służby Bogu i społeczności." },
+      { "type": "text", "text": "## Język i piśmiennictwo\n\nDominowal łaciński język literacki. Pierwsze zabytki polskiego piśmiennictwa to Bogurodzica (XIII w.) — pieśń religijna i hymn rycerski, oraz Kazania świętokrzyskie. Bogurodzica łączy funkcję modlitwy z manifestem tożsamości narodowej." },
+      { "type": "quiz", "text": "Wymień trzy wzorce osobowe średniowiecza.", "answer": "Święty (asceta), rycerz (honor, wierność), władca (mądrość, sprawiedliwość)." }
+    ],
+    "renesans": [
+      { "type": "text", "text": "## Renesans — odrodzenie człowieka\n\nRenesans (XV–XVI w.) przyniósł zwrot od teocentryzmu ku antropocentryzmowi. Hasło epoki: ad fontes — powrót do źródeł antycznych. Humanizm postawił w centrum człowieka, jego rozum, godność i twórczość.\n\nW Polsce złoty wiek przypadł na czasy Zygmuntów. Jan Kochanowski stworzył poezję dorównującą europejskim mistrzom — Treny to arcydzieło liryki żałobnej." },
+      { "type": "text", "text": "## Reformacja i tolerancja\n\nRenesans to także czas reformacji — krytyki Kościoła i powstania protestantyzmu. Polska wyróżniała się tolerancją religijną, potwierdzoną konfederacją warszawską (1573). Mikołaj Rej — pierwszy twórca piszący wyłącznie po polsku: „A niechaj narodowie wżdy postronni znają, iż Polacy nie gęsi, iż swój język mają."" },
+      { "type": "quiz", "text": "Co oznacza hasło ad fontes?", "answer": "Powrót do źródeł — nawiązanie do kultury antycznej jako wzorca." }
+    ],
+    "barok": [
+      { "type": "text", "text": "## Barok — kontrast i niepokój\n\nBarok (XVII w.) to epoka kontrastów: przepych i vanitas (marność), mistycyzm i zmysłowość. W literaturze dominował konceptyzm — kunsztowna forma, paradoksy, zaskakujące metafory.\n\nJan Andrzej Morsztyn uprawiał marinizm (wirtuozeria językowa), Daniel Naborowski podejmował motyw vanitas — przemijania i nicości ludzkiego istnienia." },
+      { "type": "text", "text": "## Sarmatyzm\n\nPolski barok to sarmatyzm — ideologia szlachty odwołująca się do legendarnych przodków (Sarmatów). Wacław Potocki w Wojnie chocimskiej gloryfikował rycerskie cnoty, a w Moraliach krytykował wady szlachty. Jan Chryzostom Pasek w Pamiętnikach utrwalił autoportret sarmaty — odważnego, pobożnego, ale też zaściankowego." },
+      { "type": "quiz", "text": "Czym jest konceptyzm?", "answer": "Nurt literacki baroku oparty na kunsztownej formie, zaskakujących metaforach i paradoksach intelektualnych." }
+    ],
+    "romantyzm": [
+      { "type": "text", "text": "## Romantyzm — uczucie, naród, wolność\n\nRomantyzm (koniec XVIII – poł. XIX w.) przeciwstawił się oświeceniowemu racjonalizmowi. Na pierwszy plan wysunął uczucie, wyobraźnię, intuicję i indywidualizm. Natura stała się lustrem duszy.\n\nPolski romantyzm był silnie związany z walką o niepodległość po rozbiorach. Mesjanizm — wiara, że cierpienie Polski ma sens odkupicielski — stał się centralną ideą epoki." },
+      { "type": "text", "text": "## Wielka Trójca\n\nAdam Mickiewicz — wieszcz narodowy, autor Dziadów i Pana Tadeusza. Juliusz Słowacki — mistrz liryki i dramatu (Kordian, Balladyna). Zygmunt Krasiński — autor Nie-Boskiej Komedii, prorok konfliktu klasowego. Każdy z nich tworzył na emigracji, pisząc dla narodu pozbawionego państwa." },
+      { "type": "quiz", "text": "Co to jest mesjanizm w kontekście polskiego romantyzmu?", "answer": "Wiara, że cierpienie narodu polskiego ma charakter odkupicielski — Polska jako 'Chrystus narodów' cierpi za wolność wszystkich ludów." }
+    ],
+    "pozytywizm": [
+      { "type": "text", "text": "## Pozytywizm — praca i nauka\n\nPozytywizm (2. poł. XIX w.) powstał w reakcji na klęskę powstania styczniowego (1863). Odrzucił romantyczny idealizm na rzecz pracy organicznej (budowa społeczeństwa od podstaw) i pracy u podstaw (edukacja najuboższych).\n\nProgram pozytywistów opierał się na filozofii Augusta Comte'a: wiedza naukowa, empiryzm i utylitaryzm jako droga do postępu społecznego." },
+      { "type": "text", "text": "## Powieść realistyczna\n\nDominujący gatunek epoki. Bolesław Prus w Lalce stworzył panoramę społeczeństwa warszawskiego i portret idealisty Wokulskiego. Eliza Orzeszkowa w Nad Niemnem ukazała pracę jako wartość łączącą klasy. Henryk Sienkiewicz w Trylogii budował mit pokrzepiający serca." },
+      { "type": "quiz", "text": "Czym różni się praca organiczna od pracy u podstaw?", "answer": "Praca organiczna — budowa gospodarki i społeczeństwa jako organizmu. Praca u podstaw — edukacja i pomoc najuboższym warstwom (chłopi, kobiety)." }
+    ]
+  }
+}
