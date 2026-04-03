@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "barok",
+    "data": {
+      "contentType": "text",
+      "text": "## Barok — piękno, które boli\n\nRenesans mówił: \"Świat jest harmonijny\". Barok odpowiedział: \"Naprawdę? To czemu wszystko umiera?\"\n\nXVII wiek to czas wojen, epidemii i religijnych konfliktów. Literatura baroku jest pełna kontrastów — przepych obok śmierci, mistycyzm obok zmysłowości, zachwyt życiem obok obsesji na punkcie przemijania.\n\n**Vanitas** (marność) — oto kluczowy motyw. *\"Vanitas vanitatum et omnia vanitas\"* — \"Marność nad marnościami i wszystko marność\" (z *Księgi Koheleta*). Daniel Naborowski pisał: *\"Krótkość żywota\"* — utwór, w którym każdy wers przypomina, że życie jest ulotne jak dym.\n\n**Konceptyzm** — to nurt, który kochał zaskoczenie. Poeta barokowy budował **koncept** — zaskakujące zestawienie, paradoks, intelektualną zagadkę. Jan Andrzej Morsztyn, mistrz **marinizmu** (wirtuozerii językowej), potrafił porównać miłość do wojny, a łzę kochanki do perły. Celem nie było mówić prosto, lecz mówić błyskotliwie."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "barok",
+    "data": {
+      "contentType": "text",
+      "text": "## Sarmatyzm — polskie oblicze baroku\n\nTeraz coś typowo polskiego. Szlachta polska XVII wieku wytworzyła własną ideologię — **sarmatyzm**. Wierzyli, że pochodzą od starożytnych Sarmatów (wojowniczego ludu). To dawało im poczucie wyjątkowości i prawa do rządzenia.\n\nSarmata to postać pełna sprzeczności:\n- Odważny i waleczny, ale też zaściankowy\n- Pobożny katolik, ale też lubiący ucztować\n- Patriota, ale też broniący swoich przywilejów za wszelką cenę\n\n**Jan Chryzostom Pasek** w *Pamiętnikach* zostawił autoportret sarmaty — barwny, chwilami zabawny, chwilami przerażający. Pasek z dumą opisuje swoje pojedynki i przygody, nie zdając sobie sprawy, że ujawnia własną bufonaderię.\n\n**Wacław Potocki** to druga strona medalu — w *Moraliach* krytykował wady szlachty (pijaństwo, ksenofobię, przekupstwo), a w *Wojnie chocimskiej* stworzył epos gloryfikujący rycerskie cnoty. Ciekawe, prawda? Jeden autor potrafi być jednocześnie piewcą i krytykiem sarmatyzmu."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "barok",
+    "data": {
+      "contentType": "quiz",
+      "text": "Na czym polegał konceptyzm w literaturze baroku? Podaj przykład.",
+      "answer": "Konceptyzm to nurt opierający się na koncepcie — zaskakującym pomyśle poetyckim, paradoksie, kunsztownym zestawieniu pozornie odległych rzeczy. Np. Morsztyn w sonecie *Do trupa* porównuje zakochanego do trupa — obaj leżą bez ruchu, ale trup ma lepiej, bo nie cierpi. Celem było olśnić czytelnika intelektualną błyskotliwością."
+    }
+  }
+]
