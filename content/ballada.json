@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "ballada",
+    "data": {
+      "contentType": "text",
+      "text": "## Ballada — gatunek, który otworzył romantyzm\n\nRok 1822. Mickiewicz publikuje *Ballady i romanse*. To nie jest po prostu tomik wierszy — to **manifest**. Początek romantyzmu w Polsce.\n\nDlaczego akurat ballada? Bo jest z natury **synkretyczna** — łączy trzy rodzaje literackie:\n- **Lirykę** — nastrój, emocje, tajemniczość\n- **Epikę** — opowiada historię, ma fabułę\n- **Dramat** — zawiera dialogi postaci\n\nTo połączenie jest idealne dla romantyzmu, który odrzucał klasycystyczny porządek i sztywne podziały gatunkowe. Ballada jest dzika, ludowa, nieuporządkowana — jak samo życie.\n\nI jeszcze jedno: ballada czerpie z **tradycji ludowej**. Romantycy wierzyli, że prosty lud — chłopi, wieśniacy — jest bliżej prawdy niż uczeni filozofowie. Lud wierzy w duchy, czary, sprawiedliwość nadprzyrodzoną. I ta wiara — twierdzili romantycy — jest formą mądrości."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "ballada",
+    "data": {
+      "contentType": "text",
+      "text": "## Romantyczność i ballady Mickiewicza\n\n*Romantyczność* to programowy utwór epoki. Karusia widzi ducha zmarłego kochanka — uczony (Starzec) mówi, że to niemożliwe. Ale poeta staje po stronie Karusi: *\"Czucie i wiara silniej mówi do mnie / Niż mędrca szkiełko i oko\"*.\n\nTo nie jest antynaukowa deklaracja. To powiedzenie: **istnieją prawdy, do których nie dociera rozum**. Serce widzi to, czego rozum nie ogarnia.\n\nInne ballady Mickiewicza, które warto znać:\n- *Świteź* — jezioro skrywa zatopione miasto, dziewczęta zamienione w lilie karzą zdrajców\n- *Świtezianka* — zdrada przysięgi prowadzi do śmierci\n- *Lilie* — żona-morderczyni karana nadprzyrodzoną mocą\n\nWe wszystkich balladach obowiązuje ta sama zasada: **wina domaga się kary**, a kara przychodzi z porządku nadprzyrodzonego. Ludowa sprawiedliwość jest bezwzględna — ale sprawiedliwa.\n\nNa maturze pamiętaj: ballada to gatunek **synkretyczny** i **ludowy**, a *Romantyczność* to manifest, który definiuje stosunek romantyków do świata: uczucie i wiara ponad rozum."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "ballada",
+    "data": {
+      "contentType": "quiz",
+      "text": "Dlaczego ballada jest nazywana gatunkiem synkretycznym? Jak ten synkretyzm widać w *Romantyczności* Mickiewicza?",
+      "answer": "Ballada jest synkretyczna, bo łączy elementy trzech rodzajów literackich: liryki (nastrojowość, emocje — tajemnicza atmosfera spotkania Karusi z duchem), epiki (fabuła — historia dziewczyny widzącej zmarłego kochanka) i dramatu (dialogi — rozmowa Karusi ze Starcem i tłumem). W Romantyczności synkretyzm służy zderzeniu dwóch postaw: racjonalnej (Starzec) i intuicyjno-uczuciowej (Karusia), z wyraźnym opowiedzeniem się poety po stronie uczucia."
+    }
+  }
+]
