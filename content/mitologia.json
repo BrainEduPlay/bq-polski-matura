@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "mitologia",
+    "data": {
+      "contentType": "text",
+      "text": "## Mitologia — opowieści, które nie chcą umrzeć\n\nGrecy nie mieli Biblii. Mieli mity — opowieści o bogach, herosach i stworzeniu świata, które wyjaśniały wszystko: dlaczego słońce wschodzi, czemu ludzie cierpią, skąd bierze się ogień.\n\nAle mit to nie bajka. Mit odpowiada na pytania, na które nauka nie potrafi odpowiedzieć: **co to znaczy być człowiekiem?** I dlatego mity przetrwały tysiąclecia — bo te pytania wciąż są aktualne.\n\nCztery mity, które musisz znać na maturę:\n\n- **Prometeusz** — tytan, który ukradł bogom ogień i dał go ludziom. Zeus ukarał go wiecznym cierpieniem (orzeł wyjadający wątrobę). Prometeusz to **archetyp buntownika** — cierpi za ludzkość, rzuca wyzwanie porządkowi świata.\n- **Syzyf** — skazany na wtaczanie głazu na górę. Głaz spada, Syzyf zaczyna od nowa. W XX wieku Camus uczynił go **bohaterem absurdu** — Syzyf jest szczęśliwy, bo znalazł sens w samym działaniu.\n- **Ikar** — syn Dedala, poleciał za blisko słońca, wosk stopił skrzydła, spadł do morza. Symbol **ludzkiej hybris** — ambicji, która przekracza granice.\n- **Mit trojański** — 10 lat wojny o piękną Helenę. Honor, zdrada, fatum, herojska śmierć — to fundament *Iliady*."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "mitologia",
+    "data": {
+      "contentType": "text",
+      "text": "## Archetypy — mitologia jako alfabet kultury\n\nZwróć uwagę na coś ważnego: prawie każdy wielki bohater literacki jest echem mitu.\n\n- Konrad w *Dziadach cz. III* to **Prometeusz** — buntuje się przeciw Bogu w imię narodu\n- Wokulski w *Lalce* to trochę **Ikar** — leci za wysoko (miłość do arystokratki), spada\n- Meursault u Camusa to **Syzyf** — żyje w absurdalnym świecie, ale nie ucieka od niego\n\nDlatego CKE wymaga znajomości mitologii. Nie jako ciekawostki, ale jako **kodu kulturowego**. Kiedy autor pisze \"prometejski bunt\", oczekuje, że wiesz, co to znaczy. Kiedy krytyk mówi \"syzyf owa praca\", zakłada, że rozumiesz mit.\n\nMitologia to alfabet — bez niego nie przeczytasz literatury europejskiej.\n\nCo warto zapamiętać: mity greckie nie są zamkniętymi opowieściami. Są **archetypami** — uniwersalnymi wzorcami, które każda epoka przepisuje na nowo. Sofokles napisał o Edypie, Freud użył jego imienia do opisania kompleksu. Prometeusz był tytanem — stał się symbolem romantyzmu. Syzyf był skazańcem — stał się bohaterem egzystencjalizmu."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "mitologia",
+    "data": {
+      "contentType": "quiz",
+      "text": "Wyjaśnij, dlaczego postać Prometeusza stała się wzorem dla bohatera romantycznego. Podaj literacki przykład.",
+      "answer": "Prometeusz to buntownik, który cierpi za ludzkość — ukradł bogom ogień, żeby dać go ludziom, i został za to ukarany wieczną męką. Romantyczny bohater działa tak samo: samotny geniusz rzuca wyzwanie porządkowi świata (Bogu, tyranowi) w imię zbiorowości. Przykład: Konrad w Wielkiej Improwizacji (Dziady cz. III) — żąda od Boga władzy nad uczuciami ludzkimi, chce samodzielnie zbawić naród, jest gotów cierpieć. To prometeizm w czystej postaci."
+    }
+  }
+]
