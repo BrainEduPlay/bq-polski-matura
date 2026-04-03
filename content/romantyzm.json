@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "romantyzm",
+    "data": {
+      "contentType": "text",
+      "text": "## Romantyzm — serce przeciw rozumowi\n\nWyobraź sobie Europę po rewolucji francuskiej. Rozum miał przynieść wolność i szczęście — a przyniósł gilotynę i Napoleona. Ludzie poczuli, że oświeceniowy racjonalizm ich zawiódł. I wtedy eksplodował romantyzm.\n\n**Uczucie ponad rozum** — to hasło numer jeden. Mickiewicz w *Romantyczności* napisał wprost: *\"Czucie i wiara silniej mówi do mnie / Niż mędrca szkiełko i oko\"*. Dla romantyków serce, intuicja, wiara widzą prawdy niedostępne nauce.\n\nAle polski romantyzm to nie tylko uczucia — to **walka o wolność**. Po **rozbiorach** (1772—1795) Polska zniknęła z mapy. Wielcy poeci tworzyli na **emigracji**, pisząc dla narodu, który nie miał państwa. I tu pojawia się słowo-klucz: **mesjanizm** — wiara, że cierpienie Polski ma sens odkupicielski. Polska to \"Chrystus narodów\" — cierpi, ale zmartwychwstanie, i to zmartwychwstanie przyniesie wolność wszystkim ludom.\n\nBrzmi jak szaleństwo? Może. Ale dało to energię pokoleniu, które nie miało powodu do nadziei."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "romantyzm",
+    "data": {
+      "contentType": "text",
+      "text": "## Wielka Trójca wieszczów\n\nTrzech gigantów. Trzech emigrantów. Trzech wizjonerów.\n\n**Adam Mickiewicz** — wieszcz narodowy. *Dziady cz. III* (dramat o cierpieniu narodu, **prometeizm** Konrada, **mesjanizm**). *Pan Tadeusz* — ostatni wielki epos europejski, poemat nostalgii za utraconą ojczyzną. Mickiewicz potrafił być jednocześnie buntownikiem i elegikiem.\n\n**Juliusz Słowacki** — mistrz języka i wyobraźni. *Kordian* — dramat o młodym patriocie, który chce zabić cara, ale nie potrafi działać. *Balladyna* — mroczna baśń o władzy i zbrodni. Słowacki pisał piękniej niż Mickiewicz, ale Mickiewicz miał większą siłę profetyczną.\n\n**Zygmunt Krasiński** — \"poeta arystokrata\". *Nie-Boska Komedia* — prorocza wizja rewolucji i konfliktu klasowego, który zniszczy stary świat, ale nie stworzy lepszego.\n\nKażdy z nich podchodził do romantyzmu inaczej, ale łączyła ich jedna rzecz: pisali, jakby od ich słów zależał los narodu. I w pewnym sensie — zależał."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "romantyzm",
+    "data": {
+      "contentType": "quiz",
+      "text": "Wyjaśnij, czym jest mesjanizm i prometeizm w kontekście polskiego romantyzmu. Czym się różnią?",
+      "answer": "Mesjanizm to wiara, że Polska — \"Chrystus narodów\" — cierpi za inne narody, a jej cierpienie doprowadzi do zmartwychwstania i wyzwolenia. Prometeizm to postawa buntu jednostki przeciwko porządkowi świata (Bogu) w imię zbiorowości — jak Konrad w Wielkiej Improwizacji, który żąda władzy nad uczuciami ludzkimi. Mesjanizm jest pokorny (przez cierpienie do zbawienia), prometeizm jest buntowniczy (jednostka rzuca wyzwanie Bogu)."
+    }
+  }
+]
