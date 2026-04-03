@@ -4,7 +4,7 @@
     "parentRef": "tragedia",
     "data": {
       "contentType": "text",
-      "text": "## Tragedia — gatunek, który czyści duszę\n\nWyobraź sobie Ateny, V wiek p.n.e. Wielkie Dionizje — festiwal teatralny. 15 000 widzów na kamiennych ławach. Na scenie aktor w masce mówi coś, od czego ściska się żołądek. Widzowie płaczą. I wychodzą z teatru... lepsi.\n\nJak to możliwe? **Arystoteles** wyjaśnił to w *Poetyce*: tragedia to naśladowanie działania poważnego, które przez wzbudzenie **litości** (dla bohatera) i **trwogi** (bo to mogłoby spotkać i nas) prowadzi do **katharsis** — oczyszczenia emocji. Przeżywasz horror w bezpiecznych warunkach i wychodzisz z niego wyzwolony.\n\nKlasyczna tragedia grecka trzyma się **trzech jedności**:\n- **Czasu** — akcja trwa maksymalnie jedno okrążenie słońca (24h)\n- **Miejsca** — wszystko dzieje się w jednej lokalizacji\n- **Akcji** — jeden wątek główny, bez dygresji\n\nTe reguły to nie kaprys — to dyscyplina. Tragedia musi być zwarta jak pięść, bo chodzi o **intensywność**, nie o epicką rozciągłość."
+      "text": "## 15 000 ludzi płacze i wychodzi lepszych?\n\nAteny, V w. p.n.e. Tłum na kamiennych ławach. Aktor w masce mówi coś strasznego. Widzowie płaczą. I wychodzą oczyszczeni.\n\n**Arystoteles** nazwał to **katharsis**. Tragedia budzi **litość** i **trwogę**. Przeżywasz horror w bezpiecznych warunkach — i wychodzisz wolny."
     }
   },
   {
@@ -12,7 +12,15 @@
     "parentRef": "tragedia",
     "data": {
       "contentType": "text",
-      "text": "## Bohater tragiczny — szlachetny i skazany\n\nDlaczego tragedia \"działa\"? Bo jej bohater nie jest ani świętym, ani łotrem. Jest **szlachetny, ale obciążony hamartią** — błędem tragicznym.\n\n**Hamartia** — to kluczowy termin. Nie chodzi o grzech ani o świadome zło. Hamartia to błąd wynikający z ludzkiej ograniczoności — Edyp szuka mordercy, nie wiedząc, że to on sam. Antygona nie widzi, że Kreon też ma racje. Kreon nie widzi, że jest ślepy na racje Antygony.\n\nCzęsto hamartii towarzyszy **hybris** — pycha. Bohater wierzy, że jest mądrzejszy od losu, silniejszy od bogów, bardziej prawy niż inni. I to go niszczy.\n\n**Konflikt tragiczny** — zderzenie dwóch równorzędnych racji (prawo boskie vs. prawo ludzkie, obowiązek vs. uczucie). Nie ma dobrego wyjścia — każdy wybór prowadzi do katastrofy.\n\n**Ironia tragiczna** — widz wie więcej niż bohater. Kiedy Edyp mówi \"znajdę mordercę\", widownia wie, że szuka samego siebie.\n\n**Chór** — głos wspólnoty, komentator, moralne sumienie. Mówi to, co widzowie czują, ale bohater nie chce słyszeć.\n\nTragedia nie daje pocieszenia. Daje coś cenniejszego — **zrozumienie, że świat jest tragiczny, i odwagę, żeby w nim żyć**."
+      "text": "## Trzy reguły, zero dygresji\n\nKlasyczna tragedia grecka = **trzy jedności**:\n- **Czasu** — maks 24h\n- **Miejsca** — jedna lokalizacja\n- **Akcji** — jeden wątek\n\nTo nie kaprys. Chodzi o **intensywność**. Jeden dzień. Jedno miejsce. Jeden problem. Pełna moc."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "tragedia",
+    "data": {
+      "contentType": "text",
+      "text": "## Szlachetny i mądry — a jednak skazany\n\nBohater tragiczny nie jest zły. Ma **hamartię** — błąd z ludzkiej ślepoty. Edyp szuka mordercy, nie wiedząc, że to on.\n\n**Hybris** — pycha wobec losu. **Konflikt tragiczny** — dwie równe racje, każdy wybór = katastrofa. **Ironia tragiczna** — widz wie więcej niż bohater."
     }
   },
   {
@@ -20,8 +28,8 @@
     "parentRef": "tragedia",
     "data": {
       "contentType": "quiz",
-      "text": "Czym jest katharsis według Arystotelesa i jaką rolę pełni w tragedii?",
-      "answer": "Katharsis to oczyszczenie emocji (litości i trwogi) przez przeżycie tragedii. Widz współczuje bohaterowi (litość) i boi się, że podobny los mógłby go spotkać (trwoga). Przeżywając te emocje w bezpiecznych warunkach teatru, zostaje z nich wyzwolony. Katharsis jest celem tragedii — nie rozrywka, lecz duchowe oczyszczenie."
+      "text": "Czym jest katharsis i dlaczego to cel tragedii?",
+      "answer": "**Katharsis** to oczyszczenie emocji — **litości** i **trwogi** — przez przeżycie tragedii. Widz współczuje bohaterowi i boi się podobnego losu. Wychodzi z teatru wyzwolony."
     }
   }
 ]
