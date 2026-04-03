@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "biblia",
+    "data": {
+      "contentType": "text",
+      "text": "## Biblia — księga, która stworzyła kulturę zachodnią\n\nNawet jeśli nie jesteś osobą wierzącą, nie da się zrozumieć literatury europejskiej bez Biblii. To nie jest tylko tekst religijny — to **fundament kultury**: źródło archetypów, gatunków, motywów i fraz, które przenikają wszystko, co napisano w Europie przez 2000 lat.\n\n**Stary Testament** — najważniejsze księgi:\n- *Księga Rodzaju* — stworzenie świata, raj utracony, Kain i Abel (pierwszy mord), potop\n- *Psalmy* — pieśni pochwalne i błagalne. Gatunek, który przetrwał do dziś\n- *Pieśń nad Pieśniami* — erotyczny poemat miłosny (tak, to jest w Biblii!)\n- *Księga Hioba* — cierpienie sprawiedliwego. Hiob pyta: \"Dlaczego cierpię, skoro jestem niewinny?\" Bóg nie odpowiada wprost.\n- *Księga Koheleta* — \"Vanitas vanitatum et omnia vanitas\" — marność nad marnościami\n\n**Nowy Testament** — Ewangelie, Listy, Apokalipsa:\n- **Przypowieści** (parabole) — krótkie opowieści z morałem. Syn marnotrawny, Dobry Samarytanin, O siewcy.\n- **Apokalipsa** — wizja końca świata i Sądu Ostatecznego\n\nGatunki biblijne, które CKE uwielbia: **psalm**, **przypowieść** (parabola), **hymn**, **lamentacja**, **apokalipsa**."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "biblia",
+    "data": {
+      "contentType": "text",
+      "text": "## Motywy biblijne — klucz do literatury\n\nTeraz odkryjmy, jak Biblia żyje w literaturze. Te motywy powtarzają się przez wieki:\n\n- **Raj utracony** — tęsknota za stanem niewinności. Milton napisał cały epos (*Raj utracony*). Mickiewicz w *Panu Tadeuszu* tworzy \"raj\" litewskiego dzieciństwa.\n- **Hiob** — cierpienie sprawiedliwego i pytanie o **teodyce** (dlaczego Bóg dopuszcza zło?). Kochanowski w *Trenach* jest jak Hiob — pyta, dlaczego stracił Urszulkę.\n- **Vanitas** — marność i przemijanie. Z *Koheleta* prosto do **baroku** — Naborowski, Morsztyn, Szarzyński. Motyw vanitas mówi: nic, co ziemskie, nie jest trwałe.\n- **Apokalipsa** — wizja końca i sądu. Krasiński w *Nie-Boskiej Komedii*, Miłosz w *Piosence o końcu świata*.\n- **Syn marnotrawny** — odejście, upadek, powrót, przebaczenie. Archetyp nawrócenia.\n- **Homo viator** — człowiek jako pielgrzym, podróżnik przez życie ku wieczności.\n\nZasada maturalna: kiedy widzisz motyw biblijny w tekście, **nazwij go** i wskaż, jak autor go **przetwarza**. CKE nagradza rozpoznawanie kontekstów — a Biblia jest kontekstem numer jeden."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "biblia",
+    "data": {
+      "contentType": "quiz",
+      "text": "Co oznacza motyw vanitas i w której epoce był szczególnie eksploatowany? Podaj przykład literacki.",
+      "answer": "Vanitas (z łac. 'marność') to motyw wywodzący się z Księgi Koheleta: \"Vanitas vanitatum et omnia vanitas\" — marność nad marnościami. Oznacza refleksję nad przemijaniem, ulotnością życia i nicością dóbr doczesnych. Był szczególnie popularny w baroku (XVII w.), epoce kontrastów między przepychem a śmiercią. Przykład: Daniel Naborowski w wierszu Krótkość żywota — każdy wers przypomina o ulotności ludzkiego istnienia."
+    }
+  }
+]
