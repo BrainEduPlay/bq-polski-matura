@@ -4,7 +4,7 @@
     "parentRef": "dziady3",
     "data": {
       "contentType": "text",
-      "text": "## Dziady cz. III — kiedy poeta rzuca wyzwanie Bogu\n\nParyż, 1832 rok. Mickiewicz pisze w gorączce, pod wpływem klęski powstania listopadowego. Powstaje dramat, który zmieni polską literaturę — *Dziady część III*.\n\nGustaw — romantyczny kochanek z wcześniejszych części — **przemienia się w Konrada**, buntownika i patriotę. I w celi wileńskiego więzienia wygłasza **Wielką Improwizację** — monolog, jakiego nie było w literaturze.\n\nCo Konrad robi? **Żąda od Boga władzy nad ludzkimi uczuciami**, żeby samodzielnie zbawić naród. Mówi: \"Ja i ojczyzna to jedno\" — utożsamia się z milionami cierpiących Polaków. Chce być jak **Prometeusz** — samotny geniusz, który kradnie ogień bogom dla ludzkości.\n\nTo jest **prometeizm** w najczystszej postaci: bunt jednostki przeciwko porządkowi świata w imię zbiorowości. Ale Mickiewicz nie pozwala Konradowi wygrać. W ostatnim momencie, tuż przed bluźnierstwem, głos Konrada gaśnie. Pycha (**hybris**) nie jest drogą do zbawienia."
+      "text": "## Facet w celi krzyczy na Boga. I to jest arcydzieło.\n\nParyż, 1832. Klęska powstania. Mickiewicz pisze w gorączce. Gustaw — romantyczny kochanek — przemienia się w **Konrada**, buntownika. W celi wileńskiego więzienia wygłasza **Wielką Improwizację**: żąda od Boga władzy nad ludzkimi uczuciami. Chce samodzielnie zbawić naród."
     }
   },
   {
@@ -12,7 +12,15 @@
     "parentRef": "dziady3",
     "data": {
       "contentType": "text",
-      "text": "## Mesjanizm i Widzenie księdza Piotra\n\nJeśli Wielka Improwizacja to bunt, to **Widzenie księdza Piotra** to jego przeciwieństwo — **pokora**. Pokorny, prosty kapłan — nie pyszny geniusz — otrzymuje wizję przyszłości.\n\nI ta wizja to serce polskiego **mesjanizmu**: Polska jest jak Chrystus. Została ukrzyżowana (rozbiory), ale zmartwychwstanie — i to zmartwychwstanie przyniesie wolność nie tylko Polakom, ale wszystkim ludom.\n\nMickiewicz buduje tu teologię narodu:\n- Polska = **Chrystus narodów** (cierpi niewinnie za innych)\n- Rozbiory = ukrzyżowanie\n- Przyszłe odrodzenie = zmartwychwstanie\n\nSceny więzienne w Wilnie to **martyrologia** — opisy cierpień polskiej młodzieży prześladowanej przez senatora **Nowosilcowa**. Cichowski, który zwariował od tortur. Rollison, którego matka szuka po celach. To konkretni ludzie, konkretne biografie.\n\nDlaczego to ważne na maturze? Bo *Dziady cz. III* łączą **prometeizm** (bunt Konrada), **mesjanizm** (wizja ks. Piotra) i **realizm historyczny** (sceny więzienne). Trzy warstwy, jeden dramat."
+      "text": "## \"Ja i ojczyzna to jedno\" — ale czy na pewno?\n\nKonrad to **prometeizm** w czystej postaci: samotny geniusz kradnie ogień bogom dla ludzkości. Problem? **Hybris** — pycha. Konrad utożsamia się z milionami, ale tak naprawdę stawia siebie ponad wszystko. W ostatnim momencie, tuż przed bluźnierstwem, jego głos gaśnie. Bunt przegrał."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "dziady3",
+    "data": {
+      "contentType": "text",
+      "text": "## A wizję dostaje cichy ksiądz, nie buntownik\n\nKsiądz Piotr — pokorny, prosty — widzi przyszłość: Polska to **Chrystus narodów**. Ukrzyżowana (rozbiory), ale zmartwychwstanie i da wolność wszystkim ludom. To serce **mesjanizmu**. Pokora prowadzi do prawdy, pycha — do klęski. Konrad kontra ks. Piotr to klucz do dramatu."
     }
   },
   {
@@ -20,8 +28,8 @@
     "parentRef": "dziady3",
     "data": {
       "contentType": "quiz",
-      "text": "Porównaj postawę Konrada z postawą księdza Piotra w *Dziadach cz. III*. Która z nich prowadzi do wizji mesjanistycznej i dlaczego?",
-      "answer": "Konrad to prometejski buntownik — w Wielkiej Improwizacji pysznie żąda od Boga mocy, utożsamia się z narodem, chce samodzielnie go zbawić. Jego hybris prowadzi do porażki. Ksiądz Piotr — pokorny i prosty — otrzymuje wizję mesjanistyczną właśnie dzięki pokorze. Mickiewicz pokazuje, że droga do zbawienia narodu wiedzie przez pokorę i cierpienie (jak Chrystus), nie przez prometejską pychę."
+      "text": "Porównaj postawę Konrada i księdza Piotra. Która prowadzi do wizji mesjanistycznej i dlaczego?",
+      "answer": "Konrad to **prometejski** buntownik — pysznie żąda mocy od Boga i przegrywa. Ksiądz Piotr dzięki pokorze otrzymuje wizję **mesjanizmu**: Polska jak Chrystus zmartwychwstanie. Mickiewicz pokazuje, że zbawienie narodu wiedzie przez pokorę, nie pychę."
     }
   }
 ]
