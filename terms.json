@@ -1,0 +1,1413 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "ironia tragiczna",
+      "forms": ["ironii tragicznej", "ironią tragiczną", "ironię tragiczną"],
+      "nodes": ["antyk", "antygona"],
+      "definition": "Widz wie więcej niż bohater — Edyp szuka mordercy, a to on sam.",
+      "quiz": {
+        "question": "Widz wie, że Edyp zabił ojca — bohater nie wie. Jak nazywamy tę sytuację dramatyczną?",
+        "hint": "Widz zna prawdę, bohater nie — ta rozbieżność napędza dramat.",
+        "wrong": ["hamartia", "katharsis", "hybris", "fatum"],
+        "answer": "Ironia tragiczna to sytuacja, gdy widz wie więcej niż bohater — np. Edyp szuka mordercy ojca, nie wiedząc, że to on sam. Ten zabieg potęguje napięcie i litość widza. Na maturze pojawia się przy Antygonie i Królu Edypie."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "tragedia",
+      "forms": ["tragedii", "tragedię", "tragiczny", "tragiczna"],
+      "nodes": ["antyk", "antygona", "makbet"],
+      "definition": "Sztuka o upadku bohatera — kończy się źle, widz płacze i czuje ulgę.",
+      "quiz": {
+        "question": "Sofokles pisał sztuki, w których szlachetny bohater upada — widz przeżywa litość i trwogę. Jaki to gatunek?",
+        "hint": "Gatunek dramatyczny o upadku szlachetnego bohatera, kończy się katastrofą.",
+        "wrong": ["epos", "komedia", "ballada", "dramat"],
+        "answer": "Tragedia to gatunek dramatyczny, w którym bohater o wysokim statusie popada w nieszczęście przez hamartię. Cel: katharsis — oczyszczenie emocji widza. Arystoteles opisał reguły w Poetyce. Sofokles, Szekspir — wszyscy stosowali ten wzorzec."
+      },
+      "content": [
+        "## 15 000 ludzi płacze i wychodzi lepszych?\n\nAteny, V w. p.n.e. Tłum na kamiennych ławach. Aktor w masce mówi coś strasznego. Widzowie płaczą. I wychodzą oczyszczeni.\n\n**Arystoteles** nazwał to **katharsis**. Tragedia budzi **litość** i **trwogę**. Przeżywasz horror w bezpiecznych warunkach — i wychodzisz wolny.",
+        "## Trzy reguły, zero dygresji\n\nKlasyczna tragedia grecka = **trzy jedności**:\n- **Czasu** — maks 24h\n- **Miejsca** — jedna lokalizacja\n- **Akcji** — jeden wątek\n\nTo nie kaprys. Chodzi o **intensywność**. Jeden dzień. Jedno miejsce. Jeden problem. Pełna moc.",
+        "## Szlachetny i mądry — a jednak skazany\n\nBohater tragiczny nie jest zły. Ma **hamartię** — błąd z ludzkiej ślepoty. Edyp szuka mordercy, nie wiedząc, że to on.\n\n**Hybris** — pycha wobec losu. **Konflikt tragiczny** — dwie równe racje, każdy wybór = katastrofa. **Ironia tragiczna** — widz wie więcej niż bohater."
+      ]
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "komedia",
+      "forms": ["komedii", "komedię", "komediowy"],
+      "nodes": ["antyk"],
+      "definition": "Sztuka, w której jest śmiesznie i dobrze się kończy. Wymyślił Arystofanes.",
+      "quiz": {
+        "question": "Arystofanes pisał sztuki ośmieszające ludzkie wady, które kończyły się pomyślnie. Jaki to gatunek?",
+        "hint": "Gatunek dramatyczny — śmiech z wad, szczęśliwe zakończenie.",
+        "wrong": ["tragedia", "farsa", "ballada", "satyra"],
+        "answer": "Komedia to gatunek dramatyczny o pomyślnym zakończeniu, ośmieszający ludzkie wady. Arystofanes w Atenach V w. p.n.e. wyśmiewał polityków i filozofów. W przeciwieństwie do tragedii — komedia nie budzi litości, lecz śmiech."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "epos",
+      "forms": ["eposu", "eposem", "epopeja", "epopei"],
+      "nodes": ["antyk", "iliada"],
+      "definition": "Długi poemat o wielkich bohaterach i bitwach — Homer wymyślił reguły.",
+      "quiz": {
+        "question": "Homer napisał obszerny poemat o bohaterach i bogach, z inwokacją i stałymi epitetami. Jaki to gatunek?",
+        "hint": "Wielki poemat wierszem o bohaterach, bitwach i losach narodu.",
+        "wrong": ["tragedia", "ballada", "sonet", "oda"],
+        "answer": "Epos to rozbudowany poemat epicki o bohaterach i ich czynach. Homer ustalił konwencje: inwokacja, in medias res, narrator wszechwiedzący, stałe epitety. Mickiewicz w Panu Tadeuszu napisał ostatni wielki epos europejski."
+      },
+      "content": [
+        "## Każdy naród potrzebuje historii o sobie\n\nGrecy mieli *Iliadę*. Rzymianie *Eneidę*. Polacy — *Pana Tadeusza*. **Epos** to wielka opowieść wierszem: \"Oto kim jesteśmy jako wspólnota\".\n\nBohaterowie walczą i umierają, ale prawdziwy temat to **tożsamość narodu**.",
+        "## Zasady eposu — złam je i to nie epos\n\n- **Inwokacja** — wezwanie muzy. \"Litwo! Ojczyzno moja!\"\n- **In medias res** — start w środku akcji\n- **Narrator wszechwiedzący** — zna myśli bohaterów\n- **Stały epitet** — Achilles \"szybkonogi\"\n- **Porównanie homeryckie** — rozbudowane, wielopoziomowe",
+        "## Ostatni epos Europy — i najbardziej dziwny\n\nMickiewicz pisał *Pana Tadeusza* w Paryżu, tęskniąc za światem, który zniknął. Zachował **inwokację**, opisy przyrody, uczty — ale nasycił je **nostalgią emigranta**.\n\nHomer opiewał wojnę. Mickiewicz opiewa codzienność — bo wie, że jest cenniejsza."
+      ]
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "liryka",
+      "forms": ["liryki", "liryką", "liryczny", "liryczna"],
+      "nodes": ["antyk"],
+      "definition": "Wiersz wyrażający uczucia. W antyku śpiewano go przy lirze.",
+      "quiz": {
+        "question": "Safona przy akompaniamencie liry wyrażała uczucia podmiotu mówiącego. Jaki rodzaj literacki uprawiała?",
+        "hint": "Rodzaj literacki wyrażający uczucia i przeżycia podmiotu.",
+        "wrong": ["epika", "dramat", "retoryka", "epos"],
+        "answer": "Liryka to rodzaj literacki, w którym podmiot mówiący wyraża swoje uczucia i przeżycia. Nazwa od liry — instrumentu towarzyszącego śpiewowi w starożytnej Grecji. Safona uważana za jedną z pierwszych poetek lirycznych."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "kalokagathia",
+      "forms": ["kalokagathii", "kalokagathią"],
+      "nodes": ["antyk"],
+      "definition": "Grecki ideał: piękne ciało + szlachetna dusza = pełny człowiek.",
+      "quiz": {
+        "question": "Grecy wierzyli, że piękno ciała i szlachetność duszy muszą iść w parze. Jakim terminem to określali?",
+        "hint": "Grecki ideał harmonii piękna fizycznego i moralnego.",
+        "wrong": ["arete", "katharsis", "hybris", "antropocentryzm"],
+        "answer": "Kalokagathia to grecki ideał łączący piękno fizyczne (kalos) z dobrem moralnym (kagathos). Pełny człowiek musi być piękny i szlachetny jednocześnie. Ten ideał wraca w renesansie jako wzorzec człowieka wszechstronnego."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "arete",
+      "forms": ["aretę"],
+      "nodes": ["antyk", "iliada"],
+      "definition": "Grecka cnota — bycie najlepszym w tym, co robisz: w walce, mowie, myśli.",
+      "quiz": {
+        "question": "Achilles dążył do doskonałości w walce, Odys — w sprycie. Jakim greckim pojęciem określamy tę cnotę?",
+        "hint": "Grecka cnota — dążenie do doskonałości w swoim działaniu.",
+        "wrong": ["kalokagathia", "hybris", "fatum", "katharsis"],
+        "answer": "Arete to grecka cnota oznaczająca dążenie do doskonałości — Achilles w walce, Odys w sprycie, Hektor w honorze. Każdy bohater Iliady realizuje arete na swój sposób. To fundament greckiego systemu wartości."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "fatum",
+      "forms": ["fata", "fatalizm", "fatalny"],
+      "nodes": ["antyk", "antygona", "iliada"],
+      "definition": "Los wyznaczony przez bogów, którego nie da się uniknąć. Napędza tragedie.",
+      "quiz": {
+        "question": "Achilles wie, że zginie pod Troją, ale i tak walczy. Co nim rządzi?",
+        "hint": "Nieuchronny los wyznaczony przez bogów — nie da się go uniknąć.",
+        "wrong": ["hybris", "hamartia", "arete", "katharsis"],
+        "answer": "Fatum to przeznaczenie, los wyznaczony przez siły wyższe, którego nie można uniknąć. Achilles wie, że zginie pod Troją — i walczy mimo to. Edyp ucieka od przepowiedni — i wpada prosto w nią. Fatum napędza tragedie greckie."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "teocentryzm",
+      "forms": ["teocentryzmu", "teocentryzmem", "teocentryczny"],
+      "nodes": ["sredniowiecze", "bogurodzica"],
+      "definition": "Bóg w centrum wszystkiego — średniowiecze kręciło się wokół wiary.",
+      "quiz": {
+        "question": "W średniowieczu Bóg był miarą wszystkich rzeczy, a sztuka służyła wierze. Jakim terminem to określamy?",
+        "hint": "Światopogląd z Bogiem w centrum — wszystko służy wierze.",
+        "wrong": ["antropocentryzm", "humanizm", "scholastyka", "racjonalizm"],
+        "answer": "Teocentryzm to światopogląd stawiający Boga w centrum wszystkiego. Sztuka, nauka, życie codzienne — wszystko podporządkowane wierze. Bogurodzica to doskonały przykład: modlitwa do Maryi jako pośredniczki. Przeciwieństwo renesansowego antropocentryzmu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "wzorce osobowe",
+      "forms": ["wzorców osobowych", "wzorcami osobowymi", "wzorzec osobowy"],
+      "nodes": ["sredniowiecze"],
+      "definition": "3 średniowieczne ideały: święty, rycerz i władca. Każdy prowadził do Boga.",
+      "quiz": {
+        "question": "Średniowiecze stawiało za przykład świętego, rycerza i władcę. Jakim terminem nazywamy te ideały?",
+        "hint": "Trzy średniowieczne ideały do naśladowania: święty, rycerz, władca.",
+        "wrong": ["teocentryzm", "kalokagathia", "archetyp", "arete"],
+        "answer": "Wzorce osobowe średniowiecza to trzy ideały: święty (np. św. Franciszek), rycerz (np. Roland) i władca (np. Karol Wielki). Każdy prowadził do Boga inną drogą — przez modlitwę, walkę lub sprawiedliwe rządy."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "antropocentryzm",
+      "forms": ["antropocentryzmu", "antropocentryzmem", "antropocentryczny"],
+      "nodes": ["renesans"],
+      "definition": "Renesans postawił człowieka w centrum — rozum i twórczość zamiast Boga.",
+      "quiz": {
+        "question": "Renesans przesunął centrum zainteresowania z Boga na człowieka i jego możliwości. Jaka to postawa?",
+        "hint": "Człowiek w centrum zainteresowania — jego rozum i godność.",
+        "wrong": ["teocentryzm", "humanizm", "racjonalizm", "empiryzm"],
+        "answer": "Antropocentryzm to postawa stawiająca człowieka w centrum zainteresowania. Renesans przesunął punkt ciężkości z Boga (teocentryzm) na ludzki rozum i twórczość. Leonardo da Vinci, Michał Anioł — ich dzieła celebrują ludzkie ciało i umysł."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "ad fontes",
+      "forms": [],
+      "nodes": ["renesans"],
+      "definition": "\"Do źródeł!\" — renesansowe hasło: wracamy do starożytnych mistrzów.",
+      "quiz": {
+        "question": "Humaniści renesansu postulowali powrót do dzieł starożytnych jako wzorców. Jakie łacińskie hasło to wyrażało?",
+        "hint": "Łacińskie hasło renesansu — powrót do źródeł antycznych.",
+        "wrong": ["docere et movere", "homo viator", "vanitas", "carpe diem"],
+        "answer": "Ad fontes (\"do źródeł\") to hasło renesansowych humanistów wzywające do powrotu do dzieł starożytnych. Zamiast średniowiecznych komentarzy — czytaj oryginały: Platona, Cycerona, Horacego. To fundament renesansowej rewolucji intelektualnej."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "humanizm",
+      "forms": ["humanizmu", "humanizmem", "humanistyczny", "humanista"],
+      "nodes": ["renesans"],
+      "definition": "Renesansowa wiara w rozum i godność człowieka. Humanista znał klasyków.",
+      "quiz": {
+        "question": "Erazm z Rotterdamu głosił wiarę w rozum i godność człowieka, czytał klasyków. Jaki to nurt?",
+        "hint": "Renesansowy nurt — wiara w rozum, godność i możliwości człowieka.",
+        "wrong": ["antropocentryzm", "racjonalizm", "empiryzm", "scholastyka"],
+        "answer": "Humanizm to renesansowy nurt intelektualny głoszący wiarę w rozum i godność człowieka. Humaniści (Erazm, Kochanowski) czytali klasyków, szukali mądrości w antyku. Kochanowski łączył humanistyczną erudycję ze stoickim spokojem."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "reformacja",
+      "forms": ["reformacji", "reformacją", "reformacyjny"],
+      "nodes": ["renesans"],
+      "definition": "Ruch XVI w. przeciw Kościołowi. W Polsce dał akt tolerancji z 1573 r.",
+      "quiz": {
+        "question": "Luter przybił 95 tez, kwestionując władzę papieża — ruch rozlał się po Europie. Jak go nazywamy?",
+        "hint": "Ruch religijny XVI w. przeciw Kościołowi — Luter, Kalwin.",
+        "wrong": ["humanizm", "scholastyka", "kontrreformacja", "konfederacja warszawska"],
+        "answer": "Reformacja to ruch religijny XVI w. zapoczątkowany przez Lutra — kwestionował władzę papieża i sprzedaż odpustów. W Polsce zaowocował Konfederacją Warszawską (1573) — aktem tolerancji religijnej, pionierskim w Europie."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "konfederacja warszawska",
+      "forms": ["konfederacji warszawskiej", "konfederacją warszawską"],
+      "nodes": ["renesans", "historia"],
+      "definition": "Akt z 1573 r. — wolność wyznania w Polsce, pionierski dokument w Europie.",
+      "quiz": {
+        "question": "W 1573 r. szlachta polska uchwaliła akt gwarantujący wolność religijną — pionierski w Europie. Jaki?",
+        "hint": "Akt tolerancji religijnej uchwalony przez polską szlachtę w 1573 r.",
+        "wrong": ["reformacja", "konstytucja", "rozbiory", "powstanie listopadowe"],
+        "answer": "Konfederacja Warszawska (1573) to akt gwarantujący wolność wyznania w Rzeczypospolitej. Pionierski dokument tolerancji w Europie, gdy na Zachodzie trwały wojny religijne. Efekt reformacji na polskim gruncie."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "vanitas",
+      "forms": ["vanitas vanitatum"],
+      "nodes": ["barok"],
+      "definition": "Motyw marności — wszystko przemija, nic nie jest trwałe. Ulubiony temat baroku.",
+      "quiz": {
+        "question": "Barokowi poeci pisali o marności dóbr ziemskich i nieuchronności śmierci. Jaki to motyw?",
+        "hint": "Motyw marności — wszystko przemija, śmierć jest pewna.",
+        "wrong": ["koncept", "marinizm", "konceptyzm", "memento mori"],
+        "answer": "Vanitas (łac. marność) to motyw barokowy — wszystko jest przemijające, bogactwo i sława to złudzenie. Naborowski w Marności pisał o znikomości dóbr ziemskich. Powiązany z memento mori — pamiętaj o śmierci."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "konceptyzm",
+      "forms": ["konceptyzmu", "konceptyzmem", "konceptystyczny"],
+      "nodes": ["barok"],
+      "definition": "Barokowy nurt: zaskocz czytelnika paradoksem i błyskotliwym zestawieniem.",
+      "quiz": {
+        "question": "Barokowy nurt poetycki opierał się na zaskakujących paradoksach i błyskotliwych zestawieniach. Jaki?",
+        "hint": "Nurt barokowy oparty na paradoksie i zaskakującym zestawieniu.",
+        "wrong": ["marinizm", "koncept", "sarmatyzm", "manieryzm"],
+        "answer": "Konceptyzm to nurt poetycki baroku oparty na zaskakujących paradoksach i pomysłowych zestawieniach (konceptach). Morsztyn w Do trupa porównuje zakochanego do nieboszczyka. Celem jest intelektualna gra z czytelnikiem."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "koncept",
+      "forms": ["konceptu", "konceptem", "koncepty"],
+      "nodes": ["barok"],
+      "definition": "Zaskakujący paradoks w wierszu barokowym — np. zakochany jak trup u Morsztyna.",
+      "quiz": {
+        "question": "Morsztyn porównuje zakochanego do trupa — zaskakuje czytelnika paradoksem. Jakim terminem to określamy?",
+        "hint": "Zaskakujący paradoks poetycki — nietypowe zestawienie.",
+        "wrong": ["konceptyzm", "marinizm", "metafora", "oksymoron"],
+        "answer": "Koncept to zaskakujący pomysł poetycki — paradoksalne zestawienie, które zmusza czytelnika do myślenia. Morsztyn w Do trupa: zakochany = trup (obaj bladzi, obaj nieczuli). Fundamentalny zabieg poezji barokowej."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "marinizm",
+      "forms": ["marinizmu", "marinizmem"],
+      "nodes": ["barok"],
+      "definition": "Barokowa poezja: ozdobna, kunsztowna, pełna efektownych metafor. W PL: Morsztyn.",
+      "quiz": {
+        "question": "Morsztyn wzorował się na włoskim poecie, pisząc kunsztowne, ozdobne wiersze pełne metafor. Jaki to nurt?",
+        "hint": "Nurt barokowej poezji — ozdobna, kunsztowna, pełna metafor.",
+        "wrong": ["konceptyzm", "sarmatyzm", "manieryzm", "klasycyzm"],
+        "answer": "Marinizm to nurt poetycki baroku, wzorowany na włoskim poecie Marinim. Cechuje go bogactwo metafor, ozdobność i wirtuozeria formalna. W Polsce Morsztyn — jego wiersze to poetyckie klejnoty, efektowne i kunsztowne."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "sarmatyzm",
+      "forms": ["sarmatyzmu", "sarmatyzmem", "sarmacki", "sarmata"],
+      "nodes": ["barok", "historia"],
+      "definition": "Ideologia szlachty XVII w. — patriotyzm, wiara i mit o przodkach Sarmatach.",
+      "quiz": {
+        "question": "Szlachta XVII w. wierzyła w pochodzenie od starożytnych Sarmatów i kultywowała tradycję. Jaka to ideologia?",
+        "hint": "Ideologia polskiej szlachty — mit o sarmackich przodkach, wiara i tradycja.",
+        "wrong": ["konceptyzm", "marinizm", "mesjanizm", "patriotyzm"],
+        "answer": "Sarmatyzm to ideologia polskiej szlachty XVII w. oparta na micie o pochodzeniu od starożytnych Sarmatów. Łączyła patriotyzm, katolicyzm i ksenofobię. Pasek w Pamiętnikach — typowy sarmata. Mickiewicz w Panu Tadeuszu idealizuje ten świat."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "mesjanizm",
+      "forms": ["mesjanizmu", "mesjanizmem", "mesjanistyczny", "mesjański"],
+      "nodes": ["romantyzm", "dziady3", "historia"],
+      "definition": "Polska cierpi jak Chrystus za inne narody i kiedyś je wyzwoli.",
+      "quiz": {
+        "question": "Polska jako Chrystus narodów — cierpi, by inne ludy mogły zmartwychwstać. Jaka to idea?",
+        "hint": "Polska jako Chrystus — cierpienie narodu ma sens zbawczy.",
+        "wrong": ["prometeizm", "egzystencjalizm", "stoicyzm", "patriotyzm"],
+        "answer": "Mesjanizm to przekonanie, że cierpienie narodu ma sens zbawczy — Polska przez rozbiory odkupia winy Europy. Mickiewicz w Widzeniu ks. Piotra: Polska jak Chrystus — ukrzyżowana, ale zmartwychwstanie. Centralna idea Dziadów cz. III."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "prometeizm",
+      "forms": ["prometeizmu", "prometeizmem", "prometejski"],
+      "nodes": ["romantyzm", "dziady3"],
+      "definition": "Bunt jednostki przeciw Bogu w imię ludzi — jak Konrad w Dziadach.",
+      "quiz": {
+        "question": "Konrad w Dziadach buntuje się przeciw Bogu, żądając władzy dla dobra narodu. Jaką postawę reprezentuje?",
+        "hint": "Bunt jednostki przeciw Bogu w imię dobra ludzkości.",
+        "wrong": ["mesjanizm", "egzystencjalizm", "stoicyzm", "dekadentyzm"],
+        "answer": "Prometeizm to postawa buntu jednostki przeciw Bogu w imię dobra ludzi — jak Prometeusz, który ukradł ogień bogom. Konrad w Wielkiej Improwizacji żąda od Boga władzy nad duszami, by zbawić naród. Postawa heroiczna, ale skazana na klęskę."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "emigracja",
+      "forms": ["emigracji", "emigracją", "emigracyjny"],
+      "nodes": ["romantyzm", "historia"],
+      "definition": "Po 1830 r. Mickiewicz, Słowacki i Chopin w Paryżu — twórczość na wygnaniu.",
+      "quiz": {
+        "question": "Po 1830 r. polscy twórcy — Mickiewicz, Słowacki, Chopin — pisali na wygnaniu w Paryżu. Jakie zjawisko?",
+        "hint": "Polscy twórcy na wygnaniu po klęsce powstania listopadowego.",
+        "wrong": ["rozbiory", "powstanie listopadowe", "martyrologia", "mesjanizm"],
+        "answer": "Wielka Emigracja to exodus polskiej elity po klęsce powstania listopadowego 1830. Mickiewicz, Słowacki, Chopin tworzyli w Paryżu arcydzieła nasycone tęsknotą za ojczyzną. Dziady cz. III i Pan Tadeusz powstały na emigracji."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "rozbiory",
+      "forms": ["rozbiorów", "rozbiorami", "rozbiorowy"],
+      "nodes": ["romantyzm", "historia"],
+      "definition": "Rosja, Prusy i Austria podzieliły Polskę (1772-1795). 123 lata bez państwa.",
+      "quiz": {
+        "question": "Trzy mocarstwa podzieliły między siebie Rzeczpospolitą w latach 1772–1795. Jak nazywamy te wydarzenia?",
+        "hint": "Trzy mocarstwa podzieliły Polskę — 123 lata bez państwa.",
+        "wrong": ["powstanie listopadowe", "powstanie styczniowe", "emigracja", "konfederacja"],
+        "answer": "Rozbiory to trzykrotny podział Rzeczypospolitej między Rosję, Prusy i Austrię (1772, 1793, 1795). 123 lata bez państwa. Kluczowy kontekst dla romantyzmu — mesjanizm, prometeizm, Wielka Emigracja — to odpowiedzi na traumę rozbiorów."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "praca organiczna",
+      "forms": ["pracy organicznej", "pracą organiczną"],
+      "nodes": ["pozytywizm"],
+      "definition": "Program pozytywistów: rozwijaj przemysł i handel, bo społeczeństwo to organizm.",
+      "quiz": {
+        "question": "Pozytywiści porównywali społeczeństwo do organizmu i chcieli rozwijać przemysł zamiast walczyć. Jaki program?",
+        "hint": "Program pozytywistów — rozwój przemysłu i handlu zamiast powstań.",
+        "wrong": ["praca u podstaw", "pozytywizm filozoficzny", "utylitaryzm", "empiryzm"],
+        "answer": "Praca organiczna to program pozytywistów porównujący społeczeństwo do organizmu — każda warstwa ma swoją funkcję, trzeba je rozwijać równomiernie. Zamiast powstań — buduj fabryki, zakłady, handel. Wokulski w Lalce próbuje to realizować."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "praca u podstaw",
+      "forms": ["pracy u podstaw", "pracą u podstaw"],
+      "nodes": ["pozytywizm"],
+      "definition": "Program pozytywistów: ucz najuboższych, buduj szkoły zamiast walczyć zbrojnie.",
+      "quiz": {
+        "question": "Pozytywiści postulowali szerzenie oświaty wśród najuboższych zamiast powstań zbrojnych. Jaki program?",
+        "hint": "Program pozytywistów — oświata i szkoły dla najuboższych.",
+        "wrong": ["praca organiczna", "pozytywizm filozoficzny", "utylitaryzm", "reformacja"],
+        "answer": "Praca u podstaw to program pozytywistów zakładający edukację najuboższych warstw społeczeństwa. Szkoły, czytelnie, kółka rolnicze zamiast walki zbrojnej. Orzeszkowa w Nad Niemnem pokazuje realizację tego ideału na wsi."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "pozytywizm filozoficzny",
+      "forms": ["pozytywizmu filozoficznego", "pozytywizmem filozoficznym"],
+      "nodes": ["pozytywizm", "filozofia"],
+      "definition": "Comte: liczy się tylko wiedza naukowa oparta na faktach i obserwacji.",
+      "quiz": {
+        "question": "Comte twierdził, że wartościowa jest wyłącznie wiedza oparta na faktach i obserwacji. Jaki to nurt?",
+        "hint": "Nurt filozoficzny Comte'a — tylko wiedza naukowa oparta na faktach.",
+        "wrong": ["empiryzm", "racjonalizm", "utylitaryzm", "scholastyka"],
+        "answer": "Pozytywizm filozoficzny to nurt Augusta Comte'a — wartościowa jest tylko wiedza naukowa, oparta na faktach i obserwacji. Odrzuca metafizykę i spekulacje. Fundament ideologiczny polskiego pozytywizmu literackiego."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powieść realistyczna",
+      "forms": ["powieści realistycznej", "powieścią realistyczną"],
+      "nodes": ["pozytywizm", "lalka"],
+      "definition": "Lustro społeczeństwa — szczegółowe opisy, psychologia, narrator wie wszystko.",
+      "quiz": {
+        "question": "Narrator wszechwiedzący, szczegółowe opisy środowiska, psychologia postaci — jak nazywamy taki typ powieści?",
+        "hint": "Typ powieści z narratorem wszechwiedzącym i szczegółowym opisem społeczeństwa.",
+        "wrong": ["powieść historyczna", "powieść tendencyjna", "powieść psychologiczna", "powieść epistolarna"],
+        "answer": "Powieść realistyczna to dominujący gatunek pozytywizmu: narrator wszechwiedzący, szczegółowe opisy, pogłębiona psychologia, tło społeczne. Lalka Prusa to arcydzieło gatunku — Warszawa jak pod mikroskopem, Wokulski pełen sprzeczności."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "docere et movere",
+      "forms": [],
+      "nodes": ["sredniowiecze", "bogurodzica"],
+      "definition": "\"Uczyć i wzruszać\" — średniowiecze: literatura ma prowadzić do zbawienia.",
+      "quiz": {
+        "question": "Średniowieczna zasada: literatura powinna jednocześnie pouczać i wzruszać odbiorcę. Jakie łacińskie hasło?",
+        "hint": "Łacińska zasada średniowiecza — literatura uczy i wzrusza.",
+        "wrong": ["ad fontes", "homo viator", "vanitas", "memento mori"],
+        "answer": "Docere et movere (uczyć i wzruszać) to średniowieczna zasada twórczości — literatura ma pouczać i poruszać emocjonalnie, prowadząc do zbawienia. Bogurodzica realizuje to idealnie: modlitwa, która wzrusza i uczy pokory."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "konflikt tragiczny",
+      "forms": ["konfliktu tragicznego", "konfliktem tragicznym"],
+      "nodes": ["antygona", "antyk"],
+      "definition": "Dwie słuszne racje zderzają się i nie da się wybrać bez katastrofy.",
+      "quiz": {
+        "question": "Antygona musi wybrać: prawo boskie czy rozkaz Kreona — obie racje są słuszne. Jak nazywamy taką sytuację?",
+        "hint": "Zderzenie dwóch równie słusznych racji — każdy wybór to katastrofa.",
+        "wrong": ["ironia tragiczna", "hamartia", "hybris", "fatum"],
+        "answer": "Konflikt tragiczny to zderzenie dwóch równorzędnych racji: Antygona broni prawa boskiego (pochówek brata), Kreon — prawa państwowego. Obie racje są uzasadnione, ale realizacja jednej łamie drugą. Rozwiązanie bez tragedii jest niemożliwe."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "prawo boskie",
+      "forms": ["prawa boskiego", "prawem boskim"],
+      "nodes": ["antygona"],
+      "definition": "W Antygonie — moralne prawo do pochówku brata, ważniejsze niż dekret króla.",
+      "quiz": {
+        "question": "Antygona powołuje się na odwieczne nakazy moralne, wyższe niż prawo stanowione przez Kreona. Na co?",
+        "hint": "Odwieczne nakazy moralne wyższe niż prawo ludzkie.",
+        "wrong": ["konflikt tragiczny", "fatum", "hybris", "teocentryzm"],
+        "answer": "Prawo boskie w Antygonie to odwieczne nakazy moralne — pochówek bliskich, szacunek dla zmarłych. Antygona stawia je ponad dekret Kreona. To fundament konfliktu tragicznego: prawo naturalne vs prawo stanowione."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hybris",
+      "forms": ["hybris"],
+      "nodes": ["antygona", "makbet", "antyk"],
+      "definition": "Pycha bohatera, który myśli, że jest nieomylny — i przez to traci wszystko.",
+      "quiz": {
+        "question": "Kreon uważa się za nieomylnego władcę i nie słucha ostrzeżeń — przez co traci rodzinę. Jaka to wina?",
+        "hint": "Pycha wobec bogów lub losu — bohater myśli, że jest ponad reguły.",
+        "wrong": ["hamartia", "fatum", "ironia tragiczna", "katharsis"],
+        "answer": "Hybris to pycha wobec bogów lub porządku świata. Kreon nie słucha syna, wieszczka ani chóru — traci syna i żonę. Makbet po pierwszym morderstwie wierzy w swoją nietykalność. Na maturze hybris pojawia się przy Antygonie i Makbecie."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hamartia",
+      "forms": ["hamartii", "hamartią"],
+      "nodes": ["antygona", "antyk"],
+      "definition": "Błąd tragiczny z niewiedzy, nie ze złości — Edyp nie wie, że to on zabił.",
+      "quiz": {
+        "question": "Edyp popełnia zbrodnię nieświadomie — nie ze złej woli, lecz z niewiedzy. Jakim terminem to określamy?",
+        "hint": "Błąd tragiczny wynikający z niewiedzy, nie ze złych intencji.",
+        "wrong": ["hybris", "fatum", "ironia tragiczna", "katharsis"],
+        "answer": "Hamartia to błąd tragiczny wynikający z niewiedzy, nie z intencji. Edyp nie chciał zabić ojca — nie wiedział, kim jest nieznajomy na drodze. W Antygonie hamartię mają oboje: Kreon zbyt wierzy w państwo, Antygona — w swoje racje."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "inwokacja",
+      "forms": ["inwokacji", "inwokacją"],
+      "nodes": ["iliada", "antyk"],
+      "definition": "Wezwanie muzy na starcie eposu. Homer: \"Gniew, bogini...\" Mickiewicz: \"Litwo!\"",
+      "quiz": {
+        "question": "\"Litwo! Ojczyzno moja!\" — Mickiewicz na początku Pana Tadeusza zwraca się do ojczyzny. Jak nazywamy ten element?",
+        "hint": "Wezwanie muzy lub siły wyższej na początku eposu.",
+        "wrong": ["in medias res", "stały epitet", "apostrofa", "epos"],
+        "answer": "Inwokacja to uroczyste wezwanie muzy lub bóstwa na początku eposu. Homer: \"Gniew, bogini, opiewaj...\" Mickiewicz: \"Litwo! Ojczyzno moja!\" Element konwencji epickiej obecny od Iliady po Pana Tadeusza."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "in medias res",
+      "forms": [],
+      "nodes": ["iliada"],
+      "definition": "Zaczynam od środka akcji — Iliada nie od początku wojny, lecz 9. roku.",
+      "quiz": {
+        "question": "Iliada zaczyna się od 9. roku wojny trojańskiej, nie od porwania Heleny. Jaki to zabieg narracyjny?",
+        "hint": "Zabieg narracyjny — zaczynamy od środka akcji, nie od początku.",
+        "wrong": ["inwokacja", "retrospekcja", "narracja ramowa", "stały epitet"],
+        "answer": "In medias res (łac. w środek rzeczy) to rozpoczęcie opowieści od środka akcji. Iliada nie zaczyna od porwania Heleny, lecz od gniewu Achillesa w 9. roku wojny. Wcześniejsze wydarzenia poznajemy z retrospekcji."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "narrator wszechwiedzący",
+      "forms": ["narratora wszechwiedzącego", "narratorem wszechwiedzącym"],
+      "nodes": ["iliada", "lalka"],
+      "definition": "Wie wszystko: myśli bohaterów, plany bogów, obie strony konfliktu.",
+      "quiz": {
+        "question": "W Lalce opowiadacz zna myśli wszystkich postaci i komentuje ich działania. Jaki to typ narratora?",
+        "hint": "Narrator który zna myśli bohaterów i komentuje wydarzenia.",
+        "wrong": ["narrator pierwszoosobowy", "narrator niewiarygodny", "in medias res", "narracja ramowa"],
+        "answer": "Narrator wszechwiedzący zna myśli wszystkich postaci, komentuje wydarzenia i wie więcej niż bohaterowie. W Iliadzie — pokazuje jednocześnie obóz grecki i mury Troi. W Lalce — wnika w psychikę Wokulskiego i ocenia społeczeństwo."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "stały epitet",
+      "forms": ["stałego epitetu", "stałym epitetem", "stałe epitety"],
+      "nodes": ["iliada"],
+      "definition": "Powtarzany opis postaci w eposie — Achilles \"szybkonogi\", Odys \"przebiegły\".",
+      "quiz": {
+        "question": "Homer powtarza: \"szybkonogi\" Achilles, \"różanopalca\" Eos. Jakim terminem określamy ten zabieg?",
+        "hint": "Powtarzany przymiotnik przypisany do postaci w eposie.",
+        "wrong": ["porównanie homeryckie", "inwokacja", "epitet", "metafora"],
+        "answer": "Stały epitet to powtarzany przymiotnik charakteryzujący postać w eposie: \"szybkonogi\" Achilles, \"przebiegły\" Odys, \"różanopalca\" Eos. Ułatwiał zapamiętywanie w tradycji ustnej i nadawał bohaterom stałą tożsamość."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "porównanie homeryckie",
+      "forms": ["porównania homeryckiego", "porównaniem homeryckim", "porównania homeryckie"],
+      "nodes": ["iliada"],
+      "definition": "Mega-rozbudowane porównanie: wojownik jak lew, lew jak burza, burza jak gniew.",
+      "quiz": {
+        "question": "Homer rozbudowuje porównanie na kilkanaście wersów, tworząc odrębny obrazek. Jaki to typ porównania?",
+        "hint": "Rozbudowane, wielopoziomowe porównanie w eposie — osobny obrazek.",
+        "wrong": ["stały epitet", "metafora", "hiperbola", "inwokacja"],
+        "answer": "Porównanie homeryckie to rozbudowane porównanie w eposie — kilka-kilkanaście wersów tworzących odrębny obraz. Wojownik jak lew, lew jak burza, burza jak gniew bogów. Homer buduje z nich poetyckie miniatury wewnątrz Iliady."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hierarchia pośredników",
+      "forms": ["hierarchii pośredników", "hierarchią pośredników"],
+      "nodes": ["bogurodzica", "sredniowiecze"],
+      "definition": "W Bogurodzicy modlisz się do Maryi, bo do Boga nie zwracasz się wprost.",
+      "quiz": {
+        "question": "W Bogurodzicy prośba biegnie od wiernych do Maryi, od Maryi do Chrystusa. Jaka struktura to obrazuje?",
+        "hint": "Modlitwa przez pośredników — wierny nie zwraca się wprost do Boga.",
+        "wrong": ["teocentryzm", "docere et movere", "wzorce osobowe", "teodyce"],
+        "answer": "Hierarchia pośredników to średniowieczna struktura modlitwy: wierny → Maryja → Chrystus → Bóg. W Bogurodzicy prośba przechodzi przez kolejne szczeble. Odzwierciedla feudalną hierarchię — do króla też nie szedłeś wprost."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "degeneracja moralna",
+      "forms": ["degeneracji moralnej", "degeneracją moralną"],
+      "nodes": ["makbet"],
+      "definition": "Bohater powoli upada: Makbet od wahania, przez mord, do pełnego nihilizmu.",
+      "quiz": {
+        "question": "Makbet stopniowo zmienia się z wahającego rycerza w bezwzględnego tyrana. Jak nazywamy ten proces?",
+        "hint": "Stopniowy upadek moralny bohatera — od wahania do nihilizmu.",
+        "wrong": ["hybris", "hamartia", "fatum", "tragedia"],
+        "answer": "Degeneracja moralna to stopniowy upadek etyczny bohatera. Makbet przechodzi od wahania przez pierwsze morderstwo po całkowity nihilizm (\"life is a tale told by an idiot\"). Szekspir pokazuje, jak jedno złe działanie uruchamia lawinę."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "Lady Makbet",
+      "forms": ["Lady Makbet"],
+      "nodes": ["makbet"],
+      "definition": "Pcha męża do zbrodni, potem łamie się z winy — słynne mycie rąk we śnie.",
+      "quiz": {
+        "question": "Żona namawia go do królobójstwa, a potem myje ręce we śnie, dręczona wyrzutami. Która to postać?",
+        "hint": "Żona Makbeta — pcha do zbrodni, potem myje ręce we śnie.",
+        "wrong": ["Antygona", "Ofelia", "Izolda", "Kleopatra"],
+        "answer": "Lady Makbet to żona tytułowego bohatera — namawia go do zabójstwa króla Dunkana, ale potem łamie się pod ciężarem winy. Słynna scena mycia rąk we śnie: nie może zmyć niewidzialnej krwi. Symbol wyrzutów sumienia."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "Wielka Improwizacja",
+      "forms": ["Wielkiej Improwizacji", "Wielką Improwizacją"],
+      "nodes": ["dziady3"],
+      "definition": "Konrad krzyczy do Boga: daj mi władzę nad ludźmi, bo chcę zbawić naród!",
+      "quiz": {
+        "question": "W celi więziennej Konrad wygłasza monolog, w którym żąda od Boga władzy nad duszami. Jaka to scena?",
+        "hint": "Monolog Konrada w celi — bunt przeciw Bogu w imię narodu.",
+        "wrong": ["Widzenie księdza Piotra", "martyrologia", "mesjanizm", "prometeizm"],
+        "answer": "Wielka Improwizacja to kluczowa scena Dziadów cz. III — Konrad w celi więziennej wygłasza monolog do Boga, żądając władzy nad duszami dla zbawienia narodu. Szczytowy wyraz prometeizmu. Kończy się prawie bluźnierstwem."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "Widzenie księdza Piotra",
+      "forms": ["Widzenia księdza Piotra", "Widzeniu księdza Piotra"],
+      "nodes": ["dziady3"],
+      "definition": "Pokorny kapłan widzi: Polska to Chrystus narodów, rozbiory to ukrzyżowanie.",
+      "quiz": {
+        "question": "Pokorny kapłan w Dziadach III dostaje wizję: Polska umiera jak Chrystus i zmartwychwstanie. Jaka to scena?",
+        "hint": "Wizja kapłana — Polska jak Chrystus na krzyżu rozbiorów.",
+        "wrong": ["Wielka Improwizacja", "martyrologia", "mesjanizm", "prometeizm"],
+        "answer": "Widzenie księdza Piotra to scena Dziadów cz. III, w której pokorny kapłan ma wizję: Polska cierpi jak Chrystus na krzyżu rozbiorów i zmartwychwstanie. Kontrast z Konradem: pycha przegrywa, pokora dostaje objawienie."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "martyrologia",
+      "forms": ["martyrologii", "martyrologią", "martyrologiczny"],
+      "nodes": ["dziady3", "historia"],
+      "definition": "Opisy cierpień polskiej młodzieży w Dziadach III — realne biografie więźniów.",
+      "quiz": {
+        "question": "Mickiewicz w Dziadach III opisuje realne cierpienia polskich więźniów w carskich kazamatach. Jaki to motyw?",
+        "hint": "Opisy cierpień więźniów — realne biografie w Dziadach III.",
+        "wrong": ["mesjanizm", "prometeizm", "emigracja", "powstanie listopadowe"],
+        "answer": "Martyrologia w Dziadach cz. III to opisy realnych cierpień polskiej młodzieży w carskich więzieniach. Mickiewicz znał te biografie osobiście. Sceny z Senatorem i więźniami — literatura jako świadectwo historii."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "panorama społeczeństwa",
+      "forms": ["panoramy społeczeństwa", "panoramą społeczeństwa"],
+      "nodes": ["lalka"],
+      "definition": "Lalka pokazuje całą Warszawę: arystokrację, kupców, biedotę i ich wzajemne gry.",
+      "quiz": {
+        "question": "Lalka ukazuje wszystkie warstwy Warszawy — od arystokracji po biedotę. Jakim terminem to określamy?",
+        "hint": "Obraz wszystkich warstw społecznych w jednym utworze.",
+        "wrong": ["powieść realistyczna", "klęska idealizmu", "narrator wszechwiedzący", "powieść tendencyjna"],
+        "answer": "Panorama społeczeństwa w Lalce to obraz wszystkich warstw Warszawy: arystokracja (Łęccy), burżuazja (Wokulski), drobni kupcy (Szlangbaum), biedota (Wysocki). Prus pokazuje ich wzajemne zależności i konflikty."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "klęska idealizmu",
+      "forms": ["klęski idealizmu", "klęską idealizmu"],
+      "nodes": ["lalka"],
+      "definition": "W Lalce trzy pokolenia idealistów przegrywają z polską rzeczywistością.",
+      "quiz": {
+        "question": "Wokulski, Rzecki i ojciec Wokulskiego — każdy z nich przegrał ze swoimi ideałami. Jaki motyw Lalki?",
+        "hint": "Trzy pokolenia idealistów przegrywają z rzeczywistością.",
+        "wrong": ["panorama społeczeństwa", "powieść realistyczna", "praca organiczna", "praca u podstaw"],
+        "answer": "Klęska idealizmu to centralny motyw Lalki — trzy pokolenia: ojciec Wokulskiego (powstaniec), Rzecki (napoleończyk), Wokulski (romantyk-pozytywista) — wszyscy przegrywają z polską rzeczywistością. Prus pyta: czy ideały mają sens?"
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "Chrystus narodów",
+      "forms": ["Chrystusa narodów", "Chrystusem narodów"],
+      "nodes": ["dziady3", "romantyzm"],
+      "definition": "Polska cierpi jak Chrystus, rozbiory = krzyż, odrodzenie = zmartwychwstanie.",
+      "quiz": {
+        "question": "W Widzeniu księdza Piotra Polska umiera na krzyżu rozbiorów i zmartwychwstaje. Jaki to motyw?",
+        "hint": "Polska porównana do Chrystusa — cierpienie i zmartwychwstanie.",
+        "wrong": ["mesjanizm", "prometeizm", "martyrologia", "emigracja"],
+        "answer": "Chrystus narodów to metafora z Dziadów cz. III — Polska cierpi jak Chrystus na krzyżu (rozbiory), ale zmartwychwstanie (odzyska niepodległość). Wizja księdza Piotra. Najsilniejszy obraz polskiego mesjanizmu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "katharsis",
+      "forms": ["katharsis"],
+      "nodes": ["antyk", "antygona"],
+      "definition": "Oczyszczenie emocji po obejrzeniu tragedii — wychodzisz z teatru lżejszy.",
+      "quiz": {
+        "question": "Arystoteles twierdził, że tragedia oczyszcza widza przez litość i trwogę. Jaki to efekt?",
+        "hint": "Oczyszczenie emocji widza — litość i trwoga, potem ulga.",
+        "wrong": ["ironia tragiczna", "hamartia", "hybris", "chór"],
+        "answer": "Katharsis to oczyszczenie emocji widza przez przeżycie litości i trwogi w tragedii. Arystoteles opisał to w Poetyce. Oglądasz upadek Edypa, współczujesz, boisz się — i wychodzisz z teatru wyzwolony."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "trzy jedności",
+      "forms": ["trzech jedności", "trzema jednościami"],
+      "nodes": ["antyk", "antygona"],
+      "definition": "Reguły tragedii: max 24h akcji, jedno miejsce, jeden wątek. Zero chaosu.",
+      "quiz": {
+        "question": "Klasyczna tragedia wymagała jednego miejsca, jednego dnia i jednego wątku. Jaką zasadę to realizuje?",
+        "hint": "Trzy reguły tragedii: czas, miejsce, akcja.",
+        "wrong": ["katharsis", "chór", "tragedia", "ironia tragiczna"],
+        "answer": "Trzy jedności to reguły klasycznej tragedii: jedność czasu (maks 24h), miejsca (jedna lokalizacja) i akcji (jeden wątek). Celem jest intensywność — zero dygresji, pełna koncentracja na konflikcie. Arystoteles, Poetyka."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "chór",
+      "forms": ["chóru", "chórem"],
+      "nodes": ["antyk", "antygona"],
+      "definition": "Głos wspólnoty w tragedii greckiej — komentuje, ostrzega, wyraża to co widz.",
+      "quiz": {
+        "question": "Grupa osób na scenie komentuje wydarzenia tragedii i wyraża uczucia wspólnoty. Jaki to element dramatu?",
+        "hint": "Głos wspólnoty na scenie — komentuje i ostrzega.",
+        "wrong": ["katharsis", "ironia tragiczna", "narrator", "apostrofa"],
+        "answer": "Chór w tragedii greckiej to grupa osób komentujących wydarzenia na scenie. Wyraża głos wspólnoty — ostrzega bohatera, współczuje, wyjaśnia widzowi kontekst. W Antygonie chór starszyzny tebańskiej komentuje konflikt Kreona z Antygoną."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "sonet",
+      "forms": ["sonetu", "sonetem", "sonety", "sonetowy"],
+      "nodes": ["renesans", "barok", "romantyzm"],
+      "definition": "14 wersów: 4+4+3+3. Między nimi volta — zwrot myśli. Petrarka dopracował formę.",
+      "quiz": {
+        "question": "Wiersz 14-wersowy, dwie kwatryny i dwie tercyny, ze zwrotem myśli w środku. Jaki to gatunek?",
+        "hint": "14 wersów, kwatryny + tercyny, volta w środku.",
+        "wrong": ["ballada", "oda", "tren", "epos"],
+        "answer": "Sonet to 14-wersowy wiersz stroficzny: dwie kwatryny (4+4) i dwie tercyny (3+3). Volta (zwrot myśli) przechodzi od opisu do refleksji. Petrarka ustalił formę, Szekspir ją zmodyfikował, Mickiewicz pisał Sonety krymskie."
+      },
+      "content": [
+        "## 14 wersów. Ani jednego więcej.\n\nSonet — najtrudniejsza krótka forma. XIII-wieczne **Włochy**, rozkwit dzięki **Petrarce** (317 sonetów do Laury).\n\n- **Dwie kwatryny** (4+4) — opis, teza\n- **Dwie tercyny** (3+3) — refleksja, puenta\n\nMiędzy nimi **volta** — zwrot myśli. \"Co widzę\" → \"co z tego wynika\".",
+        "## 700 lat i wciąż działa. Dlaczego?\n\nBo rygor zmusza do **precyzji**. Nie gadasz — mówisz. Szekspir, Mickiewicz, Leśmian — każdy pisał sonety inaczej, ale 14 wersów to zawsze 14.\n\nForma mała. Treść nieskończona. Sens życia, piękno, śmierć — to mieści się w 14 linijkach.",
+        "## Mickiewicz na Krymie — sonety, które czujesz zmysłami\n\n*Sonety krymskie* (1826): ścisła forma + romantyczny zachwyt. W *Bakczysaraju w nocy* mistrzostwo **synestezji** — poeta \"słyszy\" ciszę, \"widzi\" dźwięki.\n\nA Morsztyn w *Do trupa*? Porównał zakochanego do nieboszczyka — szalony **koncept** w miniaturze."
+      ]
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "volta",
+      "forms": ["volty", "voltą"],
+      "nodes": ["renesans", "barok"],
+      "definition": "Zwrot myśli w sonecie — przejście od opisu do refleksji i puenty.",
+      "quiz": {
+        "question": "Między kwatrynami a tercynami sonetu następuje wyraźny zwrot myśli. Jakim terminem go określamy?",
+        "hint": "Zwrot myśli w sonecie — od opisu do refleksji.",
+        "wrong": ["sonet", "kwatryna", "tercyna", "puenta"],
+        "answer": "Volta to zwrot myśli w sonecie — przejście między kwatrynami (opis/teza) a tercynami (refleksja/puenta). \"Co widzę\" zamienia się w \"co z tego wynika\". Kluczowy moment sonetu, nadaje mu dynamikę."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "kwatryna",
+      "forms": ["kwatryny", "kwartyną", "kwartyny"],
+      "nodes": ["renesans"],
+      "definition": "Czterowersowa strofa w sonecie. Dwie kwatryny = część opisowa wiersza.",
+      "quiz": {
+        "question": "Sonet otwierają dwie strofy czterowersowe, które tworzą część opisową. Jak je nazywamy?",
+        "hint": "Czterowersowa strofa w sonecie — część opisowa.",
+        "wrong": ["tercyna", "volta", "strofa", "dystych"],
+        "answer": "Kwatryna to strofa czterowersowa — sonet otwierają dwie kwatryny (4+4), które tworzą część opisową lub tezę. Po nich następuje volta i dwie tercyny. Kwatryna = fundament struktury sonetu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "tercyna",
+      "forms": ["tercyny", "tercyną"],
+      "nodes": ["renesans"],
+      "definition": "Trzywersowa strofa w sonecie. Dwie tercyny = refleksja i puenta po volcie.",
+      "quiz": {
+        "question": "Sonet zamykają dwie strofy trzywersowe z refleksją i puentą. Jak je nazywamy?",
+        "hint": "Trzywersowa strofa w sonecie — część refleksyjna.",
+        "wrong": ["kwatryna", "volta", "strofa", "dystych"],
+        "answer": "Tercyna to strofa trzywersowa — dwie tercyny (3+3) zamykają sonet po volcie. Tu pojawia się refleksja i puenta. Petrarka w sonetach do Laury: kwatryny = opis piękna, tercyny = ból niespełnionej miłości."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "synestezja",
+      "forms": ["synestezji", "synestezją", "synestetyczny"],
+      "nodes": ["romantyzm", "barok"],
+      "definition": "Mieszanie zmysłów — \"słyszysz\" ciszę, \"widzisz\" dźwięk. Mickiewicz to kochał.",
+      "quiz": {
+        "question": "\"Cicha, biała muzyka\" — poeta łączy wrażenia słuchowe ze wzrokowymi. Jaki to środek stylistyczny?",
+        "hint": "Mieszanie zmysłów — łączenie wrażeń wzrokowych, słuchowych, dotykowych.",
+        "wrong": ["metafora", "oksymoron", "personifikacja", "hiperbola"],
+        "answer": "Synestezja to środek stylistyczny polegający na mieszaniu zmysłów — \"słyszysz\" ciszę, \"widzisz\" dźwięk. Mickiewicz w Sonetach krymskich: Bakczysaraj w nocy to mistrzostwo synestezji. Częsta w baroku i romantyzmie."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "ballada",
+      "forms": ["ballady", "balladą", "balladowy"],
+      "nodes": ["romantyzm", "dziady3"],
+      "definition": "Wiersz z fabułą i dialogami — ludowość + tajemnica. Manifest romantyków.",
+      "quiz": {
+        "question": "Mickiewicz łączy ludową fantastykę z liryzmem i dramatem w jednym gatunku. Jakim?",
+        "hint": "Gatunek romantyczny — ludowość, fabuła, tajemnica, dialogi.",
+        "wrong": ["sonet", "epos", "oda", "elegia"],
+        "answer": "Ballada to gatunek synkretyczny łączący lirykę, epikę i dramat. Mickiewicz w Balladach i romansach (1822) otworzył romantyzm w Polsce. Ludowa fantastyka, tajemnica, moralna sprawiedliwość — Świteź, Romantyczność, Lilie."
+      },
+      "content": [
+        "## Jeden tomik otworzył całą epokę\n\n1822 — Mickiewicz publikuje *Ballady i romanse*. To **manifest**. Początek romantyzmu w Polsce.\n\nBallada jest **synkretyczna** — łączy:\n- **Lirykę** — nastrój, tajemniczość\n- **Epikę** — fabuła\n- **Dramat** — dialogi\n\nDzika, ludowa, nieuporządkowana. Idealna dla romantyków.",
+        "## Serce widzi więcej niż rozum?\n\n*Romantyczność*: Karusia widzi ducha zmarłego kochanka. Starzec mówi — niemożliwe. Poeta: *\"Czucie i wiara silniej mówi do mnie / Niż mędrca szkiełko i oko\"*.\n\nTo nie antynauka. To: **istnieją prawdy, do których rozum nie dociera**. Programowy utwór romantyzmu.",
+        "## Zdradziłeś? Jezioro cię dopadnie.\n\nW balladach Mickiewicza: **wina domaga się kary** z porządku nadprzyrodzonego.\n\n- *Świteź* — zatopione miasto, dziewczęta-lilie karzą zdrajców\n- *Świtezianka* — złamana przysięga = śmierć\n- *Lilie* — żona-morderczyni karana nadprzyrodzoną mocą\n\nLudowa sprawiedliwość jest bezwzględna, ale sprawiedliwa."
+      ]
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "synkretyzm gatunkowy",
+      "forms": ["synkretyzmu gatunkowego", "synkretyzmem gatunkowym", "synkretyczny"],
+      "nodes": ["romantyzm"],
+      "definition": "Mieszanka liryki, epiki i dramatu w jednym utworze — np. ballada romantyczna.",
+      "quiz": {
+        "question": "Ballada Mickiewicza łączy elementy liryki, epiki i dramatu w jednym utworze. Jakim terminem to określamy?",
+        "hint": "Łączenie różnych rodzajów literackich w jednym utworze.",
+        "wrong": ["ballada", "dramat", "liryka", "epika"],
+        "answer": "Synkretyzm gatunkowy to łączenie różnych rodzajów literackich w jednym utworze. Ballada romantyczna to klasyczny przykład: liryka (nastrój), epika (fabuła), dramat (dialogi). Romantycy celowo łamali klasyczne podziały."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powieść historyczna",
+      "forms": ["powieści historycznej", "powieścią historyczną"],
+      "nodes": ["pozytywizm", "historia"],
+      "definition": "Fabuła w przeszłości — Sienkiewicz budował mit dawnej Polski w Trylogii.",
+      "quiz": {
+        "question": "Sienkiewicz osadził fikcyjną fabułę w XVII-wiecznej Polsce, budując mit przeszłości. Jaki to typ powieści?",
+        "hint": "Powieść z fabułą osadzoną w przeszłości historycznej.",
+        "wrong": ["powieść realistyczna", "powieść tendencyjna", "epos", "kronika"],
+        "answer": "Powieść historyczna osadza fikcyjną fabułę w przeszłości. Sienkiewicz w Trylogii budował mit dawnej Polski \"ku pokrzepieniu serc\". Łączy fakty historyczne z wymyślonymi bohaterami — Kmicic, Wołodyjowski."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powieść tendencyjna",
+      "forms": ["powieści tendencyjnej", "powieścią tendencyjną"],
+      "nodes": ["pozytywizm"],
+      "definition": "Powieść z tezą: Orzeszkowa w Marcie pokazuje tragedię kobiety bez praw.",
+      "quiz": {
+        "question": "Orzeszkowa w Marcie udowadnia z góry założoną tezę o krzywdzie kobiet. Jaki to typ powieści?",
+        "hint": "Powieść z z góry założoną tezą — udowadnia ją fabułą.",
+        "wrong": ["powieść realistyczna", "powieść psychologiczna", "powieść historyczna", "przypowieść"],
+        "answer": "Powieść tendencyjna to utwór służący udowodnieniu z góry założonej tezy. Orzeszkowa w Marcie: kobieta bez wykształcenia i praw ginie — teza o konieczności emancypacji. Typowa dla wczesnego pozytywizmu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powieść epistolarna",
+      "forms": ["powieści epistolarnej", "powieścią epistolarną"],
+      "nodes": ["romantyzm"],
+      "definition": "Powieść złożona z listów — klasyk: Cierpienia młodego Wertera Goethego.",
+      "quiz": {
+        "question": "Werter Goethego składa się wyłącznie z listów bohatera. Jak nazywamy taki typ powieści?",
+        "hint": "Powieść złożona z listów — narracja przez korespondencję.",
+        "wrong": ["powieść psychologiczna", "powieść realistyczna", "pamiętnik", "kronika"],
+        "answer": "Powieść epistolarna to utwór złożony z listów. Goethe w Cierpieniach młodego Wertera (1774) — listy bohatera odsłaniają jego uczucia i obsesję. Forma pozwala na bezpośredni wgląd w psychikę bez narratora."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powieść psychologiczna",
+      "forms": ["powieści psychologicznej", "powieścią psychologiczną"],
+      "nodes": ["pozytywizm"],
+      "definition": "Wchodzi w głowę bohatera — Dostojewski analizuje psychikę mordercy.",
+      "quiz": {
+        "question": "Dostojewski w Zbrodni i karze wnika w psychikę mordercy, analizując motywacje. Jaki to typ powieści?",
+        "hint": "Powieść skupiona na psychice bohatera — jego myślach i motywacjach.",
+        "wrong": ["powieść realistyczna", "powieść tendencyjna", "powieść epistolarna", "powieść historyczna"],
+        "answer": "Powieść psychologiczna koncentruje się na wnętrzu bohatera — jego myślach, emocjach, motywacjach. Dostojewski w Zbrodni i karze analizuje psychikę Raskolnikowa krok po kroku. Gatunek rozwinięty w XIX w."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "archetyp",
+      "forms": ["archetypu", "archetypem", "archetypy", "archetypowy"],
+      "nodes": ["mitologia", "antyk", "romantyzm"],
+      "definition": "Uniwersalny wzorzec postaci: Prometeusz = buntownik, Syzyf = bohater absurdu.",
+      "quiz": {
+        "question": "Prometeusz jako buntownik, Syzyf jako bohater absurdu — to uniwersalne wzorce. Jakim terminem je określamy?",
+        "hint": "Uniwersalny wzorzec postaci lub sytuacji powtarzający się w kulturze.",
+        "wrong": ["topos", "motyw", "alegoria", "symbol"],
+        "answer": "Archetyp to powtarzalny wzorzec doświadczenia ludzkiego — postać, sytuacja lub motyw obecny w kulturze od zawsze. Prometeusz (buntownik), Syzyf (absurd), Ikar (hybris). Każda epoka przepisuje je na nowo — Konrad to Prometeusz romantyczny."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "Prometeusz",
+      "forms": ["Prometeusza", "Prometeuszem", "prometejski"],
+      "nodes": ["mitologia", "antyk", "romantyzm", "dziady3"],
+      "definition": "Ukradł bogom ogień dla ludzi, skazany na wieczną mękę. Wzór buntownika.",
+      "quiz": {
+        "question": "Tytan ukradł bogom ogień i dał go ludziom, za co cierpi wieczną karę. Która to postać mitologiczna?",
+        "hint": "Tytan-buntownik — ukradł ogień bogom dla dobra ludzi.",
+        "wrong": ["Syzyf", "Ikar", "Herakles", "Dedal"],
+        "answer": "Prometeusz to tytan, który ukradł bogom ogień i dał go ludziom, za co Zeus skazał go na wieczną mękę (orzeł wyjada mu wątrobę). Archetyp buntownika. Konrad w Dziadach cz. III to romantyczny Prometeusz."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "Syzyf",
+      "forms": ["Syzyfa", "Syzyfem", "syzyfowy"],
+      "nodes": ["mitologia", "filozofia"],
+      "definition": "Wiecznie wtacza głaz na górę. Camus mówi: jest szczęśliwy, bo ma cel.",
+      "quiz": {
+        "question": "Skazaniec w Hadesie wiecznie wtacza głaz, który stacza się z powrotem. Camus widzi w nim bohatera. Kto to?",
+        "hint": "Mityczny skazaniec z wiecznym głazem — symbol absurdu.",
+        "wrong": ["Prometeusz", "Ikar", "Tanatal", "Herakles"],
+        "answer": "Syzyf to mityczny król skazany na wieczne wtaczanie głazu, który zawsze spada. Camus w Micie Syzyfa: \"Trzeba sobie wyobrazić Syzyfa szczęśliwego\" — sens życia to sam wysiłek, nie cel. Archetyp bohatera absurdu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "Ikar",
+      "forms": ["Ikara", "Ikarem", "ikaryjski"],
+      "nodes": ["mitologia", "antyk"],
+      "definition": "Poleciał za blisko słońca, skrzydła się stopiły. Symbol ambicji bez granic.",
+      "quiz": {
+        "question": "Woskowe skrzydła stopiły się, bo poleciał zbyt blisko słońca wbrew ostrzeżeniom ojca. Kto to?",
+        "hint": "Syn Dedala — woskowe skrzydła, lot ku słońcu.",
+        "wrong": ["Prometeusz", "Syzyf", "Dedal", "Faeton"],
+        "answer": "Ikar to syn Dedala, który poleciał zbyt blisko słońca wbrew przestrogom ojca — wosk skrzydeł stopił się i Ikar spadł do morza. Archetyp hybris — ambicji przekraczającej ludzkie granice. Wokulski w Lalce to Ikar pozytywizmu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "psalm",
+      "forms": ["psalmu", "psalmem", "psalmy"],
+      "nodes": ["biblia", "sredniowiecze"],
+      "definition": "Pieśń pochwalna lub błagalna do Boga — gatunek biblijny, żyje do dziś.",
+      "quiz": {
+        "question": "Dawid śpiewał pieśni pochwalne i błagalne do Boga, zebrane w Starym Testamencie. Jaki to gatunek?",
+        "hint": "Biblijny gatunek — pieśń pochwalna lub błagalna do Boga.",
+        "wrong": ["przypowieść", "lamentacja", "hymn", "modlitwa"],
+        "answer": "Psalm to pieśń pochwalna, dziękczynna lub błagalna do Boga, zebrana w Księdze Psalmów (150 tekstów przypisywanych Dawidowi). Gatunek żywy do dziś — Kochanowski parafrazował psalmy, Miłosz tłumaczył."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "przypowieść",
+      "forms": ["przypowieści", "przypowieścią", "parabola", "paraboli"],
+      "nodes": ["biblia"],
+      "definition": "Krótka historia z morałem — syn marnotrawny, Dobry Samarytanin. Uczy analogią.",
+      "quiz": {
+        "question": "Chrystus opowiada o synu marnotrawnym, by nauczać o przebaczeniu przez analogię. Jaki to gatunek?",
+        "hint": "Krótka historia z morałem — uczy przez analogię.",
+        "wrong": ["psalm", "apokalipsa", "alegoria", "bajka"],
+        "answer": "Przypowieść (parabola) to krótka opowieść z przesłaniem moralnym. Chrystus nauczał przez przypowieści: syn marnotrawny (przebaczenie), Dobry Samarytanin (miłosierdzie). Gatunek biblijny, ale obecny w każdej epoce."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "apokalipsa",
+      "forms": ["apokalipsy", "apokalipsą", "apokaliptyczny"],
+      "nodes": ["biblia", "romantyzm"],
+      "definition": "Wizja końca świata i Sądu Ostatecznego. Powraca u Krasińskiego i Miłosza.",
+      "quiz": {
+        "question": "Wizja końca świata, sądu i zagłady — od Biblii po Nie-Boską komedię Krasińskiego. Jaki to motyw?",
+        "hint": "Wizja końca świata i Sądu Ostatecznego.",
+        "wrong": ["mesjanizm", "raj utracony", "teodyce", "fatum"],
+        "answer": "Apokalipsa to wizja końca świata i Sądu Ostatecznego — od Apokalipsy św. Jana po literaturę XX w. Krasiński w Nie-Boskiej komedii: rewolucja jako apokalipsa. Miłosz: apokalipsa spełniona (II wojna)."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "raj utracony",
+      "forms": ["raju utraconego", "rajem utraconym"],
+      "nodes": ["biblia", "romantyzm"],
+      "definition": "Tęsknota za utraconym szczęściem — jak dzieciństwo Litwy u Mickiewicza.",
+      "quiz": {
+        "question": "Mickiewicz tęskni za dzieciństwem na Litwie jak za utraconą krainą szczęścia. Jaki to motyw?",
+        "hint": "Tęsknota za utraconym szczęściem — kraina, której nie odzyskasz.",
+        "wrong": ["apokalipsa", "homo viator", "arkadia", "emigracja"],
+        "answer": "Raj utracony to motyw tęsknoty za utraconym szczęściem — od wygnania z Edenu po Pana Tadeusza. Mickiewicz na emigracji idealizuje dzieciństwo na Litwie. Milton w Raju utraconym opisał upadek pierwszych ludzi."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "teodyce",
+      "forms": ["teodycei", "teodyceja", "teodycejny"],
+      "nodes": ["biblia", "filozofia", "renesans"],
+      "definition": "Dlaczego Bóg dopuszcza cierpienie? Pytanie Hioba i Kochanowskiego.",
+      "quiz": {
+        "question": "Kochanowski po śmierci córki pyta: dlaczego Bóg dopuszcza cierpienie niewinnych? Jaki to problem?",
+        "hint": "Pytanie o cierpienie — dlaczego Bóg je dopuszcza?",
+        "wrong": ["teocentryzm", "stoicyzm", "fatum", "mesjanizm"],
+        "answer": "Teodyce to problem usprawiedliwienia Boga wobec istnienia cierpienia. Hiob w Biblii cierpi niewinnie i pyta: dlaczego? Kochanowski w Trenach po śmierci Urszulki przechodzi przez kryzys wiary. Jedno z najważniejszych pytań filozofii."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "homo viator",
+      "forms": [],
+      "nodes": ["sredniowiecze", "biblia"],
+      "definition": "Człowiek-pielgrzym — życie jako podróż ku wieczności. Motyw od Biblii po dziś.",
+      "quiz": {
+        "question": "Średniowieczna koncepcja: życie to pielgrzymka ku wieczności, ziemia jest tylko przystankiem. Jaki to topos?",
+        "hint": "Człowiek-pielgrzym — życie jako podróż ku wieczności.",
+        "wrong": ["vanitas", "teocentryzm", "docere et movere", "memento mori"],
+        "answer": "Homo viator (człowiek-pielgrzym) to topos życia jako podróży ku wieczności. Ziemia to tylko przystanek, cel jest w niebie. Średniowieczny fundament — ale motyw wraca u Herberta, Miłosza, w kulturze drogi."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "lamentacja",
+      "forms": ["lamentacji", "lamentacją"],
+      "nodes": ["sredniowiecze", "biblia"],
+      "definition": "Pieśń żalu i rozpaczy. Lament świętokrzyski — najstarsza polska lamentacja.",
+      "quiz": {
+        "question": "Matka Boska opłakuje cierpienie syna pod krzyżem w najstarszym polskim tekście tego gatunku. Jakiego?",
+        "hint": "Pieśń żalu i rozpaczy — opłakiwanie cierpienia.",
+        "wrong": ["psalm", "tren", "elegia", "hymn"],
+        "answer": "Lamentacja to pieśń żalu i rozpaczy. Lament świętokrzyski (XV w.) — najstarsza polska lamentacja: Matka Boska opłakuje cierpienie Chrystusa pod krzyżem. Gatunek biblijny (Lamentacje Jeremiasza), żywy w literaturze polskiej."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "stoicyzm",
+      "forms": ["stoicyzmu", "stoicyzmem", "stoicki", "stoik"],
+      "nodes": ["antyk", "renesans", "filozofia"],
+      "definition": "Opanuj emocje, znoś los z godnością, nie daj się okolicznościom.",
+      "quiz": {
+        "question": "Kochanowski w pieśniach radzi: znoś przeciwności losu z godnością i spokojem. Jaką filozofię głosi?",
+        "hint": "Filozofia wewnętrznego spokoju — znoś los godnie.",
+        "wrong": ["epikureizm", "racjonalizm", "egzystencjalizm", "utylitaryzm"],
+        "answer": "Stoicyzm to filozofia wewnętrznego spokoju — człowiek powinien zachować godność wobec zmiennego losu. Kochanowski w Pieśniach i Trenach przechodzi od rozpaczy do stoickiej akceptacji. Herbert w Przesłaniu Pana Cogito nawiązuje do tej postawy."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "epikureizm",
+      "forms": ["epikureizmu", "epikureizmem", "epikurejski"],
+      "nodes": ["antyk", "renesans", "filozofia"],
+      "definition": "Rozsądna przyjemność i unikanie cierpienia. Horacy: \"Carpe diem!\"",
+      "quiz": {
+        "question": "Horacy wzywa: \"Carpe diem!\" — ciesz się chwilą i unikaj zbędnego cierpienia. Jaka to filozofia?",
+        "hint": "Filozofia rozsądnej przyjemności — ciesz się chwilą.",
+        "wrong": ["stoicyzm", "hedonizm", "racjonalizm", "utylitaryzm"],
+        "answer": "Epikureizm to filozofia rozsądnej przyjemności i unikania cierpienia. Horacy: \"Carpe diem!\" Kochanowski w pieśniach łączy epikureizm ze stoicyzmem — ciesz się życiem, ale bądź gotowy na zmianę losu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "złoty środek",
+      "forms": ["złotego środka", "złotym środkiem"],
+      "nodes": ["antyk", "filozofia"],
+      "definition": "Arystoteles: cnota leży między skrajnościami. Nie za dużo, nie za mało.",
+      "quiz": {
+        "question": "Arystoteles twierdził, że cnota leży pomiędzy nadmiarem a niedostatkiem. Jaką zasadę sformułował?",
+        "hint": "Arystotelesowska zasada — cnota między skrajnościami.",
+        "wrong": ["stoicyzm", "epikureizm", "racjonalizm", "kalokagathia"],
+        "answer": "Złoty środek to zasada Arystotelesa: cnota leży pomiędzy nadmiarem a niedostatkiem. Odwaga jest między tchórzostwem a brawurą. Kochanowski głosił tę zasadę — umiarkowanie jako droga do szczęścia."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "scholastyka",
+      "forms": ["scholastyki", "scholastyką", "scholastyczny"],
+      "nodes": ["sredniowiecze", "filozofia"],
+      "definition": "Średniowieczna metoda: połącz wiarę z rozumem. Św. Tomasz robił to najlepiej.",
+      "quiz": {
+        "question": "Św. Tomasz z Akwinu łączył wiarę z rozumem, stosując logiczną metodę dowodzenia. Jaki to nurt?",
+        "hint": "Średniowieczna metoda — łączenie wiary z logicznym rozumowaniem.",
+        "wrong": ["teocentryzm", "racjonalizm", "empiryzm", "humanizm"],
+        "answer": "Scholastyka to średniowieczna metoda filozoficzna łącząca wiarę z rozumem. Św. Tomasz z Akwinu dowodził istnienia Boga pięcioma drogami logicznymi. Fundamentalna dla uniwersytetów średniowiecznych."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "racjonalizm",
+      "forms": ["racjonalizmu", "racjonalizmem", "racjonalistyczny", "racjonalny"],
+      "nodes": ["renesans", "filozofia"],
+      "definition": "Rozum jest źródłem wiedzy. Kartezjusz: \"Myślę, więc jestem.\"",
+      "quiz": {
+        "question": "Kartezjusz twierdził: \"Myślę, więc jestem\" — rozum jest jedynym pewnym źródłem wiedzy. Jaki to nurt?",
+        "hint": "Nurt filozoficzny — rozum jako jedyne pewne źródło wiedzy.",
+        "wrong": ["empiryzm", "scholastyka", "stoicyzm", "humanizm"],
+        "answer": "Racjonalizm to nurt filozoficzny uznający rozum za główne źródło wiedzy. Kartezjusz: \"Cogito ergo sum\" — jedyne pewne to fakt myślenia. Oświeceniowy racjonalizm napędzał postęp naukowy i krytykę tradycji."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "empiryzm",
+      "forms": ["empiryzmu", "empiryzmem", "empiryczny"],
+      "nodes": ["pozytywizm", "filozofia"],
+      "definition": "Wiedza pochodzi z doświadczenia zmysłowego, nie z wrodzonych idei. Locke.",
+      "quiz": {
+        "question": "Locke twierdził, że umysł jest czystą kartą, a wiedza pochodzi wyłącznie z doświadczenia. Jaki to nurt?",
+        "hint": "Nurt filozoficzny — wiedza pochodzi z doświadczenia zmysłowego.",
+        "wrong": ["racjonalizm", "pozytywizm filozoficzny", "scholastyka", "utylitaryzm"],
+        "answer": "Empiryzm to nurt filozoficzny uznający doświadczenie zmysłowe za źródło wiedzy. Locke: umysł to tabula rasa (czysta karta), wszystko pochodzi z obserwacji. Fundament myślenia pozytywistycznego i naukowego."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "utylitaryzm",
+      "forms": ["utylitaryzmu", "utylitaryzmem", "utylitarny", "utylitarystyczny"],
+      "nodes": ["pozytywizm", "filozofia"],
+      "definition": "Dobre jest to, co daje szczęście jak największej liczbie ludzi. Bentham i Mill.",
+      "quiz": {
+        "question": "Mill twierdził: dobre jest to, co przynosi szczęście jak największej liczbie ludzi. Jaka to doktryna?",
+        "hint": "Doktryna etyczna — szczęście jak największej liczby ludzi.",
+        "wrong": ["empiryzm", "pozytywizm filozoficzny", "stoicyzm", "epikureizm"],
+        "answer": "Utylitaryzm to doktryna etyczna Benthama i Milla: dobre jest to, co przynosi szczęście jak największej liczbie ludzi. Fundament programów pozytywistycznych — praca organiczna i praca u podstaw służą dobru ogółu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "nadczłowiek",
+      "forms": ["nadczłowieka", "nadczłowiekiem"],
+      "nodes": ["filozofia"],
+      "definition": "Nietzsche: po \"śmierci Boga\" jednostka tworzy własne wartości i reguły.",
+      "quiz": {
+        "question": "Nietzsche głosił, że po \"śmierci Boga\" wyjątkowa jednostka sama tworzy wartości. Jaką koncepcję stworzył?",
+        "hint": "Koncepcja Nietzschego — jednostka ponad moralnością, tworzy własne reguły.",
+        "wrong": ["egzystencjalizm", "dekadentyzm", "prometeizm", "stoicyzm"],
+        "answer": "Nadczłowiek (Übermensch) to koncepcja Nietzschego: po \"śmierci Boga\" wyjątkowa jednostka tworzy własne wartości. Raskolnikow u Dostojewskiego sprawdza tę ideę — i przegrywa. Na maturze: Nietzsche, Dostojewski, Młoda Polska."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "dekadentyzm",
+      "forms": ["dekadentyzmu", "dekadentyzmem", "dekadencki", "dekadent"],
+      "nodes": ["filozofia"],
+      "definition": "Młoda Polska: bezsilność, pesymizm, fascynacja śmiercią. Schopenhauer rządzi.",
+      "quiz": {
+        "question": "Poeci Młodej Polski głoszą bezsilność, pesymizm i fascynację śmiercią za Schopenhauerem. Jaka to postawa?",
+        "hint": "Postawa Młodej Polski — pesymizm, bezsilność, fascynacja śmiercią.",
+        "wrong": ["egzystencjalizm", "nadczłowiek", "nihilizm", "romantyzm"],
+        "answer": "Dekadentyzm to postawa schyłkowa Młodej Polski: pesymizm, bezsilność, fascynacja śmiercią i rozkładem. Inspiracja: Schopenhauer (świat jako cierpienie). Tetmajer w Koniec wieku XIX — programowy wiersz dekadentyzmu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "egzystencjalizm",
+      "forms": ["egzystencjalizmu", "egzystencjalizmem", "egzystencjalny", "egzystencjalistyczny"],
+      "nodes": ["filozofia"],
+      "definition": "Sartre i Camus: jesteś wolny, nie ma gotowego sensu — stwórz go sam.",
+      "quiz": {
+        "question": "Sartre twierdził: człowiek jest skazany na wolność, sam musi nadać życiu sens. Jaki to nurt?",
+        "hint": "Nurt filozoficzny — wolność, absurd, człowiek sam tworzy sens.",
+        "wrong": ["nadczłowiek", "stoicyzm", "dekadentyzm", "nihilizm"],
+        "answer": "Egzystencjalizm to nurt filozoficzny Sartre'a i Camusa: człowiek jest wolny, nie ma gotowego sensu — musi go stworzyć sam. Camus w Micie Syzyfa: życie jest absurdalne, ale warto żyć. Borowski, Herbert nawiązują do egzystencjalizmu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "neoplatonizm",
+      "forms": ["neoplatonizmu", "neoplatonizmem", "neoplatoński"],
+      "nodes": ["renesans", "filozofia"],
+      "definition": "Renesansowy Platon: piękno prowadzi do prawdy, świat to odbicie ideału.",
+      "quiz": {
+        "question": "Renesansowi myśliciele wierzyli, że piękno wiedzie ku prawdzie, a świat jest odbiciem ideału. Jaki to nurt?",
+        "hint": "Renesansowy powrót Platona — piękno prowadzi do prawdy.",
+        "wrong": ["humanizm", "racjonalizm", "scholastyka", "stoicyzm"],
+        "answer": "Neoplatonizm to renesansowy powrót do Platona: świat materialny jest odbiciem świata idei, piękno prowadzi do prawdy. Ficino we Florencji propagował tę filozofię. Wpływ na renesansową sztukę i poezję miłosną (Petrarka)."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powstanie listopadowe",
+      "forms": ["powstania listopadowego", "powstaniem listopadowym"],
+      "nodes": ["romantyzm", "historia", "dziady3"],
+      "definition": "Zryw przeciw Rosji 1830 r. — klęska dała Dziady cz. III i Wielką Emigrację.",
+      "quiz": {
+        "question": "Zryw przeciw Rosji w 1830 r. — jego klęska zainspirowała Mickiewicza do napisania Dziadów III. Jakie wydarzenie?",
+        "hint": "Zryw zbrojny 1830 — klęska, emigracja, Mickiewicz pisze Dziady III.",
+        "wrong": ["powstanie styczniowe", "rozbiory", "konfederacja warszawska", "emigracja"],
+        "answer": "Powstanie listopadowe (1830) to zryw przeciw Rosji. Klęska sprowadziła Wielką Emigrację i zainspirowała Mickiewicza — Dziady cz. III powstały jako odpowiedź na represje. Fundament romantycznej martyrologii."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powstanie styczniowe",
+      "forms": ["powstania styczniowego", "powstaniem styczniowym"],
+      "nodes": ["pozytywizm", "historia"],
+      "definition": "Zryw 1863 r. — klęska skończyła romantyczny heroizm, zaczął się pozytywizm.",
+      "quiz": {
+        "question": "Klęska zrywu z 1863 r. pogrzebała romantyczny heroizm i otworzyła drogę pozytywizmowi. Jakie wydarzenie?",
+        "hint": "Zryw zbrojny 1863 — klęska kończy romantyzm, zaczyna pozytywizm.",
+        "wrong": ["powstanie listopadowe", "rozbiory", "emigracja", "konfederacja warszawska"],
+        "answer": "Powstanie styczniowe (1863) to ostatni wielki zryw zbrojny. Brutalna klęska i represje pogrzebały romantyczny heroizm. Nowa generacja wybrała pracę organiczną i oświatę zamiast walki. Punkt zwrotny: romantyzm → pozytywizm."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "drugi obieg",
+      "forms": ["drugiego obiegu", "drugim obiegiem"],
+      "nodes": ["historia"],
+      "definition": "Podziemne książki w PRL, poza cenzurą. Tam publikowali Miłosz i Herbert.",
+      "quiz": {
+        "question": "W PRL-u zakazane książki krążyły potajemnie, poza oficjalną cenzurą. Jak nazywamy ten system publikacji?",
+        "hint": "Podziemny system publikacji w PRL — poza cenzurą.",
+        "wrong": ["emigracja", "martyrologia", "samizdat", "cenzura"],
+        "answer": "Drugi obieg to podziemny system wydawniczy w PRL — książki drukowane poza cenzurą i kolportowane potajemnie. Miłosz, Herbert, Konwicki — ich dzieła krążyły w drugim obiegu. Odpowiednik rosyjskiego samizdata."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powieść",
+      "forms": ["powieści", "powieścią"],
+      "nodes": ["pozytywizm", "lalka"],
+      "definition": "Gatunek bez granic — od 100 do 1000 stron. Król XIX-wiecznej literatury.",
+      "quiz": {
+        "question": "XVIII wiek: rozrywka drugiej kategorii. XIX wiek: król gatunków. Który gatunek epicki zdominował literaturę?",
+        "hint": "Gatunek epicki bez ograniczeń formy — mikroskop i teleskop naraz.",
+        "wrong": ["epos", "nowela", "opowiadanie", "kronika"],
+        "answer": "Powieść to gatunek epicki, który zdominował literaturę XIX w. Bez ograniczeń formy: 100 lub 1000 stron, jeden wątek lub sto. Prus w Lalce: mikroskop (psychologia Wokulskiego) i teleskop (panorama Warszawy) naraz."
+      },
+      "content": [
+        "## Gatunek, który zjadł literaturę\n\nXVIII wiek: powieść = rozrywka drugiej kategorii. XIX wiek: **król gatunków**. Dlaczego? Bo nie ma granic. Tragedia — trzy jedności. Sonet — 14 wersów. Powieść? 100 stron albo 1000.\n\nPrus w *Lalce* był sekretarzem Warszawy. Powieść to **mikroskop i teleskop naraz**.",
+        "## Ile twarzy ma powieść?\n\n- **Historyczna** — Sienkiewicz, *Trylogia*: \"ku pokrzepieniu serc\"\n- **Tendencyjna** — jawna teza. Orzeszkowa, *Marta*\n- **Epistolarna** — listy. Goethe, *Werter*\n- **Psychologiczna** — wnętrze bohatera. Dostojewski, *Zbrodnia i kara*\n\n*Lalka*? Łączy kilka odmian naraz. Wielkie powieści wymykają się szufladkom."
+      ]
+    }
+  }
+]
