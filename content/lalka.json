@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "lalka",
+    "data": {
+      "contentType": "text",
+      "text": "## Lalka — powieść o tym, dlaczego Polska nie działa\n\nBolesław Prus napisał *Lalkę* w 1890 roku i stworzył coś więcej niż historię miłosną. Stworzył **panoramę społeczeństwa**, które nie potrafi się zmodernizować — i diagnozę, dlaczego.\n\n**Stanisław Wokulski** — główny bohater — to człowiek-paradoks. Kupiec, ale kiedyś walczył w powstaniu styczniowym i trafił na Syberię. Naukowiec, ale porzucił naukę dla handlu. Realista, ale **romantycznie zakochany** w arystokratce **Izabeli Łęckiej**, która go nie kocha.\n\nMiłość Wokulskiego do Izabeli to nie melodramat — to **metafora**. Wokulski (energia, praca, nowoczesność) kocha Łęcką (tradycja, pozory, stagnacja). Ich związek jest niemożliwy, tak jak niemożliwe jest porozumienie między klasami w polskim społeczeństwie.\n\nTrzy warstwy narracji odsłaniają trzy perspektywy na świat:\n- **Pamiętnik Rzeckiego** — stary idealista, wierzy w Napoleona, romantyk starego typu\n- **Narrator trzecioosobowy** — obiektywna panorama Warszawy\n- **Myśli Wokulskiego** — rozdarcie między rozumem a uczuciem"
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "lalka",
+    "data": {
+      "contentType": "text",
+      "text": "## Trzy pokolenia idealistów\n\n*Lalka* to powieść o **klęsce idealizmu** — w trzech odsłonach:\n\n- **Rzecki** — idealista napoleoński. Wierzy w powrót Napoleona (w 1879 roku!), prowadzi pamiętnik pełen nostalgii. Reprezentuje pokolenie, które żyje przeszłością.\n- **Wokulski** — romantyk i pozytywista jednocześnie. Chce modernizować Polskę, ale traci energię na beznadziejną miłość. Jego dramat: jest za mądry na swoje otoczenie i za słaby, by od niego uciec.\n- **Ochocki** — młody naukowiec, marzy o maszynie latającej. Ucieka od rzeczywistości w czystą naukę. Reprezentuje przyszłość — ale taką, która nie zakorzeniła się w Polsce.\n\nA **obraz społeczeństwa**? Prus jest bezlitosny:\n- **Arystokracja** — pasożytnicza, zadłużona, żyjąca pozorami\n- **Burżuazja** — energiczna, ale pogardzana przez \"lepszych\"\n- **Biedota** — niewidoczna, zepchnięta na margines\n\nCiekawe, prawda? Prus pisał 130 lat temu, a jego diagnoza stanowych uprzedzeń wciąż jest aktualna. To dlatego *Lalka* to nie tylko lektura — to **rentgen polskiego społeczeństwa**."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "lalka",
+    "data": {
+      "contentType": "quiz",
+      "text": "Dlaczego *Lalka* jest nazywana powieścią o trzech pokoleniach idealistów? Scharakteryzuj każde pokolenie.",
+      "answer": "Trzy pokolenia: Rzecki — idealista napoleoński, żyje przeszłością i nierealnymi nadziejami; Wokulski — romantyk i pozytywista, ma energię do zmian, ale traci ją na beznadziejną miłość do Izabeli; Ochocki — naukowiec-marzyciel, ucieka od rzeczywistości w naukę. Każdy ponosi klęskę, bo ich ideały rozbijają się o bariery polskiego społeczeństwa: stanowe uprzedzenia, stagnację i brak gotowości do modernizacji."
+    }
+  }
+]
