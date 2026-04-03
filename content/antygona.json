@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "antygona",
+    "data": {
+      "contentType": "text",
+      "text": "## Antygona — dramat, w którym nikt nie wygrywa\n\nAtenki, 441 rok p.n.e. Sofokles wystawia sztukę, która zmusi widzów do zadania sobie pytania bez dobrej odpowiedzi: **co jest ważniejsze — prawo państwa czy prawo sumienia?**\n\nSytuacja: dwaj bracia Antygony — Eteokles i Polinejkes — zginęli w walce o Teby, ale po przeciwnych stronach. Król **Kreon** zakazuje pochówku Polinejkesa (zdrajcy). **Antygona** łamie zakaz, bo **prawo boskie** (obowiązek pogrzebania bliskich) jest dla niej ważniejsze niż dekret władcy.\n\nI tu właśnie tkwi serce tragedii: to jest **konflikt tragiczny** — zderzenie dwóch racji, z których żadna nie jest fałszywa. Kreon ma rację: państwo musi mieć prawo. Antygona ma rację: są wartości ponadludzkie. Ale żadne rozwiązanie nie prowadzi do dobrego zakończenia.\n\nTo dlatego *Antygona* jest czytana od 2500 lat — bo ten dylemat nigdy się nie dezaktualizuje."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "antygona",
+    "data": {
+      "contentType": "text",
+      "text": "## Hybris i cena pychy\n\nZwróć uwagę na Kreona — bo to on przechodzi prawdziwą katastrofę. Na początku wydaje się rozsądny: broni porządku, chce być konsekwentny. Ale stopniowo popada w **hybris** — pychę, przekonanie, że jego zdanie jest jedynym słusznym. Nie słucha syna (Hajmona), nie słucha wieszczka (Tejrezjasza), nie słucha chóru.\n\nKiedy wreszcie zmienia zdanie — jest za późno. Antygona się powiesiła. Hajmon zabił się nad jej ciałem. Żona Kreona, Eurydyka, odebrała sobie życie. Kreon zostaje sam, złamany.\n\nSofokles pokazuje, że **hamartia** (błąd tragiczny) nie musi wynikać ze złości. Kreon nie jest tyranem — jest człowiekiem, który zbyt mocno wierzył we własną nieomylność. A Antygona? Jej hamartia to absolutyzm moralny — nie widzi, że Kreon też ma racje.\n\n*Antygona* uczy pokory: świat jest bardziej skomplikowany, niż chciałyby nasze zasady."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "antygona",
+    "data": {
+      "contentType": "quiz",
+      "text": "Wyjaśnij, na czym polega konflikt tragiczny w *Antygonie* Sofoklesa i dlaczego żadna ze stron nie może wygrać.",
+      "answer": "Konflikt tragiczny to zderzenie dwóch równorzędnych racji: Antygona broni prawa boskiego (obowiązek pochówku bliskich), Kreon — prawa państwowego (zakaz grzebania zdrajcy). Żadna strona nie może wygrać, bo obie racje są uzasadnione, a realizacja jednej wymaga złamania drugiej. To sprawia, że rozwiązanie jest niemożliwe bez tragedii."
+    }
+  }
+]
