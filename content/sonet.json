@@ -4,7 +4,7 @@
     "parentRef": "sonet",
     "data": {
       "contentType": "text",
-      "text": "## Sonet — 14 wersów, nieskończoność możliwości\n\nSonet to paradoks: najkrótsza z \"poważnych\" form poetyckich, a jednocześnie jedna z najtrudniejszych. 14 wersów — i ani jednego więcej. Dlatego każde słowo musi pracować.\n\nForma powstała w XIII-wiecznych **Włoszech** i rozkwitła dzięki **Petrarce**, który napisał 317 sonetów do Laury. Budowa jest precyzyjna jak zegarek:\n\n- **Dwie kwatryny** (4+4 wersy) — część opisowa, prezentacja tematu, teza\n- **Dwie tercyny** (3+3 wersy) — refleksja, konkluzja, puenta\n\nMiędzy kwartyną a tercyną następuje **volta** — zwrot myśli. To jak punkt kulminacyjny: najpierw mówisz \"co widzę\", potem \"co z tego wynika\".\n\nDlaczego sonet przetrwał 700 lat? Bo ten rygor formy zmusza poetę do **precyzji myśli**. Nie możesz gadać — musisz **powiedzieć**. Szekspir pisał sonety, Mickiewicz pisał sonety, Leśmian pisał sonety. Każdy inaczej, ale forma ta sama."
+      "text": "## 14 wersów. Ani jednego więcej.\n\nSonet — najtrudniejsza krótka forma. XIII-wieczne **Włochy**, rozkwit dzięki **Petrarce** (317 sonetów do Laury).\n\n- **Dwie kwatryny** (4+4) — opis, teza\n- **Dwie tercyny** (3+3) — refleksja, puenta\n\nMiędzy nimi **volta** — zwrot myśli. \"Co widzę\" → \"co z tego wynika\"."
     }
   },
   {
@@ -12,7 +12,15 @@
     "parentRef": "sonet",
     "data": {
       "contentType": "text",
-      "text": "## Sonety polskie — od Kochanowskiego do Krymu\n\n**Jan Kochanowski** pisał sonety w duchu petrarkistowskim — o miłości, pięknie, przemijaniu. Ale prawdziwą rewolucję przyniósł Mickiewicz.\n\n*Sonety krymskie* (1826) — 18 sonetów napisanych po podróży po Krymie. Mickiewicz połączył ścisłą formę sonetu z romantycznym zachwytem egzotycznym krajobrazem. Sonet V (*Bakczysaraj w nocy*) to mistrzostwo **synestezji** — poeta \"słyszy\" ciszę, \"widzi\" dźwięki, granice zmysłów się zacierają.\n\nA *Sonety odeskie*? Tu Mickiewicz jest zaskakująco ironiczny i osobisty — pisze o miłości, rozczarowaniu, samotności.\n\nZwróć uwagę na coś ważnego: sonet nie jest \"małym\" gatunkiem. W 14 wersach potrafi zmieścić pełną refleksję filozoficzną — pytanie o sens życia, o naturę piękna, o granice ludzkiego poznania. Jan Andrzej Morsztyn w barokowym sonecie *Do trupa* porównał zakochanego do nieboszczyka — zaskakujący **koncept** w miniaturowej formie.\n\nForma jest mała. Treść — nieskończona. To magia sonetu."
+      "text": "## 700 lat i wciąż działa. Dlaczego?\n\nBo rygor zmusza do **precyzji**. Nie gadasz — mówisz. Szekspir, Mickiewicz, Leśmian — każdy pisał sonety inaczej, ale 14 wersów to zawsze 14.\n\nForma mała. Treść nieskończona. Sens życia, piękno, śmierć — to mieści się w 14 linijkach."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "sonet",
+    "data": {
+      "contentType": "text",
+      "text": "## Mickiewicz na Krymie — sonety, które czujesz zmysłami\n\n*Sonety krymskie* (1826): ścisła forma + romantyczny zachwyt. W *Bakczysaraju w nocy* mistrzostwo **synestezji** — poeta \"słyszy\" ciszę, \"widzi\" dźwięki.\n\nA Morsztyn w *Do trupa*? Porównał zakochanego do nieboszczyka — szalony **koncept** w miniaturze."
     }
   },
   {
@@ -20,8 +28,8 @@
     "parentRef": "sonet",
     "data": {
       "contentType": "quiz",
-      "text": "Opisz budowę sonetu i wyjaśnij, jaką rolę pełni volta.",
-      "answer": "Sonet składa się z 14 wersów: dwóch kwarty (4+4 wersy) i dwóch tercyn (3+3 wersy). Kwatryny mają charakter opisowy/tezowy — prezentują temat, obraz, sytuację. Tercyny przynoszą refleksję i puentę. Volta (zwrot myśli) następuje między kwartyną a tercyną — to moment przejścia od opisu do konkluzji, punkt kulminacyjny wiersza. Dzięki volcie sonet ma dynamikę dramatyczną mimo krótkiej formy."
+      "text": "Opisz budowę sonetu i wyjaśnij, czym jest volta.",
+      "answer": "Sonet = 14 wersów: dwie **kwatryny** (4+4, opis/teza) + dwie **tercyny** (3+3, refleksja/puenta). **Volta** to zwrot myśli między kwartyną a tercyną — przejście od opisu do konkluzji."
     }
   }
 ]
