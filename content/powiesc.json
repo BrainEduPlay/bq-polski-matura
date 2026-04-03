@@ -4,7 +4,7 @@
     "parentRef": "powiesc",
     "data": {
       "contentType": "text",
-      "text": "## Powieść — gatunek, który zjadł literaturę\n\nW XVIII wieku powieść była uważana za rozrywkę drugiej kategorii. W XIX stała się **królem gatunków**. Dlaczego? Bo tylko powieść potrafiła zmieścić w sobie cały świat.\n\nPomyśl: tragedia ma trzy jedności. Sonet ma 14 wersów. Ballada opowiada jedną historię. A powieść? Powieść nie ma granic. Może mieć 100 stron albo 1000. Jedną postać albo setki. Jeden wątek albo tuzin.\n\n**Powieść realistyczna** — dominujący gatunek **pozytywizmu** — chciała być lustrem społeczeństwa. Jej cechy:\n- **Narrator wszechwiedzący** — wie wszystko, komentuje, ocenia\n- **Szczegółowe opisy** — mieszkań, ulic, ubrań, obyczajów\n- **Pogłębiona psychologia postaci** — bohaterowie mają motywacje, wątpliwości, sprzeczności\n- **Szerokie tło społeczno-historyczne** — nie jednostka w próżni, lecz człowiek w społeczeństwie\n\nBalzac chciał być \"sekretarzem społeczeństwa francuskiego\". Prus w *Lalce* był sekretarzem społeczeństwa polskiego. Tolstoj w *Wojnie i pokoju* — sekretarzem ludzkości. Powieść realistyczna to **mikroskop i teleskop jednocześnie** — widzi detale i panoramę."
+      "text": "## Gatunek, który zjadł literaturę\n\nXVIII wiek: powieść = rozrywka drugiej kategorii. XIX wiek: **król gatunków**. Dlaczego? Bo nie ma granic. Tragedia — trzy jedności. Sonet — 14 wersów. Powieść? 100 stron albo 1000.\n\nPrus w *Lalce* był sekretarzem Warszawy. Powieść to **mikroskop i teleskop naraz**."
     }
   },
   {
@@ -12,7 +12,15 @@
     "parentRef": "powiesc",
     "data": {
       "contentType": "text",
-      "text": "## Odmiany powieści — od Sienkiewicza do Dostojewskiego\n\nPowieść jest gatunkiem tak pojemnym, że ma wiele odmian. Na maturze warto znać te najważniejsze:\n\n- **Powieść historyczna** — akcja osadzona w przeszłości. Sienkiewicz w *Trylogii* budował mit dawnej Polski, która \"krzepiła serca\". Walter Scott stworzył gatunek w *Ivanhoe*.\n- **Powieść tendencyjna** — jawna teza społeczna. Orzeszkowa w *Marcie* pokazała tragedię kobiety bez prawa do pracy. Tendencyjność oznacza, że powieść służy idei — ale kosztem artyzmu.\n- **Powieść epistolarna** — pisana w formie listów. *Cierpienia młodego Wertera* Goethego to klasyk gatunku.\n- **Powieść psychologiczna** — skupiona na wnętrzu bohatera. Dostojewski w *Zbrodni i karze* analizuje sumienie mordercy.\n- **Powieść-rzeka** — wielotomowa saga rodzinna lub społeczna.\n\nZwróć uwagę: *Lalka* Prusa łączy kilka odmian jednocześnie — jest realistyczna, psychologiczna, ma elementy powieści obyczajowej i społecznej. Wielkie powieści wymykają się klasyfikacjom. To dlatego gatunek przetrwał — bo potrafi być wszystkim."
+      "text": "## Cztery filary realizmu\n\n**Powieść realistyczna** — dominujący gatunek **pozytywizmu**:\n- **Narrator wszechwiedzący** — wie wszystko, komentuje\n- **Szczegółowe opisy** — ulice, mieszkania, ubrania\n- **Pogłębiona psychologia** — motywacje, sprzeczności\n- **Tło społeczne** — człowiek w społeczeństwie, nie w próżni"
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "powiesc",
+    "data": {
+      "contentType": "text",
+      "text": "## Ile twarzy ma powieść?\n\n- **Historyczna** — Sienkiewicz, *Trylogia*: \"ku pokrzepieniu serc\"\n- **Tendencyjna** — jawna teza. Orzeszkowa, *Marta*\n- **Epistolarna** — listy. Goethe, *Werter*\n- **Psychologiczna** — wnętrze bohatera. Dostojewski, *Zbrodnia i kara*\n\n*Lalka*? Łączy kilka odmian naraz. Wielkie powieści wymykają się szufladkom."
     }
   },
   {
@@ -20,8 +28,8 @@
     "parentRef": "powiesc",
     "data": {
       "contentType": "quiz",
-      "text": "Wymień cztery cechy powieści realistycznej i wskaż, jak realizują się one w *Lalce* Prusa.",
-      "answer": "1. Narrator wszechwiedzący — w Lalce trzecioosobowy narrator zna myśli Wokulskiego i komentuje społeczeństwo. 2. Szczegółowe opisy — Prus drobiazgowo odtwarza Warszawę: sklepy, ulice, salony, kamienice. 3. Pogłębiona psychologia — Wokulski jest pełen sprzeczności: romantyk i pozytywista, kupiec i naukowiec. 4. Szerokie tło społeczne — powieść ukazuje panoramę warstw: arystokrację, burżuazję, inteligencję, biedotę i ich wzajemne relacje."
+      "text": "Cztery cechy powieści realistycznej — pokaż w *Lalce*.",
+      "answer": "**Narrator wszechwiedzący** — zna myśli Wokulskiego. **Opisy** — Warszawa: sklepy, ulice, salony. **Psychologia** — Wokulski to romantyk i pozytywista naraz. **Tło społeczne** — arystokracja, burżuazja, biedota."
     }
   }
 ]
