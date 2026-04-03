@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "dziady3",
+    "data": {
+      "contentType": "text",
+      "text": "## Dziady cz. III — kiedy poeta rzuca wyzwanie Bogu\n\nParyż, 1832 rok. Mickiewicz pisze w gorączce, pod wpływem klęski powstania listopadowego. Powstaje dramat, który zmieni polską literaturę — *Dziady część III*.\n\nGustaw — romantyczny kochanek z wcześniejszych części — **przemienia się w Konrada**, buntownika i patriotę. I w celi wileńskiego więzienia wygłasza **Wielką Improwizację** — monolog, jakiego nie było w literaturze.\n\nCo Konrad robi? **Żąda od Boga władzy nad ludzkimi uczuciami**, żeby samodzielnie zbawić naród. Mówi: \"Ja i ojczyzna to jedno\" — utożsamia się z milionami cierpiących Polaków. Chce być jak **Prometeusz** — samotny geniusz, który kradnie ogień bogom dla ludzkości.\n\nTo jest **prometeizm** w najczystszej postaci: bunt jednostki przeciwko porządkowi świata w imię zbiorowości. Ale Mickiewicz nie pozwala Konradowi wygrać. W ostatnim momencie, tuż przed bluźnierstwem, głos Konrada gaśnie. Pycha (**hybris**) nie jest drogą do zbawienia."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "dziady3",
+    "data": {
+      "contentType": "text",
+      "text": "## Mesjanizm i Widzenie księdza Piotra\n\nJeśli Wielka Improwizacja to bunt, to **Widzenie księdza Piotra** to jego przeciwieństwo — **pokora**. Pokorny, prosty kapłan — nie pyszny geniusz — otrzymuje wizję przyszłości.\n\nI ta wizja to serce polskiego **mesjanizmu**: Polska jest jak Chrystus. Została ukrzyżowana (rozbiory), ale zmartwychwstanie — i to zmartwychwstanie przyniesie wolność nie tylko Polakom, ale wszystkim ludom.\n\nMickiewicz buduje tu teologię narodu:\n- Polska = **Chrystus narodów** (cierpi niewinnie za innych)\n- Rozbiory = ukrzyżowanie\n- Przyszłe odrodzenie = zmartwychwstanie\n\nSceny więzienne w Wilnie to **martyrologia** — opisy cierpień polskiej młodzieży prześladowanej przez senatora **Nowosilcowa**. Cichowski, który zwariował od tortur. Rollison, którego matka szuka po celach. To konkretni ludzie, konkretne biografie.\n\nDlaczego to ważne na maturze? Bo *Dziady cz. III* łączą **prometeizm** (bunt Konrada), **mesjanizm** (wizja ks. Piotra) i **realizm historyczny** (sceny więzienne). Trzy warstwy, jeden dramat."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "dziady3",
+    "data": {
+      "contentType": "quiz",
+      "text": "Porównaj postawę Konrada z postawą księdza Piotra w *Dziadach cz. III*. Która z nich prowadzi do wizji mesjanistycznej i dlaczego?",
+      "answer": "Konrad to prometejski buntownik — w Wielkiej Improwizacji pysznie żąda od Boga mocy, utożsamia się z narodem, chce samodzielnie go zbawić. Jego hybris prowadzi do porażki. Ksiądz Piotr — pokorny i prosty — otrzymuje wizję mesjanistyczną właśnie dzięki pokorze. Mickiewicz pokazuje, że droga do zbawienia narodu wiedzie przez pokorę i cierpienie (jak Chrystus), nie przez prometejską pychę."
+    }
+  }
+]
