@@ -5,7 +5,8 @@
       "term": "ironia tragiczna",
       "definition": "Widz wie więcej niż bohater — Edyp szuka mordercy, a to on sam.",
       "forms": "[\"ironii tragicznej\", \"ironią tragiczną\", \"ironię tragiczną\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Widz wie, że Edyp zabił ojca — bohater nie wie. Jak nazywamy tę sytuację dramatyczną?"
     }
   },
   {
@@ -14,7 +15,8 @@
       "term": "tragedia",
       "definition": "Sztuka o upadku bohatera — kończy się źle, widz płacze i czuje ulgę.",
       "forms": "[\"tragedii\", \"tragedię\", \"tragiczny\", \"tragiczna\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Sofokles pisał sztuki, w których szlachetny bohater upada — widz przeżywa litość i trwogę. Jaki to gatunek?"
     }
   },
   {
@@ -23,7 +25,8 @@
       "term": "komedia",
       "definition": "Sztuka, w której jest śmiesznie i dobrze się kończy. Wymyślił Arystofanes.",
       "forms": "[\"komedii\", \"komedię\", \"komediowy\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Arystofanes pisał sztuki ośmieszające ludzkie wady, które kończyły się pomyślnie. Jaki to gatunek?"
     }
   },
   {
@@ -32,7 +35,8 @@
       "term": "epos",
       "definition": "Długi poemat o wielkich bohaterach i bitwach — Homer wymyślił reguły.",
       "forms": "[\"eposu\", \"eposem\", \"epopeja\", \"epopei\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Homer napisał obszerny poemat o bohaterach i bogach, z inwokacją i stałymi epitetami. Jaki to gatunek?"
     }
   },
   {
@@ -41,7 +45,8 @@
       "term": "liryka",
       "definition": "Wiersz wyrażający uczucia. W antyku śpiewano go przy lirze.",
       "forms": "[\"liryki\", \"liryką\", \"liryczny\", \"liryczna\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Safona przy akompaniamencie liry wyrażała uczucia podmiotu mówiącego. Jaki rodzaj literacki uprawiała?"
     }
   },
   {
@@ -50,7 +55,8 @@
       "term": "kalokagathia",
       "definition": "Grecki ideał: piękne ciało + szlachetna dusza = pełny człowiek.",
       "forms": "[\"kalokagathii\", \"kalokagathią\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Grecy wierzyli, że piękno ciała i szlachetność duszy muszą iść w parze. Jakim terminem to określali?"
     }
   },
   {
@@ -59,7 +65,8 @@
       "term": "arete",
       "definition": "Grecka cnota — bycie najlepszym w tym, co robisz: w walce, mowie, myśli.",
       "forms": "[\"aretę\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Achilles dążył do doskonałości w walce, Odys — w sprycie. Jakim greckim pojęciem określamy tę cnotę?"
     }
   },
   {
@@ -68,7 +75,8 @@
       "term": "fatum",
       "definition": "Los wyznaczony przez bogów, którego nie da się uniknąć. Napędza tragedie.",
       "forms": "[\"fata\", \"fatalizm\", \"fatalny\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Achilles wie, że zginie pod Troją, ale i tak walczy. Co nim rządzi?"
     }
   },
   {
@@ -77,7 +85,8 @@
       "term": "teocentryzm",
       "definition": "Bóg w centrum wszystkiego — średniowiecze kręciło się wokół wiary.",
       "forms": "[\"teocentryzmu\", \"teocentryzmem\", \"teocentryczny\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "W średniowieczu Bóg był miarą wszystkich rzeczy, a sztuka służyła wierze. Jakim terminem to określamy?"
     }
   },
   {
@@ -86,7 +95,8 @@
       "term": "wzorce osobowe",
       "definition": "3 średniowieczne ideały: święty, rycerz i władca. Każdy prowadził do Boga.",
       "forms": "[\"wzorców osobowych\", \"wzorcami osobowymi\", \"wzorzec osobowy\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Średniowiecze stawiało za przykład świętego, rycerza i władcę. Jakim terminem nazywamy te ideały?"
     }
   },
   {
@@ -95,7 +105,8 @@
       "term": "antropocentryzm",
       "definition": "Renesans postawił człowieka w centrum — rozum i twórczość zamiast Boga.",
       "forms": "[\"antropocentryzmu\", \"antropocentryzmem\", \"antropocentryczny\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Renesans przesunął centrum zainteresowania z Boga na człowieka i jego możliwości. Jaka to postawa?"
     }
   },
   {
@@ -104,7 +115,8 @@
       "term": "ad fontes",
       "definition": "\"Do źródeł!\" — renesansowe hasło: wracamy do starożytnych mistrzów.",
       "forms": "[]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Humaniści renesansu postulowali powrót do dzieł starożytnych jako wzorców. Jakie łacińskie hasło to wyrażało?"
     }
   },
   {
@@ -113,7 +125,8 @@
       "term": "humanizm",
       "definition": "Renesansowa wiara w rozum i godność człowieka. Humanista znał klasyków.",
       "forms": "[\"humanizmu\", \"humanizmem\", \"humanistyczny\", \"humanista\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Erazm z Rotterdamu głosił wiarę w rozum i godność człowieka, czytał klasyków. Jaki to nurt?"
     }
   },
   {
@@ -122,7 +135,8 @@
       "term": "reformacja",
       "definition": "Ruch XVI w. przeciw Kościołowi. W Polsce dał akt tolerancji z 1573 r.",
       "forms": "[\"reformacji\", \"reformacją\", \"reformacyjny\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Luter przybił 95 tez, kwestionując władzę papieża — ruch rozlał się po Europie. Jak go nazywamy?"
     }
   },
   {
@@ -131,7 +145,8 @@
       "term": "konfederacja warszawska",
       "definition": "Akt z 1573 r. — wolność wyznania w Polsce, pionierski dokument w Europie.",
       "forms": "[\"konfederacji warszawskiej\", \"konfederacją warszawską\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "W 1573 r. szlachta polska uchwaliła akt gwarantujący wolność religijną — pionierski w Europie. Jaki?"
     }
   },
   {
@@ -140,7 +155,8 @@
       "term": "vanitas",
       "definition": "Motyw marności — wszystko przemija, nic nie jest trwałe. Ulubiony temat baroku.",
       "forms": "[\"vanitas vanitatum\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Barokowi poeci pisali o marności dóbr ziemskich i nieuchronności śmierci. Jaki to motyw?"
     }
   },
   {
@@ -149,7 +165,8 @@
       "term": "konceptyzm",
       "definition": "Barokowy nurt: zaskocz czytelnika paradoksem i błyskotliwym zestawieniem.",
       "forms": "[\"konceptyzmu\", \"konceptyzmem\", \"konceptystyczny\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Barokowy nurt poetycki opierał się na zaskakujących paradoksach i błyskotliwych zestawieniach. Jaki?"
     }
   },
   {
@@ -158,7 +175,8 @@
       "term": "koncept",
       "definition": "Zaskakujący paradoks w wierszu barokowym — np. zakochany jak trup u Morsztyna.",
       "forms": "[\"konceptu\", \"konceptem\", \"koncepty\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Morsztyn porównuje zakochanego do trupa — zaskakuje czytelnika paradoksem. Jakim terminem to określamy?"
     }
   },
   {
@@ -167,7 +185,8 @@
       "term": "marinizm",
       "definition": "Barokowa poezja: ozdobna, kunsztowna, pełna efektownych metafor. W PL: Morsztyn.",
       "forms": "[\"marinizmu\", \"marinizmem\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Morsztyn wzorował się na włoskim poecie, pisząc kunsztowne, ozdobne wiersze pełne metafor. Jaki to nurt?"
     }
   },
   {
@@ -176,7 +195,8 @@
       "term": "sarmatyzm",
       "definition": "Ideologia szlachty XVII w. — patriotyzm, wiara i mit o przodkach Sarmatach.",
       "forms": "[\"sarmatyzmu\", \"sarmatyzmem\", \"sarmacki\", \"sarmata\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Szlachta XVII w. wierzyła w pochodzenie od starożytnych Sarmatów i kultywowała tradycję. Jaka to ideologia?"
     }
   },
   {
@@ -185,7 +205,8 @@
       "term": "mesjanizm",
       "definition": "Polska cierpi jak Chrystus za inne narody i kiedyś je wyzwoli.",
       "forms": "[\"mesjanizmu\", \"mesjanizmem\", \"mesjanistyczny\", \"mesjański\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Polska jako Chrystus narodów — cierpi, by inne ludy mogły zmartwychwstać. Jaka to idea?"
     }
   },
   {
@@ -194,7 +215,8 @@
       "term": "prometeizm",
       "definition": "Bunt jednostki przeciw Bogu w imię ludzi — jak Konrad w Dziadach.",
       "forms": "[\"prometeizmu\", \"prometeizmem\", \"prometejski\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Konrad w Dziadach buntuje się przeciw Bogu, żądając władzy dla dobra narodu. Jaką postawę reprezentuje?"
     }
   },
   {
@@ -203,7 +225,8 @@
       "term": "emigracja",
       "definition": "Po 1830 r. Mickiewicz, Słowacki i Chopin w Paryżu — twórczość na wygnaniu.",
       "forms": "[\"emigracji\", \"emigracją\", \"emigracyjny\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Po 1830 r. polscy twórcy — Mickiewicz, Słowacki, Chopin — pisali na wygnaniu w Paryżu. Jakie zjawisko?"
     }
   },
   {
@@ -212,7 +235,8 @@
       "term": "rozbiory",
       "definition": "Rosja, Prusy i Austria podzieliły Polskę (1772-1795). 123 lata bez państwa.",
       "forms": "[\"rozbiorów\", \"rozbiorami\", \"rozbiorowy\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Trzy mocarstwa podzieliły między siebie Rzeczpospolitą w latach 1772–1795. Jak nazywamy te wydarzenia?"
     }
   },
   {
@@ -221,7 +245,8 @@
       "term": "praca organiczna",
       "definition": "Program pozytywistów: rozwijaj przemysł i handel, bo społeczeństwo to organizm.",
       "forms": "[\"pracy organicznej\", \"pracą organiczną\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Pozytywiści porównywali społeczeństwo do organizmu i chcieli rozwijać przemysł zamiast walczyć. Jaki program?"
     }
   },
   {
@@ -230,7 +255,8 @@
       "term": "praca u podstaw",
       "definition": "Program pozytywistów: ucz najuboższych, buduj szkoły zamiast walczyć zbrojnie.",
       "forms": "[\"pracy u podstaw\", \"pracą u podstaw\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Pozytywiści postulowali szerzenie oświaty wśród najuboższych zamiast powstań zbrojnych. Jaki program?"
     }
   },
   {
@@ -239,7 +265,8 @@
       "term": "pozytywizm filozoficzny",
       "definition": "Comte: liczy się tylko wiedza naukowa oparta na faktach i obserwacji.",
       "forms": "[\"pozytywizmu filozoficznego\", \"pozytywizmem filozoficznym\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Comte twierdził, że wartościowa jest wyłącznie wiedza oparta na faktach i obserwacji. Jaki to nurt?"
     }
   },
   {
@@ -248,7 +275,8 @@
       "term": "powieść realistyczna",
       "definition": "Lustro społeczeństwa — szczegółowe opisy, psychologia, narrator wie wszystko.",
       "forms": "[\"powieści realistycznej\", \"powieścią realistyczną\"]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Narrator wszechwiedzący, szczegółowe opisy środowiska, psychologia postaci — jak nazywamy taki typ powieści?"
     }
   },
   {
@@ -257,7 +285,8 @@
       "term": "konflikt tragiczny",
       "definition": "Dwie słuszne racje zderzają się i nie da się wybrać bez katastrofy.",
       "forms": "[\"konfliktu tragicznego\", \"konfliktem tragicznym\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Antygona musi wybrać: prawo boskie czy rozkaz Kreona — obie racje są słuszne. Jak nazywamy taką sytuację?"
     }
   },
   {
@@ -266,7 +295,8 @@
       "term": "prawo boskie",
       "definition": "W Antygonie — moralne prawo do pochówku brata, ważniejsze niż dekret króla.",
       "forms": "[\"prawa boskiego\", \"prawem boskim\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Antygona powołuje się na odwieczne nakazy moralne, wyższe niż prawo stanowione przez Kreona. Na co?"
     }
   },
   {
@@ -275,7 +305,8 @@
       "term": "hybris",
       "definition": "Pycha bohatera, który myśli, że jest nieomylny — i przez to traci wszystko.",
       "forms": "[\"hybris\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Kreon uważa się za nieomylnego władcę i nie słucha ostrzeżeń — przez co traci rodzinę. Jaka to wina?"
     }
   },
   {
@@ -284,7 +315,8 @@
       "term": "hamartia",
       "definition": "Błąd tragiczny z niewiedzy, nie ze złości — Edyp nie wie, że to on zabił.",
       "forms": "[\"hamartii\", \"hamartią\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Edyp popełnia zbrodnię nieświadomie — nie ze złej woli, lecz z niewiedzy. Jakim terminem to określamy?"
     }
   },
   {
@@ -293,7 +325,8 @@
       "term": "inwokacja",
       "definition": "Wezwanie muzy na starcie eposu. Homer: \"Gniew, bogini...\" Mickiewicz: \"Litwo!\"",
       "forms": "[\"inwokacji\", \"inwokacją\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "\"Litwo! Ojczyzno moja!\" — Mickiewicz na początku Pana Tadeusza zwraca się do ojczyzny. Jak nazywamy ten element?"
     }
   },
   {
@@ -302,7 +335,8 @@
       "term": "in medias res",
       "definition": "Zaczynam od środka akcji — Iliada nie od początku wojny, lecz 9. roku.",
       "forms": "[]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Iliada zaczyna się od 9. roku wojny trojańskiej, nie od porwania Heleny. Jaki to zabieg narracyjny?"
     }
   },
   {
@@ -311,7 +345,8 @@
       "term": "narrator wszechwiedzący",
       "definition": "Wie wszystko: myśli bohaterów, plany bogów, obie strony konfliktu.",
       "forms": "[\"narratora wszechwiedzącego\", \"narratorem wszechwiedzącym\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "W Lalce opowiadacz zna myśli wszystkich postaci i komentuje ich działania. Jaki to typ narratora?"
     }
   },
   {
@@ -320,7 +355,8 @@
       "term": "stały epitet",
       "definition": "Powtarzany opis postaci w eposie — Achilles \"szybkonogi\", Odys \"przebiegły\".",
       "forms": "[\"stałego epitetu\", \"stałym epitetem\", \"stałe epitety\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Homer powtarza: \"szybkonogi\" Achilles, \"różanopalca\" Eos. Jakim terminem określamy ten zabieg?"
     }
   },
   {
@@ -329,7 +365,8 @@
       "term": "porównanie homeryckie",
       "definition": "Mega-rozbudowane porównanie: wojownik jak lew, lew jak burza, burza jak gniew.",
       "forms": "[\"porównania homeryckiego\", \"porównaniem homeryckim\", \"porównania homeryckie\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Homer rozbudowuje porównanie na kilkanaście wersów, tworząc odrębny obrazek. Jaki to typ porównania?"
     }
   },
   {
@@ -338,7 +375,8 @@
       "term": "hierarchia pośredników",
       "definition": "W Bogurodzicy modlisz się do Maryi, bo do Boga nie zwracasz się wprost.",
       "forms": "[\"hierarchii pośredników\", \"hierarchią pośredników\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "W Bogurodzicy prośba biegnie od wiernych do Maryi, od Maryi do Chrystusa. Jaka struktura to obrazuje?"
     }
   },
   {
@@ -347,7 +385,8 @@
       "term": "degeneracja moralna",
       "definition": "Bohater powoli upada: Makbet od wahania, przez mord, do pełnego nihilizmu.",
       "forms": "[\"degeneracji moralnej\", \"degeneracją moralną\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Makbet stopniowo zmienia się z wahającego rycerza w bezwzględnego tyrana. Jak nazywamy ten proces?"
     }
   },
   {
@@ -356,7 +395,8 @@
       "term": "Lady Makbet",
       "definition": "Pcha męża do zbrodni, potem łamie się z winy — słynne mycie rąk we śnie.",
       "forms": "[\"Lady Makbet\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Żona namawia go do królobójstwa, a potem myje ręce we śnie, dręczona wyrzutami. Która to postać?"
     }
   },
   {
@@ -365,7 +405,8 @@
       "term": "Wielka Improwizacja",
       "definition": "Konrad krzyczy do Boga: daj mi władzę nad ludźmi, bo chcę zbawić naród!",
       "forms": "[\"Wielkiej Improwizacji\", \"Wielką Improwizacją\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "W celi więziennej Konrad wygłasza monolog, w którym żąda od Boga władzy nad duszami. Jaka to scena?"
     }
   },
   {
@@ -374,7 +415,8 @@
       "term": "Widzenie księdza Piotra",
       "definition": "Pokorny kapłan widzi: Polska to Chrystus narodów, rozbiory to ukrzyżowanie.",
       "forms": "[\"Widzenia księdza Piotra\", \"Widzeniu księdza Piotra\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Pokorny kapłan w Dziadach III dostaje wizję: Polska umiera jak Chrystus i zmartwychwstanie. Jaka to scena?"
     }
   },
   {
@@ -383,7 +425,8 @@
       "term": "martyrologia",
       "definition": "Opisy cierpień polskiej młodzieży w Dziadach III — realne biografie więźniów.",
       "forms": "[\"martyrologii\", \"martyrologią\", \"martyrologiczny\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Mickiewicz w Dziadach III opisuje realne cierpienia polskich więźniów w carskich kazamatach. Jaki to motyw?"
     }
   },
   {
@@ -392,7 +435,8 @@
       "term": "panorama społeczeństwa",
       "definition": "Lalka pokazuje całą Warszawę: arystokrację, kupców, biedotę i ich wzajemne gry.",
       "forms": "[\"panoramy społeczeństwa\", \"panoramą społeczeństwa\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Lalka ukazuje wszystkie warstwy Warszawy — od arystokracji po biedotę. Jakim terminem to określamy?"
     }
   },
   {
@@ -401,7 +445,8 @@
       "term": "klęska idealizmu",
       "definition": "W Lalce trzy pokolenia idealistów przegrywają z polską rzeczywistością.",
       "forms": "[\"klęski idealizmu\", \"klęską idealizmu\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "Wokulski, Rzecki i ojciec Wokulskiego — każdy z nich przegrał ze swoimi ideałami. Jaki motyw Lalki?"
     }
   },
   {
@@ -410,7 +455,8 @@
       "term": "katharsis",
       "definition": "Oczyszczenie emocji po obejrzeniu tragedii — wychodzisz z teatru lżejszy.",
       "forms": "[\"katharsis\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Arystoteles twierdził, że tragedia oczyszcza widza przez litość i trwogę. Jaki to efekt?"
     }
   },
   {
@@ -419,7 +465,8 @@
       "term": "trzy jedności",
       "definition": "Reguły tragedii: max 24h akcji, jedno miejsce, jeden wątek. Zero chaosu.",
       "forms": "[\"trzech jedności\", \"trzema jednościami\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Klasyczna tragedia wymagała jednego miejsca, jednego dnia i jednego wątku. Jaką zasadę to realizuje?"
     }
   },
   {
@@ -428,7 +475,8 @@
       "term": "chór",
       "definition": "Głos wspólnoty w tragedii greckiej — komentuje, ostrzega, wyraża to co widz.",
       "forms": "[\"chóru\", \"chórem\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Grupa osób na scenie komentuje wydarzenia tragedii i wyraża uczucia wspólnoty. Jaki to element dramatu?"
     }
   },
   {
@@ -437,7 +485,8 @@
       "term": "sonet",
       "definition": "14 wersów: 4+4+3+3. Między nimi volta — zwrot myśli. Petrarka dopracował formę.",
       "forms": "[\"sonetu\", \"sonetem\", \"sonety\", \"sonetowy\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Wiersz 14-wersowy, dwie kwatryny i dwie tercyny, ze zwrotem myśli w środku. Jaki to gatunek?"
     }
   },
   {
@@ -446,7 +495,8 @@
       "term": "volta",
       "definition": "Zwrot myśli w sonecie — przejście od opisu do refleksji i puenty.",
       "forms": "[\"volty\", \"voltą\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Między kwatrynami a tercynami sonetu następuje wyraźny zwrot myśli. Jakim terminem go określamy?"
     }
   },
   {
@@ -455,7 +505,8 @@
       "term": "kwatryna",
       "definition": "Czterowersowa strofa w sonecie. Dwie kwatryny = część opisowa wiersza.",
       "forms": "[\"kwatryny\", \"kwartyną\", \"kwartyny\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Sonet otwierają dwie strofy czterowersowe, które tworzą część opisową. Jak je nazywamy?"
     }
   },
   {
@@ -464,7 +515,8 @@
       "term": "tercyna",
       "definition": "Trzywersowa strofa w sonecie. Dwie tercyny = refleksja i puenta po volcie.",
       "forms": "[\"tercyny\", \"tercyną\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Sonet zamykają dwie strofy trzywersowe z refleksją i puentą. Jak je nazywamy?"
     }
   },
   {
@@ -473,7 +525,8 @@
       "term": "synestezja",
       "definition": "Mieszanie zmysłów — \"słyszysz\" ciszę, \"widzisz\" dźwięk. Mickiewicz to kochał.",
       "forms": "[\"synestezji\", \"synestezją\", \"synestetyczny\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "\"Cicha, biała muzyka\" — poeta łączy wrażenia słuchowe ze wzrokowymi. Jaki to środek stylistyczny?"
     }
   },
   {
@@ -482,7 +535,8 @@
       "term": "ballada",
       "definition": "Wiersz z fabułą i dialogami — ludowość + tajemnica. Manifest romantyków.",
       "forms": "[\"ballady\", \"balladą\", \"balladowy\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Mickiewicz łączy ludową fantastykę z liryzmem i dramatem w jednym gatunku. Jakim?"
     }
   },
   {
@@ -491,7 +545,8 @@
       "term": "synkretyzm gatunkowy",
       "definition": "Mieszanka liryki, epiki i dramatu w jednym utworze — np. ballada romantyczna.",
       "forms": "[\"synkretyzmu gatunkowego\", \"synkretyzmem gatunkowym\", \"synkretyczny\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Ballada Mickiewicza łączy elementy liryki, epiki i dramatu w jednym utworze. Jakim terminem to określamy?"
     }
   },
   {
@@ -500,7 +555,8 @@
       "term": "powieść historyczna",
       "definition": "Fabuła w przeszłości — Sienkiewicz budował mit dawnej Polski w Trylogii.",
       "forms": "[\"powieści historycznej\", \"powieścią historyczną\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Sienkiewicz osadził fikcyjną fabułę w XVII-wiecznej Polsce, budując mit przeszłości. Jaki to typ powieści?"
     }
   },
   {
@@ -509,7 +565,8 @@
       "term": "powieść tendencyjna",
       "definition": "Powieść z tezą: Orzeszkowa w Marcie pokazuje tragedię kobiety bez praw.",
       "forms": "[\"powieści tendencyjnej\", \"powieścią tendencyjną\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Orzeszkowa w Marcie udowadnia z góry założoną tezę o krzywdzie kobiet. Jaki to typ powieści?"
     }
   },
   {
@@ -518,7 +575,8 @@
       "term": "powieść epistolarna",
       "definition": "Powieść złożona z listów — klasyk: Cierpienia młodego Wertera Goethego.",
       "forms": "[\"powieści epistolarnej\", \"powieścią epistolarną\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Werter Goethego składa się wyłącznie z listów bohatera. Jak nazywamy taki typ powieści?"
     }
   },
   {
@@ -527,7 +585,8 @@
       "term": "powieść psychologiczna",
       "definition": "Wchodzi w głowę bohatera — Dostojewski analizuje psychikę mordercy.",
       "forms": "[\"powieści psychologicznej\", \"powieścią psychologiczną\"]",
-      "category": "poetyka"
+      "category": "poetyka",
+      "matura": "Dostojewski w Zbrodni i karze wnika w psychikę mordercy, analizując motywacje. Jaki to typ powieści?"
     }
   },
   {
@@ -536,7 +595,8 @@
       "term": "archetyp",
       "definition": "Uniwersalny wzorzec postaci: Prometeusz = buntownik, Syzyf = bohater absurdu.",
       "forms": "[\"archetypu\", \"archetypem\", \"archetypy\", \"archetypowy\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Prometeusz jako buntownik, Syzyf jako bohater absurdu — to uniwersalne wzorce. Jakim terminem je określamy?"
     }
   },
   {
@@ -545,7 +605,8 @@
       "term": "Prometeusz",
       "definition": "Ukradł bogom ogień dla ludzi, skazany na wieczną mękę. Wzór buntownika.",
       "forms": "[\"Prometeusza\", \"Prometeuszem\", \"prometejski\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Tytan ukradł bogom ogień i dał go ludziom, za co cierpi wieczną karę. Która to postać mitologiczna?"
     }
   },
   {
@@ -554,7 +615,8 @@
       "term": "Syzyf",
       "definition": "Wiecznie wtacza głaz na górę. Camus mówi: jest szczęśliwy, bo ma cel.",
       "forms": "[\"Syzyfa\", \"Syzyfem\", \"syzyfowy\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Skazaniec w Hadesie wiecznie wtacza głaz, który stacza się z powrotem. Camus widzi w nim bohatera. Kto to?"
     }
   },
   {
@@ -563,7 +625,8 @@
       "term": "Ikar",
       "definition": "Poleciał za blisko słońca, skrzydła się stopiły. Symbol ambicji bez granic.",
       "forms": "[\"Ikara\", \"Ikarem\", \"ikaryjski\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Woskowe skrzydła stopiły się, bo poleciał zbyt blisko słońca wbrew ostrzeżeniom ojca. Kto to?"
     }
   },
   {
@@ -572,7 +635,8 @@
       "term": "psalm",
       "definition": "Pieśń pochwalna lub błagalna do Boga — gatunek biblijny, żyje do dziś.",
       "forms": "[\"psalmu\", \"psalmem\", \"psalmy\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Dawid śpiewał pieśni pochwalne i błagalne do Boga, zebrane w Starym Testamencie. Jaki to gatunek?"
     }
   },
   {
@@ -581,7 +645,8 @@
       "term": "przypowieść",
       "definition": "Krótka historia z morałem — syn marnotrawny, Dobry Samarytanin. Uczy analogią.",
       "forms": "[\"przypowieści\", \"przypowieścią\", \"parabola\", \"paraboli\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Chrystus opowiada o synu marnotrawnym, by nauczać o przebaczeniu przez analogię. Jaki to gatunek?"
     }
   },
   {
@@ -590,7 +655,8 @@
       "term": "apokalipsa",
       "definition": "Wizja końca świata i Sądu Ostatecznego. Powraca u Krasińskiego i Miłosza.",
       "forms": "[\"apokalipsy\", \"apokalipsą\", \"apokaliptyczny\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Wizja końca świata, sądu i zagłady — od Biblii po Nie-Boską komedię Krasińskiego. Jaki to motyw?"
     }
   },
   {
@@ -599,7 +665,8 @@
       "term": "raj utracony",
       "definition": "Tęsknota za utraconym szczęściem — jak dzieciństwo Litwy u Mickiewicza.",
       "forms": "[\"raju utraconego\", \"rajem utraconym\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Mickiewicz tęskni za dzieciństwem na Litwie jak za utraconą krainą szczęścia. Jaki to motyw?"
     }
   },
   {
@@ -608,7 +675,8 @@
       "term": "teodyce",
       "definition": "Dlaczego Bóg dopuszcza cierpienie? Pytanie Hioba i Kochanowskiego.",
       "forms": "[\"teodycei\", \"teodyceja\", \"teodycejny\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Kochanowski po śmierci córki pyta: dlaczego Bóg dopuszcza cierpienie niewinnych? Jaki to problem?"
     }
   },
   {
@@ -617,7 +685,8 @@
       "term": "homo viator",
       "definition": "Człowiek-pielgrzym — życie jako podróż ku wieczności. Motyw od Biblii po dziś.",
       "forms": "[]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Średniowieczna koncepcja: życie to pielgrzymka ku wieczności, ziemia jest tylko przystankiem. Jaki to topos?"
     }
   },
   {
@@ -626,7 +695,8 @@
       "term": "lamentacja",
       "definition": "Pieśń żalu i rozpaczy. Lament świętokrzyski — najstarsza polska lamentacja.",
       "forms": "[\"lamentacji\", \"lamentacją\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Matka Boska opłakuje cierpienie syna pod krzyżem w najstarszym polskim tekście tego gatunku. Jakiego?"
     }
   },
   {
@@ -635,7 +705,8 @@
       "term": "stoicyzm",
       "definition": "Opanuj emocje, znoś los z godnością, nie daj się okolicznościom.",
       "forms": "[\"stoicyzmu\", \"stoicyzmem\", \"stoicki\", \"stoik\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Kochanowski w pieśniach radzi: znoś przeciwności losu z godnością i spokojem. Jaką filozofię głosi?"
     }
   },
   {
@@ -644,7 +715,8 @@
       "term": "epikureizm",
       "definition": "Rozsądna przyjemność i unikanie cierpienia. Horacy: \"Carpe diem!\"",
       "forms": "[\"epikureizmu\", \"epikureizmem\", \"epikurejski\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Horacy wzywa: \"Carpe diem!\" — ciesz się chwilą i unikaj zbędnego cierpienia. Jaka to filozofia?"
     }
   },
   {
@@ -653,7 +725,8 @@
       "term": "złoty środek",
       "definition": "Arystoteles: cnota leży między skrajnościami. Nie za dużo, nie za mało.",
       "forms": "[\"złotego środka\", \"złotym środkiem\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Arystoteles twierdził, że cnota leży pomiędzy nadmiarem a niedostatkiem. Jaką zasadę sformułował?"
     }
   },
   {
@@ -662,7 +735,8 @@
       "term": "scholastyka",
       "definition": "Średniowieczna metoda: połącz wiarę z rozumem. Św. Tomasz robił to najlepiej.",
       "forms": "[\"scholastyki\", \"scholastyką\", \"scholastyczny\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Św. Tomasz z Akwinu łączył wiarę z rozumem, stosując logiczną metodę dowodzenia. Jaki to nurt?"
     }
   },
   {
@@ -671,7 +745,8 @@
       "term": "racjonalizm",
       "definition": "Rozum jest źródłem wiedzy. Kartezjusz: \"Myślę, więc jestem.\"",
       "forms": "[\"racjonalizmu\", \"racjonalizmem\", \"racjonalistyczny\", \"racjonalny\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Kartezjusz twierdził: \"Myślę, więc jestem\" — rozum jest jedynym pewnym źródłem wiedzy. Jaki to nurt?"
     }
   },
   {
@@ -680,7 +755,8 @@
       "term": "empiryzm",
       "definition": "Wiedza pochodzi z doświadczenia zmysłowego, nie z wrodzonych idei. Locke.",
       "forms": "[\"empiryzmu\", \"empiryzmem\", \"empiryczny\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Locke twierdził, że umysł jest czystą kartą, a wiedza pochodzi wyłącznie z doświadczenia. Jaki to nurt?"
     }
   },
   {
@@ -689,7 +765,8 @@
       "term": "utylitaryzm",
       "definition": "Dobre jest to, co daje szczęście jak największej liczbie ludzi. Bentham i Mill.",
       "forms": "[\"utylitaryzmu\", \"utylitaryzmem\", \"utylitarny\", \"utylitarystyczny\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Mill twierdził: dobre jest to, co przynosi szczęście jak największej liczbie ludzi. Jaka to doktryna?"
     }
   },
   {
@@ -698,7 +775,8 @@
       "term": "nadczłowiek",
       "definition": "Nietzsche: po \"śmierci Boga\" jednostka tworzy własne wartości i reguły.",
       "forms": "[\"nadczłowieka\", \"nadczłowiekiem\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Nietzsche głosił, że po \"śmierci Boga\" wyjątkowa jednostka sama tworzy wartości. Jaką koncepcję stworzył?"
     }
   },
   {
@@ -707,7 +785,8 @@
       "term": "dekadentyzm",
       "definition": "Młoda Polska: bezsilność, pesymizm, fascynacja śmiercią. Schopenhauer rządzi.",
       "forms": "[\"dekadentyzmu\", \"dekadentyzmem\", \"dekadencki\", \"dekadent\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Poeci Młodej Polski głoszą bezsilność, pesymizm i fascynację śmiercią za Schopenhauerem. Jaka to postawa?"
     }
   },
   {
@@ -716,7 +795,8 @@
       "term": "egzystencjalizm",
       "definition": "Sartre i Camus: jesteś wolny, nie ma gotowego sensu — stwórz go sam.",
       "forms": "[\"egzystencjalizmu\", \"egzystencjalizmem\", \"egzystencjalny\", \"egzystencjalistyczny\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Sartre twierdził: człowiek jest skazany na wolność, sam musi nadać życiu sens. Jaki to nurt?"
     }
   },
   {
@@ -725,7 +805,8 @@
       "term": "neoplatonizm",
       "definition": "Renesansowy Platon: piękno prowadzi do prawdy, świat to odbicie ideału.",
       "forms": "[\"neoplatonizmu\", \"neoplatonizmem\", \"neoplatoński\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Renesansowi myśliciele wierzyli, że piękno wiedzie ku prawdzie, a świat jest odbiciem ideału. Jaki to nurt?"
     }
   },
   {
@@ -734,7 +815,8 @@
       "term": "powstanie listopadowe",
       "definition": "Zryw przeciw Rosji 1830 r. — klęska dała Dziady cz. III i Wielką Emigrację.",
       "forms": "[\"powstania listopadowego\", \"powstaniem listopadowym\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Zryw przeciw Rosji w 1830 r. — jego klęska zainspirowała Mickiewicza do napisania Dziadów III. Jakie wydarzenie?"
     }
   },
   {
@@ -743,7 +825,8 @@
       "term": "powstanie styczniowe",
       "definition": "Zryw 1863 r. — klęska skończyła romantyczny heroizm, zaczął się pozytywizm.",
       "forms": "[\"powstania styczniowego\", \"powstaniem styczniowym\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "Klęska zrywu z 1863 r. pogrzebała romantyczny heroizm i otworzyła drogę pozytywizmowi. Jakie wydarzenie?"
     }
   },
   {
@@ -752,7 +835,8 @@
       "term": "drugi obieg",
       "definition": "Podziemne książki w PRL, poza cenzurą. Tam publikowali Miłosz i Herbert.",
       "forms": "[\"drugiego obiegu\", \"drugim obiegiem\"]",
-      "category": "konteksty"
+      "category": "konteksty",
+      "matura": "W PRL-u zakazane książki krążyły potajemnie, poza oficjalną cenzurą. Jak nazywamy ten system publikacji?"
     }
   },
   {
@@ -761,7 +845,8 @@
       "term": "Chrystus narodów",
       "definition": "Polska cierpi jak Chrystus, rozbiory = krzyż, odrodzenie = zmartwychwstanie.",
       "forms": "[\"Chrystusa narodów\", \"Chrystusem narodów\"]",
-      "category": "lektury"
+      "category": "lektury",
+      "matura": "W Widzeniu księdza Piotra Polska umiera na krzyżu rozbiorów i zmartwychwstaje. Jaki to motyw?"
     }
   },
   {
@@ -770,7 +855,8 @@
       "term": "docere et movere",
       "definition": "\"Uczyć i wzruszać\" — średniowiecze: literatura ma prowadzić do zbawienia.",
       "forms": "[]",
-      "category": "epoki"
+      "category": "epoki",
+      "matura": "Średniowieczna zasada: literatura powinna jednocześnie pouczać i wzruszać odbiorcę. Jakie łacińskie hasło?"
     }
   }
 ]
