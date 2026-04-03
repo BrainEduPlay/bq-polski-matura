@@ -4,7 +4,7 @@
     "parentRef": "sredniowiecze",
     "data": {
       "contentType": "text",
-      "text": "## Średniowiecze — epoka, która patrzy w górę\n\nZapomnij o stereotypie \"ciemnych wieków\". Średniowiecze (V—XV w.) to czas, kiedy ludzie budowali katedry sięgające nieba — i to jest klucz do zrozumienia epoki. Wszystko kierowało się ku górze, ku Bogu.\n\n**Teocentryzm** — oto słowo, które musisz zapamiętać. Bóg jest centrum wszechświata, centrum myśli, centrum sztuki. Człowiek? Jest ważny, ale jako stworzenie Boże, nie sam dla siebie. To radykalna zmiana w porównaniu z antykiem, gdzie ludzka doskonałość była celem samym w sobie.\n\nLiteratura miała jeden główny cel: **uczyć i wzruszać** (*docere et movere*). Dlatego średniowieczni autorzy stworzyli trzy **wzorce osobowe** — modele do naśladowania:\n- **Święty** (asceta) — wyrzeka się świata doczesnego, np. św. Aleksy\n- **Rycerz** — walczy z honorem, jest wierny Bogu i panu, np. Roland\n- **Władca** — sprawiedliwy i mądry, np. Bolesław Chrobry w kronikach\n\nKażdy z tych wzorców odpowiadał na pytanie: jak żyć, żeby zasłużyć na zbawienie?"
+      "text": "## Ciemne wieki? Serio?\n\nLudzie, którzy budowali katedry wyższe niż współczesne bloki, nie byli ciemni. Średniowiecze (V–XV w.) patrzyło w górę — ku Bogu. **Teocentryzm**: Bóg jest centrum wszystkiego. Człowiek ma wartość, ale jako stworzenie Boże, nie sam z siebie. Totalna zmiana reguł po antyku."
     }
   },
   {
@@ -12,7 +12,23 @@
     "parentRef": "sredniowiecze",
     "data": {
       "contentType": "text",
-      "text": "## Bogurodzica — hymn, który budował naród\n\nTeraz wyobraź sobie pole pod Grunwaldem, 1410 rok. Tysiące rycerzy śpiewa tę samą pieśń przed bitwą. To *Bogurodzica* — prawdopodobnie XIII-wieczna, **najstarszy zachowany utwór poetycki w języku polskim**.\n\nDlaczego jest tak ważna? Bo łączy trzy funkcje jednocześnie:\n- **Modlitwa** — prośba do Matki Boskiej jako pośredniczki między ludźmi a Chrystusem\n- **Hymn bojowy** — śpiewana przed bitwami, jednoczyła wojsko\n- **Manifest tożsamości** — Jan Długosz nazwał ją *carmen patrium* (pieśnią ojczystą)\n\nZwróć uwagę na strukturę dwóch najstarszych strof: człowiek nie zwraca się bezpośrednio do Boga, lecz **przez pośredników** (Maryja, Jan Chrzciciel). To teologiczny porządek średniowiecza — między tobą a Stwórcą stoi hierarchia.\n\nDominował język łaciński. To, że ktoś napisał utwór po polsku, było wydarzeniem. Oprócz *Bogurodzicy* zachowały się *Kazania świętokrzyskie* i *Lament świętokrzyski* — ale to pieśń maryjna pełniła rolę hymnu narodowego aż do XVI w."
+      "text": "## Trzech bohaterów, jeden cel: zbawienie\n\nLiteratura miała uczyć, jak żyć. Stąd trzy **wzorce osobowe**. **Święty** (asceta) — wyrzeka się świata, jak św. Aleksy. **Rycerz** — walczy z honorem, jak Roland. **Władca** — rządzi sprawiedliwie, jak Chrobry w kronikach. Każdy wzorzec to inna droga do Boga."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "sredniowiecze",
+    "data": {
+      "contentType": "text",
+      "text": "## Grunwald 1410. Tysiące rycerzy śpiewają jedną pieśń.\n\nTo *Bogurodzica* — **najstarszy zachowany utwór poetycki po polsku**. Modlitwa, hymn bojowy i manifest tożsamości w jednym. Człowiek zwraca się do Boga przez pośredników — Maryję, Jana Chrzciciela. Hierarchia. Porządek. Średniowiecze w pigułce."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "sredniowiecze",
+    "data": {
+      "contentType": "text",
+      "text": "## Dlaczego pisali po łacinie, a nie po polsku?\n\nBo łacina to był język Kościoła, nauki, władzy. Tekst po polsku? Wydarzenie. Oprócz *Bogurodzicy* przetrwały *Kazania świętokrzyskie* i *Lament świętokrzyski*. Ale to pieśń maryjna grała rolę hymnu narodowego — aż do XVI wieku."
     }
   },
   {
@@ -20,8 +36,8 @@
     "parentRef": "sredniowiecze",
     "data": {
       "contentType": "quiz",
-      "text": "Dlaczego teocentryzm średniowieczny wpłynął na kształt wzorców osobowych tej epoki?",
-      "answer": "Skoro Bóg był centrum i ostatecznym celem życia, wzorce osobowe — święty, rycerz, władca — definiowały się przez relację z Bogiem i służbę wspólnocie wiernych. Asceta wyrzekał się świata dla Boga, rycerz walczył w Jego imię, władca rządził jako namiestnik Boży. Wszystkie trzy wzorce prowadziły do zbawienia."
+      "text": "Jak teocentryzm ukształtował średniowieczne wzorce osobowe?",
+      "answer": "Skoro Bóg był celem życia, każdy wzorzec definiował się przez relację z Nim. Asceta wyrzekał się świata dla Boga, rycerz walczył w Jego imię, władca rządził jako Boży namiestnik. Wszystkie drogi prowadziły do zbawienia."
     }
   }
 ]
