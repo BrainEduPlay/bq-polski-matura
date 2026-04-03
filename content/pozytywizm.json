@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "pozytywizm",
+    "data": {
+      "contentType": "text",
+      "text": "## Pozytywizm — po katastrofie przychodzi praca\n\nRok 1863. Powstanie styczniowe upada. Tysiące ludzi zginęło, tysiące trafiło na Syberię. I teraz zadaj sobie pytanie: co robisz, kiedy walka zbrojna zawiodła? Kiedy romantyczny heroizm skończył się klęską?\n\nOdpowiedź pozytywistów: **pracujesz**. Ale nie byle jak — mają na to dwa programy:\n\n- **Praca organiczna** — społeczeństwo to organizm. Każdy organ musi działać, żeby całość była zdrowa. Trzeba rozwijać przemysł, handel, gospodarkę. Modernizacja od środka.\n- **Praca u podstaw** — skoro nie możesz walczyć szablą, walcz edukacją. Ucz chłopów czytać, buduj szkoły, szpitale, ochronki. Podnoś najuboższych.\n\nFilozoficzną bazą był **Auguste Comte** i jego **pozytywizm filozoficzny**: liczy się to, co można zbadać naukowo. Wiedza, fakty, empiria — nie mistyczne wizje i poetyckie uniesienia.\n\nTo dlatego pozytywiści kochali **powieść realistyczną** — bo mogła pokazać społeczeństwo jak pod mikroskopem, zdiagnozować jego choroby i zaproponować lekarstwo."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "pozytywizm",
+    "data": {
+      "contentType": "text",
+      "text": "## Wielka trójka pozytywizmu\n\n**Bolesław Prus** — najostrzejszy obserwator. *Lalka* to powieść totalna: panorama Warszawy, trzy pokolenia idealistów, analiza tego, dlaczego polskie społeczeństwo nie potrafi się zmodernizować. Wokulski — kupiec, naukowiec, romantyk — rozbija się o mur stanowych uprzedzeń.\n\n**Eliza Orzeszkowa** — pisarka z misją. *Nad Niemnem* pokazuje, że praca na roli jest tak samo godna jak szlachecki herb. W *Marcie* opisała tragedię kobiety bez wykształcenia i prawa do pracy — literatura tendencyjna, ale z autentycznym gniewem.\n\n**Henryk Sienkiewicz** — *Trylogia* pokrzepiała serca wizją dawnej Polski. Krytykowano go za idealizację przeszłości, ale miliony czytelników odnajdywały w jego powieściach nadzieję.\n\nZwróć uwagę na paradoks: pozytywiści odrzucili romantyzm, ale ich bohaterowie — Wokulski, Judym, marta — to także idealiści, którzy ponoszą klęskę. Zmienił się program, ale nie ludzki los."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "pozytywizm",
+    "data": {
+      "contentType": "quiz",
+      "text": "Na czym polega różnica między pracą organiczną a pracą u podstaw?",
+      "answer": "Praca organiczna to program budowy społeczeństwa jako zdrowego organizmu — rozwój przemysłu, handlu, gospodarki, współdziałanie wszystkich warstw. Praca u podstaw to edukacja i pomoc najuboższym (chłopom, kobietom, mniejszościom) — zakładanie szkół, szpitali, walka z ciemnotą. Pierwsza dotyczy struktury społecznej, druga — podnoszenia konkretnych ludzi."
+    }
+  }
+]
