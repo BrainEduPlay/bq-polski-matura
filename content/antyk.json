@@ -4,7 +4,7 @@
     "parentRef": "antyk",
     "data": {
       "contentType": "text",
-      "text": "## Antyk — tam, gdzie wszystko się zaczęło\n\nWyobraź sobie, że stoisz w ateńskim teatrze. Jest V wiek p.n.e. Piętnaście tysięcy ludzi patrzy na jednego aktora w masce. Za chwilę dowie się, że Edyp nieświadomie zabił własnego ojca. Widownia zna prawdę — bohater nie. To właśnie **ironia tragiczna**, i wymyślili ją Grecy.\n\nAntyk (ok. VIII w. p.n.e. — V w. n.e.) to nie zakurzona starożytność. To laboratorium, w którym powstały prawie wszystkie gatunki literackie, jakie znasz: **tragedia**, **komedia**, **epos**, **liryka**. Grecy wymyślili nawet krytykę literacką — **Arystoteles** w *Poetyce* opisał, jak działa dobra fabuła.\n\nDwa ideały rządziły tym światem. **Kalokagathia** — przekonanie, że prawdziwa doskonałość łączy piękno ciała z pięknem duszy. I **arete** — dążenie do bycia najlepszym w swojej dziedzinie: w walce, w mowie, w myśleniu. Ale uwaga: nad każdym, nawet Achillesem, wisiało **fatum** — przeznaczenie, którego nie da się oszukać. To napięcie między ludzką wielkością a kosmicznym porządkiem napędza całą literaturę antyczną."
+      "text": "## Skąd się wzięła cała literatura?\n\n15 000 ludzi w ateńskim teatrze. Jeden aktor w masce. Widownia wie, że Edyp zabił ojca — on nie. To **ironia tragiczna**. Grecy wymyślili ją 2500 lat temu. Wymyślili też **tragedię**, **komedię**, **epos** i **lirykę**. Prawie wszystko, co czytasz, zaczęło się tutaj."
     }
   },
   {
@@ -12,7 +12,23 @@
     "parentRef": "antyk",
     "data": {
       "contentType": "text",
-      "text": "## Dlaczego antyk jest nieśmiertelny\n\nZwróć uwagę na coś zaskakującego: prawie każdy wielki autor w historii literatury wraca do antyku. Mickiewicz pisze epos, Szekspir czerpie z tragedii, Camus przepisuje mit o Syzyfie. Dlaczego?\n\nBo Grecy zadali pytania, na które wciąż nie mamy odpowiedzi:\n- Czy istnieje prawo wyższe niż prawo państwa? (*Antygona*)\n- Czy można uciec przed przeznaczeniem? (*Król Edyp*)\n- Ile warta jest sława, jeśli ceną jest śmierć? (*Iliada*)\n\nNajważniejsi twórcy — **Homer** (ojciec eposu, autor *Iliady* i *Odysei*), **Sofokles** (mistrz konfliktu tragicznego), **Horacy** (\"carpe diem\", \"non omnis moriar\"). Każdy z nich stworzył coś, co przeżyło tysiąclecia. Ciekawe, prawda? Pisali na glinianych tabliczkach i papirusie, a wciąż czytamy ich na maturze."
+      "text": "## Co napędzało antycznych bohaterów?\n\nDwa słowa-klucze. **Kalokagathia** — piękne ciało + piękna dusza = pełnia człowieczeństwa. **Arete** — bądź najlepszy. W walce, w mowie, w myśleniu. Ale nad każdym wisiało **fatum** — los, którego nie oszukasz. Nawet Achilles przegrał z przeznaczeniem."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "antyk",
+    "data": {
+      "contentType": "text",
+      "text": "## Dlaczego wciąż to czytamy?\n\nBo Grecy zadali pytania bez odpowiedzi. Czy prawo sumienia bije prawo państwa? (*Antygona*). Czy da się uciec przed losem? (*Król Edyp*). **Homer** stworzył epos, **Sofokles** — konflikt tragiczny, **Horacy** — \"carpe diem\". Pisali na papirusie. Czytamy na maturze."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "antyk",
+    "data": {
+      "contentType": "text",
+      "text": "## Arystoteles — facet, który opisał reguły gry\n\nWyobraź sobie, że ktoś ogląda setki sztuk i wyciąga z nich przepis na dobrą fabułę. To **Arystoteles** i jego *Poetyka*. Zasada trzech jedności, **katharsis** — oczyszczenie przez litość i trwogę. Pierwszy krytyk literacki w historii. I wciąż aktualny."
     }
   },
   {
@@ -20,8 +36,8 @@
     "parentRef": "antyk",
     "data": {
       "contentType": "quiz",
-      "text": "Wyjaśnij, czym jest kalokagathia i jak ten ideał wpływał na postrzeganie bohatera w literaturze antycznej.",
-      "answer": "Kalokagathia to harmonia piękna fizycznego (kalos) i doskonałości moralnej (kagathos). Bohater antyczny musiał być zarówno piękny, jak i szlachetny — np. Achilles łączy waleczność z głębokim uczuciem (opłakuje Patroklosa). Ideał ten oznaczał, że wygląd i charakter tworzą nierozerwalną całość."
+      "text": "Czym jest kalokagathia i jak widać ją w antycznych bohaterach?",
+      "answer": "Kalokagathia to ideał jedności piękna ciała i szlachetności duszy. Achilles jest waleczny, ale też zdolny do głębokiego żalu po Patroklosie. Antyczny bohater nie mógł być tylko silny — musiał łączyć sprawność fizyczną z doskonałością moralną."
     }
   }
 ]
