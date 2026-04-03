@@ -4,7 +4,7 @@
     "parentRef": "renesans",
     "data": {
       "contentType": "text",
-      "text": "## Renesans — kiedy człowiek stanął w centrum\n\nPo wiekach patrzenia w niebo ludzie w XV wieku zaczęli patrzeć na siebie — i to, co zobaczyli, im się spodobało. Tak w uproszczeniu zaczął się renesans.\n\n**Antropocentryzm** zastąpił **teocentryzm**. Nie znaczy to, że ludzie przestali wierzyć w Boga — ale zaczęli wierzyć również w siebie. W swój rozum, godność, zdolność tworzenia. Hasło epoki? **Ad fontes** — \"do źródeł\". Czyli: wróćmy do starożytnych Greków i Rzymian, bo oni wiedzieli, co to znaczy być pełnym człowiekiem.\n\n**Humanizm** — oto filozofia, która napędzała ten przewrót. Humanista czytał klasyków, znał łacinę i grekę, cenił piękno, sztukę, naukę. Pico della Mirandola w *Mowie o godności człowieka* napisał, że Bóg postawił ludzi pośrodku wszechświata i dał im wolność kształtowania siebie. Rewolucyjna myśl!\n\nW Polsce złoty wiek przypadł na czasy Zygmuntów. I to wtedy na scenę wkroczył ktoś, kto zmienił polską literaturę raz na zawsze..."
+      "text": "## A gdyby to człowiek był najważniejszy?\n\nPo wiekach patrzenia w niebo ludzie spojrzeli na siebie — i im się spodobało. **Antropocentryzm** zastąpił **teocentryzm**. Nie rzucili wiary, ale zaczęli wierzyć też w rozum i godność. Hasło: **ad fontes** — wracamy do Greków i Rzymian. Oni wiedzieli, jak żyć."
     }
   },
   {
@@ -12,7 +12,23 @@
     "parentRef": "renesans",
     "data": {
       "contentType": "text",
-      "text": "## Kochanowski, Rej i narodziny polszczyzny literackiej\n\n**Mikołaj Rej** — pierwszy twórca piszący wyłącznie po polsku. Jego słynne zdanie znasz: *\"A niechaj narodowie wżdy postronni znają, iż Polacy nie gęsi, iż swój język mają.\"* Brzmi jak żart, ale to było wyznanie wiary — w polszczyznę jako język godny literatury.\n\nAle prawdziwym geniuszem renesansu polskiego był **Jan Kochanowski**. Dlaczego? Bo udowodnił, że po polsku można pisać tak samo pięknie jak po łacinie czy włosku.\n\n*Treny* — cykl 19 utworów napisanych po śmierci córki Urszulki — to arcydzieło liryki żałobnej. Kochanowski zaczyna od rozpaczy, przechodzi przez gniew na filozofię (\"Wielkieś mi uczyniła pustki w domu moim...\"), a kończy pokornym pogodzeniem z losem. To nie jest zimna retoryka — to **autentyczny ból** przelany w doskonałą formę.\n\nRenesans to też czas **reformacji** i zaskakującej polskiej tolerancji religijnej, potwierdzonej **konfederacją warszawską** (1573) — jednym z pierwszych aktów wolności wyznania w Europie."
+      "text": "## Humanizm — filozofia, która zmieniła wszystko\n\n**Humanizm**: czytaj klasyków, poznawaj języki, ciesz się pięknem. Pico della Mirandola napisał, że Bóg dał człowiekowi wolność kształtowania siebie. Rewolucja. W Polsce złoty wiek Zygmuntów. I wtedy pojawił się ktoś, kto zmienił polską literaturę na zawsze..."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "renesans",
+    "data": {
+      "contentType": "text",
+      "text": "## Rej mówi po polsku. Kochanowski — genialnie.\n\n**Mikołaj Rej**: *\"Polacy nie gęsi, iż swój język mają\"*. Pierwszy pisał wyłącznie po polsku. Ale geniuszem był **Jan Kochanowski**. *Treny* — 19 utworów po śmierci córki Urszulki. Rozpacz, gniew, pogodzenie. Nie retoryka — **autentyczny ból** w doskonałej formie."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "renesans",
+    "data": {
+      "contentType": "text",
+      "text": "## Polska tolerancja? W XVI wieku — tak.\n\nZaskoczenie: **konfederacja warszawska** (1573) to jeden z pierwszych aktów wolności wyznania w Europie. Czas **reformacji**, a Polska zamiast palić heretyków, gwarantuje im prawa. Na tle krwawych wojen religijnych w Europie — ewenement."
     }
   },
   {
@@ -20,8 +36,8 @@
     "parentRef": "renesans",
     "data": {
       "contentType": "quiz",
-      "text": "Na czym polegał przełom renesansowy w stosunku do średniowiecza? Odwołaj się do terminów teocentryzm i antropocentryzm.",
-      "answer": "Średniowiecze było teocen­tryczne — Bóg stanowił centrum myśli i sztuki, a człowiek definiował się przez relację z Bogiem. Renesans przyniósł antropocentryzm — człowiek z jego rozumem, godnością i twórczością stał się centralną wartością. Hasło ad fontes (powrót do źródeł antycznych) i humanizm dowartościowały doczesne życie, wiedzę i piękno."
+      "text": "Na czym polegał przełom renesansowy wobec średniowiecza?",
+      "answer": "Średniowiecze — teocentryzm: Bóg w centrum, człowiek definiowany przez relację z Bogiem. Renesans — antropocentryzm: człowiek z jego rozumem i godnością stał się centralną wartością. Hasło ad fontes i humanizm dowartościowały wiedzę, piękno i doczesne życie."
     }
   }
 ]
