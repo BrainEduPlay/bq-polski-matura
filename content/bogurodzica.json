@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "bogurodzica",
+    "data": {
+      "contentType": "text",
+      "text": "## Bogurodzica — pierwsza pieśń w języku polskim\n\nSą teksty, które są ważne nie dlatego, że są doskonałe, ale dlatego, że były **pierwsze**. *Bogurodzica* to najstarszy zachowany utwór poetycki w języku polskim — prawdopodobnie z XIII wieku. I choć dla współczesnego ucha brzmi archaicznie, w swoim czasie była czymś niezwykłym: dowodem, że po polsku da się nie tylko mówić, ale też **śpiewać i modlić się**.\n\nDwie najstarsze strofy mają precyzyjną strukturę teologiczną:\n- **Strofa 1**: prośba do Maryi — \"Bogurodzico, dziewico, Bogiem sławiena, Maryja\" — jako **pośredniczki** między ludźmi a Chrystusem\n- **Strofa 2**: prośba do Chrystusa przez **Jana Chrzciciela**\n\nZwróć uwagę: człowiek **nie zwraca się bezpośrednio do Boga**. To porządek średniowieczny — między tobą a Stwórcą stoi **hierarchia pośredników**. To mówi o epoce więcej niż niejeden podręcznik."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "bogurodzica",
+    "data": {
+      "contentType": "text",
+      "text": "## Hymn, modlitwa, manifest\n\nCiekawe, jak jeden krótki tekst może pełnić tak wiele funkcji jednocześnie. *Bogurodzica* to:\n\n- **Modlitwa** — szczera prośba o ziszczenie (\"zyszczy nam\") i rajskie przebywanie po śmierci\n- **Hymn bojowy** — śpiewana przez rycerzy przed bitwą pod **Grunwaldem** (1410) i pod Warną (1444)\n- **Manifest tożsamości** — Jan Długosz nazwał ją *carmen patrium* (pieśnią ojczystą), co oznacza, że pełniła rolę hymnu narodowego\n\nDlaczego bitewny hymn jest jednocześnie modlitwą? Bo w średniowieczu walka i wiara nie były rozdzielone. Rycerz szedł do boju z Bogiem na ustach — a *Bogurodzica* łączyła prywatną pobożność z patriotycznym zrywem.\n\nDla CKE ważne: *Bogurodzica* to **pierwszy zabytek polskiej liryki**, łączący funkcję **religijną, patriotyczną i literacką**. Pokazuje **teocentryzm** epoki — nawet na wojnę idzie się z modlitwą."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "bogurodzica",
+    "data": {
+      "contentType": "quiz",
+      "text": "Jakie trzy funkcje pełniła *Bogurodzica* i jak odzwierciedlają one teocentryczny charakter średniowiecza?",
+      "answer": "Bogurodzica pełniła funkcję religijną (modlitwa do Matki Boskiej jako pośredniczki), patriotyczną (hymn bojowy śpiewany przed bitwami — pod Grunwaldem, pod Warną) i literacką (pierwszy zachowany utwór poetycki po polsku). Wszystkie te funkcje łączy teocentryzm: nawet walka o ojczyznę jest aktem wiary, a sztuka służy Bogu i wspólnocie wiernych."
+    }
+  }
+]
