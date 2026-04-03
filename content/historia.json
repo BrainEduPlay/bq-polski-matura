@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "historia",
+    "data": {
+      "contentType": "text",
+      "text": "## Historia — dlaczego polska literatura jest polityczna\n\nJest coś, co odróżnia literaturę polską od francuskiej, angielskiej czy niemieckiej: **w Polsce literatura musiała zastępować państwo**.\n\nKiedy w 1795 roku Polska zniknęła z mapy Europy po **trzecim rozbiorze**, to właśnie poeci i pisarze stali się strażnikami tożsamości narodowej. Nie mieli parlamentu, armii ani króla — mieli słowa.\n\nKluczowe momenty, które musisz znać:\n\n- **Rozbiory** (1772, 1793, 1795) — Polska podzielona między Rosję, Prusy i Austrię. 123 lata bez państwa. To tu rodzi się **mesjanizm**, **emigracja** jako przestrzeń twórczości, **literatura jako walka**.\n- **Powstanie listopadowe** (1830) — zryw przeciw Rosji, klęska. Bezpośredni impuls dla *Dziadów cz. III* Mickiewicza i całej liryki emigracyjnej. \"Wielka Emigracja\" — Mickiewicz, Słowacki, Krasiński, Chopin w Paryżu.\n- **Powstanie styczniowe** (1863) — najważniejszy przełom literacki XIX wieku. Klęska romantycznego idealizmu -> narodziny **pozytywizmu**. Koniec walki szablą, początek walki piórem i pracą.\n- **Odzyskanie niepodległości** (1918) — eksplozja nowych form, awangarda, futuryzm, Skamander."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "historia",
+    "data": {
+      "contentType": "text",
+      "text": "## XX wiek — literatura wobec terroru\n\nTeraz najtrudniejszy kontekst historyczny. XX wiek w Polsce to pasmo katastrof — i literatura odpowiada na każdą z nich.\n\n**II wojna światowa i Holocaust** — literatura musi mierzyć się z tym, co wydawało się niemożliwe: totalną zagładą. Tadeusz Borowski w *Proszę państwa do gazu* napisał opowiadania, w których nie ma bohaterów — są tylko mechanizmy przetrwania w świecie bez moralności. Wisława Szymborska w *Jeszcze* pytała: \"Jak daleko stąd do tamtych ludzi?\"\n\n**PRL i cenzura** — literatura dzieli się na oficjalną i **drugi obieg** (podziemny). Czesław Miłosz w *Zniewolonym umyśle* analizował, jak totalitaryzm wchodzi do głowy intelektualisty. Zbigniew Herbert pisał wiersze-manifesty wolności (*Pan Cogito* — postawa wyprostowana wobec zła).\n\n**Solidarność i transformacja** — nowa tożsamość, rozliczenie z przeszłością.\n\nZasada maturalna: **zawsze** pytaj — jak historia wpłynęła na światopogląd autora i kształt utworu? Dla CKE kontekst historyczny to nie tło — to **klucz interpretacyjny**."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "historia",
+    "data": {
+      "contentType": "quiz",
+      "text": "Dlaczego klęska powstania styczniowego (1863) jest uważana za przełomowy moment w historii literatury polskiej?",
+      "answer": "Klęska powstania skompromitowała romantyczny model walki zbrojnej o niepodległość — heroizm i poświęcenie nie przyniosły wolności, a tysiące ludzi zginęło lub trafiło na Syberię. Pisarze odrzucili romantyczny idealizm na rzecz pozytywizmu: programu pracy organicznej (budowa społeczeństwa od podstaw), pracy u podstaw (edukacja najuboższych) i realizmu literackiego. Zamiast poetów-wieszczów pojawili się powieściopisarze-obserwatorzy (Prus, Orzeszkowa, Sienkiewicz). Zmienił się paradygmat: z walki zbrojnej na walkę pracą i wiedzą."
+    }
+  }
+]
