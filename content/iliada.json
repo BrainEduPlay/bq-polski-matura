@@ -4,7 +4,7 @@
     "parentRef": "iliada",
     "data": {
       "contentType": "text",
-      "text": "## Iliada — opowieść o gniewie, który zmienił wojnę\n\nPierwsze słowo *Iliady* to \"gniew\" (gr. *mēnis*). Nie \"wojna\", nie \"Troja\" — gniew. Bo Homer nie napisał reportażu z oblężenia. Napisał historię o tym, co się dzieje, kiedy najlepszy wojownik mówi: \"Nie będę walczył\".\n\n**Achilles**, najdzielniejszy z Greków, kłóci się z wodzem **Agamemnonem** o brankę Bryzeidę. Obrażony, odmawia walki. I nagle Grecy zaczynają przegrywać. Przyjaciel Achillesa, **Patroklos**, zakłada jego zbroję i ginie z ręki Hektora. Dopiero wtedy Achilles wraca — ale nie z obowiązku, lecz z żądzy zemsty.\n\nHomer nie gloryfikuje wojny. Pokazuje jej koszt: cierpienie obu stron, ból matek, strach wojowników. Scena, w której stary król **Priam** klęczy przed Achillesem i błaga o ciało zabitego syna Hektora, to jeden z najpiękniejszych momentów literatury światowej. Achilles — maszyna do zabijania — płacze razem z ojcem swojego wroga.\n\n**Fatum** jest tu wszechobecne. Achilles wie, że jeśli zostanie pod Troją, zginie młodo, ale zyska wieczną sławę. Wybiera sławę. To jest antyczny heroizm — i jego cena."
+      "text": "## Pierwsze słowo? \"Gniew\". Nie \"wojna\".\n\n*Iliada* nie jest reportażem z Troi. To historia o tym, co się dzieje, gdy najlepszy wojownik mówi: \"Nie gram\". **Achilles** kłóci się z wodzem **Agamemnonem**, obraża się i przestaje walczyć. Grecy zaczynają przegrywać. Przyjaciel **Patroklos** ginie. Achilles wraca — ale z zemsty, nie z obowiązku."
     }
   },
   {
@@ -12,7 +12,15 @@
     "parentRef": "iliada",
     "data": {
       "contentType": "text",
-      "text": "## Iliada jako wzorzec eposu\n\n*Iliada* to nie tylko historia — to **matryca gatunkowa**. Homer stworzył konwencje, które obowiązywały przez tysiąclecia:\n\n- **Inwokacja** — wezwanie muzy na początku (\"Gniew, bogini, opiewaj Achillesa...\")\n- **In medias res** — zaczynamy w środku akcji (nie od początku wojny, lecz od jej dziewiątego roku)\n- **Narrator wszechwiedzący** — wie wszystko, widzi obie strony konfliktu\n- **Stały epitet** — Achilles \"szybkonogi\", Hera \"wołooka\", Odys \"przebiegły\"\n- **Porównanie homeryckie** — rozbudowane, wielowarstwowe (wojownik porównany do lwa, lew do burzy, burza do gniewu bogów)\n- **Ingerencja bogów** — Atena, Apollo, Afrodyta aktywnie wpływają na losy bitwy\n\nKiedy Mickiewicz pisał *Pana Tadeusza*, świadomie nawiązywał do Homera. Inwokacja (\"Litwo! Ojczyzno moja!\"), opisy przyrody, sceny uczt, katalog postaci — to hołd dla eposu homeryckiego, przełożony na polskie realia."
+      "text": "## Wyobraź sobie: wróg klęka i płacze razem z tobą\n\nKról **Priam** klęczy przed Achillesem — mordercą jego syna Hektora — i błaga o ciało. Achilles płacze razem z nim. Homer nie gloryfikuje wojny. Pokazuje cenę: ból matek, strach wojowników. **Fatum** rządzi — Achilles wie, że zginie młodo, ale wybiera wieczną sławę."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "iliada",
+    "data": {
+      "contentType": "text",
+      "text": "## Dlaczego co drugi epos wygląda jak *Iliada*?\n\nBo Homer stworzył matrycę: **inwokacja** (wezwanie muzy), **in medias res** (start w środku akcji), **narrator wszechwiedzący**, **stały epitet** (Achilles \"szybkonogi\"), **porównanie homeryckie** (rozbudowane). Mickiewicz w *Panu Tadeuszu* świadomie powtarza te chwyty. Hołd, nie plagiat."
     }
   },
   {
@@ -20,8 +28,8 @@
     "parentRef": "iliada",
     "data": {
       "contentType": "quiz",
-      "text": "Co oznacza, że *Iliada* rozpoczyna się in medias res, i dlaczego to ważna konwencja eposu?",
-      "answer": "In medias res (dosł. \"w środek rzeczy\") oznacza, że narracja zaczyna się w trakcie akcji — *Iliada* nie opowiada o początku wojny trojańskiej, lecz o 51 dniach jej ostatniego roku. Czytelnik/słuchacz trafia w toczące się wydarzenia, a przeszłość poznaje z retrospekcji i opowiadań postaci. To buduje napięcie i dynamikę, stając się wzorcem dla późniejszych eposów."
+      "text": "Co oznacza **in medias res** i jak Homer stosuje tę technikę w *Iliadzie*?",
+      "answer": "Dosłownie: \"w środek rzeczy\". *Iliada* nie zaczyna od wybuchu wojny — wskakujemy w jej dziewiąty rok. Przeszłość poznajemy z retrospekcji. To buduje napięcie i stało się wzorcem dla późniejszych eposów."
     }
   }
 ]
