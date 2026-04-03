@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "filozofia",
+    "data": {
+      "contentType": "text",
+      "text": "## Filozofia — silnik, który napędza literaturę\n\nKażda epoka literacka wyrasta z jakiejś filozofii. Nie trzeba być filozofem, żeby to zobaczyć — wystarczy zadać pytanie: **\"W co wierzyli ludzie tamtej epoki?\"** Odpowiedź jest zawsze filozoficzna.\n\n**Antyk** — tu wszystko się zaczęło:\n- **Sokrates** — \"Poznaj samego siebie\". Metoda dialogu, kwestionowanie oczywistości.\n- **Platon** — świat, który widzimy, to cienie prawdziwego świata **idei**. To dlatego artyści szukają idealnego piękna.\n- **Arystoteles** — **złoty środek**, empiria, klasyfikacja. Napisał *Poetykę* — pierwszy traktat o literaturze.\n- **Stoicyzm** — opanowanie emocji, godne znoszenie losu. Kochanowski w *Pieśni IX* jest stoikiem.\n- **Epikureizm** — rozsądna przyjemność, unikanie cierpienia. Horacy: \"Carpe diem\".\n\n**Średniowiecze** — filozofia w służbie wiary:\n- **Św. Augustyn** — zło jako brak dobra, łaska Boża, wewnętrzna walka duszy\n- **Św. Tomasz z Akwinu** — harmonia wiary i rozumu, **scholastyka**\n\n**Renesans** — **humanizm** i **neoplatonizm**. Człowiek w centrum, piękno jako droga do prawdy.\n\n**Oświecenie** — **racjonalizm** (Kartezjusz: \"Myślę, więc jestem\"), **empiryzm** (Locke: wiedza z doświadczenia), krytyka przesądów (Wolter)."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "filozofia",
+    "data": {
+      "contentType": "text",
+      "text": "## Od Comte'a do Camusa — filozofie, które zmieniły literaturę\n\nTeraz XIX i XX wiek — tu filozofia zaczyna naprawdę wstrząsać literaturą.\n\n**Pozytywizm filozoficzny** — Auguste Comte: jedyną pewną wiedzą jest wiedza naukowa. Fakty, obserwacja, empiria. Stąd powieść realistyczna — literatura jako \"nauka o społeczeństwie\". **Utylitaryzm** (Bentham, Mill): dobre jest to, co przynosi szczęście jak największej liczbie ludzi.\n\n**Nietzsche** — rewolucja. \"Bóg umarł\" — nie dosłownie, ale tradycyjne wartości straciły moc. **Nadczłowiek** (Übermensch) — jednostka, która tworzy własne wartości. Wpływ na modernizm i dekadentyzm.\n\n**Schopenhauer** — świat rządzony ślepą **wolą**, życie jest cierpieniem, jedynym pocieszeniem jest sztuka. Fundament **dekadentyzmu** Młodej Polski: poczucie bezsensu, niemocy, fascynacja śmiercią.\n\n**Egzystencjalizm** — Sartre, Camus (XX w.). Człowiek jest **wolny i skazany na wybór**. Nie ma gotowego sensu — musisz go stworzyć sam. Camus w *Micie Syzyfa*: absurd istnienia, ale trzeba żyć.\n\nZasada: na maturze, kiedy piszesz o epoce, **zawsze** wskaż filozoficzny kontekst. CKE to nagradza."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "filozofia",
+    "data": {
+      "contentType": "quiz",
+      "text": "Jak filozofia Schopenhauera wpłynęła na literaturę Młodej Polski? Podaj konkretny przejaw tego wpływu.",
+      "answer": "Schopenhauer twierdził, że świat jest rządzony ślepą, irracjonalną wolą, a życie to cierpienie bez sensu. Jedyną ulgą jest kontemplacja sztuki. Ta filozofia stała się fundamentem dekadentyzmu Młodej Polski: poczucie bezsensu, niemocy twórczej, fascynacja śmiercią i chorobą. Przejaw: postawa artysty-dekadenta, który odrzuca aktywne życie na rzecz kontemplacji piękna i rozpaczy — np. bohaterowie opowiadań Przybyszewskiego czy liryka Kazimierza Przerwy-Tetmajera (\"Koniec wieku XIX\" — pytanie \"Któż miecz podniesie?\" bez odpowiedzi)."
+    }
+  }
+]
