@@ -1,0 +1,27 @@
+[
+  {
+    "type": "content",
+    "parentRef": "makbet",
+    "data": {
+      "contentType": "text",
+      "text": "## Makbet — jak dobry człowiek zostaje mordercą\n\nSzekspir zadaje w *Makbecie* pytanie, które mrozi krew: **ile trzeba, żeby przyzwoity człowiek zaczął zabijać?** Odpowiedź: przepowiednia trzech wiedźm i żona z żelazną wolą.\n\nMakbet to szkocki wódz — odważny, szanowany, lojalny. Trzy wiedźmy przepowiadają mu tron. I od tego momentu zaczyna się **degeneracja moralna** — jeden z najważniejszych procesów w całej literaturze.\n\nZauważ etapy:\n1. **Wahanie** — przed zabiciem króla Duncana Makbet się boi, ma wyrzuty sumienia, widzi halucynacje (\"Czy to sztylet, co widzę przed sobą?\")\n2. **Zbrodnia pod wpływem** — Lady Makbet pcha go do czynu, nazywa tchórzem\n3. **Eskalacja** — kolejne morderstwa przychodzą coraz łatwiej\n4. **Nihilizm** — na końcu Makbet nie czuje już nic: *\"Jutro i jutro, i jutro...\"* — życie to \"opowieść idioty, pełna wrzasku i wściekłości, nic nie znacząca\"\n\nSzekspir nie usprawiedliwia Makbeta, ale **rozumie** go. To dlatego ten dramat przeraża — bo pokazuje, że zło nie potrzebuje potworów. Potrzebuje tylko ambicji bez hamulców moralnych."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "makbet",
+    "data": {
+      "contentType": "text",
+      "text": "## Lady Makbet i symbolika dramatu\n\n**Lady Makbet** to jedna z najbardziej fascynujących postaci w literaturze. Na początku jest silniejsza od męża — to ona planuje zbrodnię, to ona mówi: *\"Odczłowiecz mnie\"* (\"unsex me here\"). Ale zwróć uwagę na ironię: im Makbet staje się twardszy, tym Lady Makbet się łamie.\n\nSłynna **scena mycia rąk** — Lady Makbet lunatykuje i próbuje zmyć niewidzialną krew. *\"Precz, przeklęta plamo!\"* Nie może. Bo ta krew to nie plama na skórze — to **niezmywalna wina**.\n\nSymbole, które musisz znać:\n- **Krew** — wina, zbrodnia, skaza moralna\n- **Sen** — spokój sumienia. Makbet \"zamordował sen\" — nie potrafi już spać\n- **Ciemność** — zło skrywa się pod osłoną nocy, postacie wołają o ciemność, by ukryć swoje czyny\n- **Ręce** — narzędzie zbrodni, ale też sumienie (Lady Makbet myje ręce)\n\nSzekspir pokazuje, że władza zdobyta zbrodnią niszczy zdobywcę od wewnątrz. Makbet ginie nie od miecza — ginie, bo stracił wszystko, co czyniło go człowiekiem."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "makbet",
+    "data": {
+      "contentType": "quiz",
+      "text": "Co symbolizuje scena mycia rąk Lady Makbet i jak ilustruje motyw degeneracji moralnej w dramacie?",
+      "answer": "Scena lunatycznego mycia rąk symbolizuje niezmywalną winę moralną — plama krwi, której nie da się usunąć, to metafora skazy po zbrodni. Ilustruje degenerację moralną, bo Lady Makbet — początkowo zimna i zdecydowana — załamuje się pod ciężarem wyrzutów sumienia. To odwrotna trajektoria niż u Makbeta (który twardnieje). Oboje płacą cenę, ale w różny sposób."
+    }
+  }
+]
