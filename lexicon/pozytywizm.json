@@ -1,0 +1,24 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "praca u podstaw",
+      "nodes": "[\"pozytywizm\",\"historia\"]",
+      "definition": "Ucz ch\u0142op\u00f3w czyta\u0107, buduj szko\u0142y \u2014 rewolucja przez edukacj\u0119.",
+      "quiz": "{\"question\":\"Pozyty\u015bci chcieli podnie\u015b\u0107 najubo\u017cszych: szko\u0142y, szpitale, walka z analfabetyzmem. Jaki to program?\",\"wrong\":[\"praca organiczna\",\"mesjanizm\",\"humanizm\"],\"answer\":\"Praca u podstaw \u2014 program edukacji i pomocy najubo\u017cszym warstwom spo\u0142ecze\u0144stwa.\"}",
+      "forms": "[\"pracy u podstaw\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "pozytywizm filozoficzny",
+      "nodes": "[\"pozytywizm\",\"filozofia\"]",
+      "definition": "Liczy si\u0119 to, co zbadasz naukowo \u2014 Comte: wiedza, empiria, fakty.",
+      "quiz": "{\"question\":\"Comte twierdzi: liczy si\u0119 nauka i empiria, zero mistyki. Jaki nurt filozoficzny za tym stoi?\",\"wrong\":[\"racjonalizm\",\"egzystencjalizm\",\"humanizm\"],\"answer\":\"Pozytywizm filozoficzny \u2014 nurt uznaj\u0105cy wiedz\u0119 naukow\u0105 za jedyne \u017ar\u00f3d\u0142o prawdy.\"}",
+      "forms": "[\"pozytywizmu filozoficznego\"]",
+      "category": "konteksty"
+    }
+  }
+]
