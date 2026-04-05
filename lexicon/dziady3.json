@@ -1,0 +1,35 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "prometeizm",
+      "nodes": "[\"dziady3\",\"romantyzm\",\"mitologia\"]",
+      "definition": "Samotny buntownik cierpi za ludzko\u015b\u0107 \u2014 jak Prometeusz, jak Konrad.",
+      "quiz": "{\"question\":\"Konrad \u017c\u0105da od Boga w\u0142adzy nad duszami, gotowy cierpie\u0107 za nar\u00f3d. Jak\u0105 postaw\u0119 reprezentuje?\",\"wrong\":[\"mesjanizm\",\"hybris\",\"stoicyzm\"],\"answer\":\"Prometeizm \u2014 postawa buntu jednostki przeciw si\u0142om wy\u017cszym w imi\u0119 zbiorowo\u015bci.\"}",
+      "forms": "[\"prometeizmu\",\"prometeizmem\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "mesjanizm",
+      "nodes": "[\"dziady3\",\"romantyzm\",\"historia\"]",
+      "definition": "Polska to Chrystus narod\u00f3w \u2014 cierpi, ale zmartwychwstanie.",
+      "quiz": "{\"question\":\"Ksi\u0105dz Piotr widzi Polsk\u0119 jak Chrystusa: ukrzy\u017cowan\u0105, ale zmartwychwstaj\u0105c\u0105. Jaka to idea?\",\"wrong\":[\"prometeizm\",\"humanizm\",\"pozytywizm\"],\"answer\":\"Mesjanizm \u2014 wiara, \u017ce cierpienie narodu polskiego ma sens zbawczy dla ca\u0142ej ludzko\u015bci.\"}",
+      "forms": "[\"mesjanizmu\",\"mesjanizmem\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "Wielka Improwizacja",
+      "nodes": "[\"dziady3\"]",
+      "definition": "Konrad w celi krzyczy na Boga \u2014 monolog-bunt, serce *Dziad\u00f3w cz. III*.",
+      "quiz": "{\"question\":\"Konrad w celi wile\u0144skiego wi\u0119zienia wygasza monolog-bunt wobec Boga. Jak nazywamy t\u0119 scen\u0119?\",\"wrong\":[\"Wielka Emigracja\",\"Wielka Pokuta\",\"Wielki Monolog\"],\"answer\":\"Wielka Improwizacja \u2014 centralny monolog *Dziad\u00f3w cz. III*, w kt\u00f3rym Konrad \u017c\u0105da w\u0142adzy od Boga.\"}",
+      "forms": "[\"Wielkiej Improwizacji\",\"Wielk\u0105 Improwizacj\u0119\"]",
+      "category": "lektury"
+    }
+  }
+]
