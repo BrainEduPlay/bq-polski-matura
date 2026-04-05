@@ -1,0 +1,79 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "ironia tragiczna",
+      "nodes": "[\"antyk\",\"antygona\"]",
+      "definition": "Widz wie wi\u0119cej ni\u017c bohater \u2014 Edyp szuka mordercy, a to on sam.",
+      "quiz": "{\"question\":\"Widz wie, \u017ce Edyp zabi\u0142 ojca \u2014 bohater nie wie. Jak nazywamy t\u0119 sytuacj\u0119 dramatyczn\u0105?\",\"wrong\":[\"katharsis\",\"konflikt tragiczny\",\"hamartia\"],\"answer\":\"Ironia tragiczna \u2014 widz zna prawd\u0119, kt\u00f3rej bohater nie zna. Buduje napi\u0119cie i lito\u015b\u0107.\"}",
+      "forms": "[\"ironi\u0105 tragiczn\u0105\",\"ironii tragicznej\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "katharsis",
+      "nodes": "[\"antyk\",\"antygona\"]",
+      "definition": "Oczyszczenie przez lito\u015b\u0107 i trwog\u0119 \u2014 po to chodzisz do teatru.",
+      "quiz": "{\"question\":\"Arystoteles opisa\u0142 emocjonalne oczyszczenie widza tragedii. Jakim terminem?\",\"wrong\":[\"hamartia\",\"hybris\",\"fatum\"],\"answer\":\"Katharsis \u2014 widz prze\u017cywa lito\u015b\u0107 i trwog\u0119, co prowadzi do emocjonalnego oczyszczenia.\"}",
+      "forms": "[\"katharsis\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "kalokagathia",
+      "nodes": "[\"antyk\"]",
+      "definition": "Pi\u0119kne cia\u0142o + pi\u0119kna dusza = pe\u0142nia cz\u0142owiecze\u0144stwa.",
+      "quiz": "{\"question\":\"Jak nazywa si\u0119 antyczny idea\u0142 jedno\u015bci pi\u0119kna fizycznego i duchowego?\",\"wrong\":[\"arete\",\"humanizm\",\"antropocentryzm\"],\"answer\":\"Kalokagathia \u2014 idea\u0142 harmonii cia\u0142a i ducha, fundament greckiego wychowania.\"}",
+      "forms": "[\"kalokagathii\",\"kalokagathi\u0105\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "arete",
+      "nodes": "[\"antyk\"]",
+      "definition": "B\u0105d\u017a najlepszy \u2014 w walce, mowie, my\u015bleniu.",
+      "quiz": "{\"question\":\"Jakim terminem Grecy okre\u015blali d\u0105\u017cenie do doskona\u0142o\u015bci we wszystkim?\",\"wrong\":[\"kalokagathia\",\"fatum\",\"katharsis\"],\"answer\":\"Arete \u2014 cnota jako d\u0105\u017cenie do bycia najlepszym w ka\u017cdej dziedzinie.\"}",
+      "forms": "[\"arete\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "fatum",
+      "nodes": "[\"antyk\",\"iliada\",\"mitologia\"]",
+      "definition": "Los, kt\u00f3rego nie oszukasz \u2014 nawet Achilles przegra\u0142 z przeznaczeniem.",
+      "quiz": "{\"question\":\"Achilles wie, \u017ce zginie m\u0142odo, ale wybiera s\u0142aw\u0119. Jaka si\u0142a rz\u0105dzi jego losem?\",\"wrong\":[\"hybris\",\"hamartia\",\"katharsis\"],\"answer\":\"Fatum \u2014 nieodwracalne przeznaczenie, kt\u00f3remu nie mog\u0105 si\u0119 oprze\u0107 ani ludzie, ani bogowie.\"}",
+      "forms": "[\"fatum\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "epos",
+      "nodes": "[\"antyk\",\"iliada\"]",
+      "definition": "Wielka opowie\u015b\u0107 wierszem o bohaterach i bogach \u2014 Homer to wymy\u015bli\u0142.",
+      "quiz": "{\"question\":\"Homer stworzy\u0142 matryc\u0119 gatunku: inwokacja, narrator wszechwidz\u0105cy, sta\u0142y epitet. Jaki to gatunek?\",\"wrong\":[\"tragedia\",\"oda\",\"ballada\"],\"answer\":\"Epos \u2014 rozbudowany utw\u00f3r epicki o czynach bohater\u00f3w, z inwokacj\u0105 i narratorem wszechwidz\u0105cym.\"}",
+      "forms": "[\"eposu\",\"eposem\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "tragedia",
+      "nodes": "[\"antyk\",\"antygona\"]",
+      "definition": "Gatunek, w kt\u00f3rym bohater musi przegra\u0107 \u2014 bo \u015bwiat nie ma dobrego wyj\u015bcia.",
+      "quiz": "{\"question\":\"Gatunek wymys\u0142ony przez Grek\u00f3w, w kt\u00f3rym bohater popada w nieuchronn\u0105 kl\u0119sk\u0119. Jaki?\",\"wrong\":[\"epos\",\"komedia\",\"ballada\"],\"answer\":\"Tragedia \u2014 bohater staje wobec konfliktu bez dobrego rozwi\u0105zania, ko\u0144czy kl\u0119sk\u0105.\"}",
+      "forms": "[\"tragedi\u0119\",\"tragedii\"]",
+      "category": "poetyka"
+    }
+  }
+]
