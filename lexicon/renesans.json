@@ -1,0 +1,35 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "antropocentryzm",
+      "nodes": "[\"renesans\",\"bogurodzica\"]",
+      "definition": "Cz\u0142owiek w centrum \u2014 zast\u0105pi\u0142 teocentryzm, ale nie odrzuci\u0142 wiary.",
+      "quiz": "{\"question\":\"Renesans postawi\u0142 cz\u0142owieka i jego godno\u015b\u0107 w centrum zainteresowania. Jaki to pogl\u0105d?\",\"wrong\":[\"teocentryzm\",\"humanizm\",\"racjonalizm\"],\"answer\":\"Antropocentryzm \u2014 \u015bwiatopogl\u0105d stawiaj\u0105cy cz\u0142owieka (nie Boga) w centrum refleksji.\"}",
+      "forms": "[\"antropocentryzmu\",\"antropocentryzmem\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "ad fontes",
+      "nodes": "[\"renesans\"]",
+      "definition": "Do \u017ar\u00f3de\u0142! \u2014 wracamy do Grek\u00f3w i Rzymian.",
+      "quiz": "{\"question\":\"Reneansowi humani\u015bci wracali do antycznych tekst\u00f3w. Jakie \u0142aci\u0144skie has\u0142o to wyra\u017ca?\",\"wrong\":[\"carpe diem\",\"vanitas\",\"cogito ergo sum\"],\"answer\":\"Ad fontes \u2014 'do \u017ar\u00f3de\u0142', has\u0142o renesansu wzywaj\u0105ce do powrotu do antycznych wzor\u00f3w.\"}",
+      "forms": "[\"ad fontes\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "reformacja",
+      "nodes": "[\"renesans\"]",
+      "definition": "Bunt wobec Ko\u015bcio\u0142a \u2014 Luter, podzia\u0142y, ale w Polsce tolerancja.",
+      "quiz": "{\"question\":\"XVI wiek: Luter kwestionuje Ko\u015bci\u00f3\u0142, Europa si\u0119 dzieli. Jaki ruch religijny to zapocz\u0105tkowa\u0142?\",\"wrong\":[\"scholastyka\",\"kontrreformacja\",\"humanizm\"],\"answer\":\"Reformacja \u2014 ruch religijny XVI w. kwestionuj\u0105cy autorytet Ko\u015bcio\u0142a katolickiego.\"}",
+      "forms": "[\"reformacji\",\"reformacj\u0105\"]",
+      "category": "konteksty"
+    }
+  }
+]
