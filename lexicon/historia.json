@@ -1,0 +1,24 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "praca organiczna",
+      "nodes": "[\"historia\",\"pozytywizm\"]",
+      "definition": "Rozwijaj przemys\u0142 i handel \u2014 buduj spo\u0142ecze\u0144stwo jak organizm.",
+      "quiz": "{\"question\":\"Po kl\u0119sce 1863 pozyty\u015bci proponuj\u0105: rozwijaj handel, wzmacniaj ca\u0142o\u015b\u0107. Jaki to program?\",\"wrong\":[\"praca u podstaw\",\"mesjanizm\",\"prometeizm\"],\"answer\":\"Praca organiczna \u2014 program budowy silnego spo\u0142ecze\u0144stwa przez rozw\u00f3j gospodarczy.\"}",
+      "forms": "[\"pracy organicznej\",\"prac\u0105 organiczn\u0105\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "drugi obieg",
+      "nodes": "[\"historia\"]",
+      "definition": "Nielegalne publikacje w PRL-u \u2014 prawda poza cenzur\u0105.",
+      "quiz": "{\"question\":\"Mi\u0142osz, Herbert publikowani poza cenzur\u0105 PRL. Jak nazywamy ten kana\u0142 wydawniczy?\",\"wrong\":[\"samizdat\",\"prasa podziemna\",\"emigracja wewn\u0119trzna\"],\"answer\":\"Drugi obieg \u2014 nielegalne wydawnictwa w PRL, omijaj\u0105ce pa\u0144stwow\u0105 cenzur\u0119.\"}",
+      "forms": "[\"drugiego obiegu\",\"drugim obiegu\"]",
+      "category": "konteksty"
+    }
+  }
+]
