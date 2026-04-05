@@ -1,0 +1,57 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "vanitas",
+      "nodes": "[\"barok\",\"biblia\"]",
+      "definition": "Marno\u015b\u0107 \u2014 wszystko przemija, \u017cycie jest ulotne jak dym.",
+      "quiz": "{\"question\":\"Naborowski przypomina: \u017cycie to mgnienie. Jaki motyw z *Koheleta* dominuje w baroku?\",\"wrong\":[\"mesjanizm\",\"prometeizm\",\"humanizm\"],\"answer\":\"Vanitas \u2014 motyw przemijania i marno\u015bci \u017cycia, centralny dla baroku.\"}",
+      "forms": "[\"vanitas\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "konceptyzm",
+      "nodes": "[\"barok\"]",
+      "definition": "Zaskocz czytelnika \u2014 paradoks, zagadka, zaskakuj\u0105cy pomys\u0142 poetycki.",
+      "quiz": "{\"question\":\"Morsztyn por\u00f3wna\u0142 zakochanego do trupa. Jaki barokowy nurt opiera si\u0119 na zaskakuj\u0105cych zestawieniach?\",\"wrong\":[\"marinizm\",\"sarmatyzm\",\"klasycyzm\"],\"answer\":\"Konceptyzm \u2014 nurt oparty na koncepcie, zaskakuj\u0105cym pomy\u015ble poetyckim.\"}",
+      "forms": "[\"konceptyzmu\",\"konceptyzmem\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "sarmatyzm",
+      "nodes": "[\"barok\"]",
+      "definition": "Polska szlachta wierzy\u0142a, \u017ce pochodzi od staro\u017cytnych Sarmat\u00f3w \u2014 dumna, pobo\u017cna, za\u015bciankowa.",
+      "quiz": "{\"question\":\"Pasek z dum\u0105 portretuje szlachcica: odwa\u017cnego, pobo\u017cnego i zarazem za\u015bciankowego. Jaka to formacja kulturowa?\",\"wrong\":[\"konceptyzm\",\"humanizm\",\"pozytywizm\"],\"answer\":\"Sarmatyzm \u2014 ideologia polskiej szlachty XVII w., \u0142\u0105cz\u0105ca patriotyzm z konserwatyzmem.\"}",
+      "forms": "[\"sarmatyzmu\",\"sarmatyzmem\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "koncept",
+      "nodes": "[\"barok\"]",
+      "definition": "Zaskakuj\u0105cy pomys\u0142 poetycki \u2014 por\u00f3wnanie odleg\u0142ych rzeczy.",
+      "quiz": "{\"question\":\"Morsztyn zestawia mi\u0142o\u015b\u0107 ze \u015bmierci\u0105 w *Do trupa*. Jak nazywamy taki zaskakuj\u0105cy chwyt?\",\"wrong\":[\"metafora\",\"alegoria\",\"inwokacja\"],\"answer\":\"Koncept \u2014 zaskakuj\u0105cy pomys\u0142 poetycki oparty na paradoksie lub odleg\u0142ym por\u00f3wnaniu.\"}",
+      "forms": "[\"konceptu\",\"konceptem\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "marinizm",
+      "nodes": "[\"barok\"]",
+      "definition": "Wirtuozeria s\u0142owa jako cel sam w sobie \u2014 forma wa\u017cniejsza od tre\u015bci.",
+      "quiz": "{\"question\":\"Jaki barokowy nurt stawia\u0142 wirtuozeri\u0119 formy poetyckiej ponad tre\u015b\u0107?\",\"wrong\":[\"konceptyzm\",\"sarmatyzm\",\"klasycyzm\"],\"answer\":\"Marinizm \u2014 nurt poetycki stawiaj\u0105cy pi\u0119kno formy i j\u0119zykow\u0105 wirtuozeri\u0119 ponad przekaz.\"}",
+      "forms": "[\"marinizmu\",\"marinizmem\"]",
+      "category": "poetyka"
+    }
+  }
+]
