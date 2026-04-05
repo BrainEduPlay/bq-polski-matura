@@ -1,0 +1,24 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "uczucie ponad rozum",
+      "nodes": "[\"romantyzm\"]",
+      "definition": "Serce widzi to, czego nauka nie ogarnia \u2014 has\u0142o numer jeden romantyzmu.",
+      "quiz": "{\"question\":\"Mickiewicz: 'Czucie i wiara silniej m\u00f3wi do mnie ni\u017c m\u0119drca szkie\u0142ko'. Jaka zasada romantyzmu?\",\"wrong\":[\"racjonalizm\",\"pozytywizm\",\"humanizm\"],\"answer\":\"Uczucie ponad rozum \u2014 fundament romantyzmu: emocje i intuicja przewy\u017cszaj\u0105 rozum.\"}",
+      "forms": "[\"uczucia ponad rozumem\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "wieszcz",
+      "nodes": "[\"romantyzm\",\"dziady3\"]",
+      "definition": "Poeta-prorok, przyw\u00f3dca duchowy narodu \u2014 Mickiewicz, S\u0142owacki, Krasi\u0144ski.",
+      "quiz": "{\"question\":\"Romantycy wierzyli, \u017ce poeta to przyw\u00f3dca duchowy narodu. Jakim mianem go okre\u015blali?\",\"wrong\":[\"geniusz\",\"prorok\",\"filozof\"],\"answer\":\"Wieszcz \u2014 poeta-prorok, duchowy przyw\u00f3dca narodu. Tytu\u0142 nadawany trzem wielkim romantykom.\"}",
+      "forms": "[\"wieszcza\",\"wieszczem\"]",
+      "category": "epoki"
+    }
+  }
+]
