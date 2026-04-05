@@ -1,0 +1,57 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "przypowie\u015b\u0107",
+      "nodes": "[\"biblia\"]",
+      "definition": "Kr\u00f3tka historia z mora\u0142em \u2014 Jezus uczy\u0142 w\u0142a\u015bnie tak.",
+      "quiz": "{\"question\":\"Jezus opowiada o synu marnotrawnym, \u017ceby nauczy\u0107 przebaczenia. Jaki to gatunek?\",\"wrong\":[\"psalm\",\"hymn\",\"apokalipsa\"],\"answer\":\"Przypowie\u015b\u0107 \u2014 gatunek narracyjny z ukrytym przes\u0142aniem moralnym lub religijnym.\"}",
+      "forms": "[\"przypowie\u015bci\",\"przypowie\u015bci\u0105\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "psalm",
+      "nodes": "[\"biblia\"]",
+      "definition": "Pie\u015b\u0144 modlitewna \u2014 b\u0142aganie, dzi\u0119kczynienie, uwielbienie.",
+      "quiz": "{\"question\":\"Kochanowski napisa\u0142 *Psa\u0142terz Dawidowy*. Jaki biblijny gatunek liryczny parafrazowa\u0142?\",\"wrong\":[\"hymn\",\"tren\",\"elegia\"],\"answer\":\"Psalm \u2014 liryczna pie\u015b\u0144 modlitewna, wyra\u017caj\u0105ca uwielbienie, b\u0142aganie lub dzi\u0119kczynienie.\"}",
+      "forms": "[\"psalmu\",\"psalmem\",\"psalmy\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "apokalipsa",
+      "nodes": "[\"biblia\"]",
+      "definition": "Wizja ko\u0144ca \u015bwiata \u2014 po zniszczeniu przyjdzie nowy pocz\u0105tek.",
+      "quiz": "{\"question\":\"Krasi\u0144ski i Mi\u0142osz si\u0119gaj\u0105 po wizj\u0119 ko\u0144ca \u015bwiata. Jaki biblijny gatunek cytuj\u0105?\",\"wrong\":[\"przypowie\u015b\u0107\",\"psalm\",\"tren\"],\"answer\":\"Apokalipsa \u2014 gatunek profetyczny opisuj\u0105cy zag\u0142ad\u0119 \u015bwiata i nadej\u015bcie nowego porz\u0105dku.\"}",
+      "forms": "[\"apokalipsy\",\"apokalips\u0105\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "teodyce",
+      "nodes": "[\"biblia\"]",
+      "definition": "Dlaczego Bg dopuszcza cierpienie niewinnych? Hiob pyta, nie dostaje odpowiedzi.",
+      "quiz": "{\"question\":\"Kochanowski w *Trenach* pyta: dlaczego Urszulka? To echo jakiego biblijnego problemu?\",\"wrong\":[\"vanitas\",\"mesjanizm\",\"fatum\"],\"answer\":\"Teodyce \u2014 problem uzgodnienia istnienia dobrego Boga z istnieniem z\u0142a i cierpienia.\"}",
+      "forms": "[\"teodycei\",\"teodyce\u0105\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "raj utracony",
+      "nodes": "[\"biblia\",\"romantyzm\"]",
+      "definition": "T\u0119sknota za niewinnoci\u0105 \u2014 Mickiewicz w *Panu Tadeuszu* tworzy raj dzieci\u0144stwa.",
+      "quiz": "{\"question\":\"Mickiewicz idealizuje Soplicowo jako utracony \u015bwiat dzieci\u0144stwa. Jaki biblijny motyw realizuje?\",\"wrong\":[\"apokalipsa\",\"vanitas\",\"teodyce\"],\"answer\":\"Raj utracony \u2014 motyw z Ksi\u0119gi Rodzaju: t\u0119sknota za utracon\u0105 niewinnoci\u0105 i harmoni\u0105.\"}",
+      "forms": "[\"raju utraconego\",\"rajem utraconym\"]",
+      "category": "konteksty"
+    }
+  }
+]
