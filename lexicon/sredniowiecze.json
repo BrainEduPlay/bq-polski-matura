@@ -1,0 +1,46 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "wzorce osobowe",
+      "nodes": "[\"sredniowiecze\"]",
+      "definition": "Trzy drogi do Boga: \u015bwi\u0119ty, rycerz, w\u0142adca.",
+      "quiz": "{\"question\":\"\u015aw. Aleksy, Roland, Chrobry \u2014 ka\u017cdy to inna droga do zbawienia. Jak nazywamy te modele?\",\"wrong\":[\"archetypy\",\"toposy\",\"alegorie\"],\"answer\":\"Wzorce osobowe \u2014 idealne modele postaw propagowane w literaturze \u015bredniowiecznej.\"}",
+      "forms": "[\"wzorc\u00f3w osobowych\",\"wzorcami osobowymi\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "asceta",
+      "nodes": "[\"sredniowiecze\"]",
+      "definition": "Wyrzeka si\u0119 \u015bwiata dla Boga \u2014 \u015bw. Aleksy spa\u0142 pod schodami w\u0142asnego domu.",
+      "quiz": "{\"question\":\"\u015aw. Aleksy porzuci\u0142 bogactwo i \u017cy\u0142 w skrajnej n\u0119dzy dla Boga. Jaki \u015bredniowieczny wzorzec realizuje?\",\"wrong\":[\"rycerz\",\"w\u0142adca\",\"wieszcz\"],\"answer\":\"Asceta \u2014 cz\u0142owiek wyrzekaj\u0105cy si\u0119 d\u00f3br doczesnych w imi\u0119 \u017cycia duchowego.\"}",
+      "forms": "[\"ascety\",\"ascet\u0105\",\"asceci\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "etos rycerski",
+      "nodes": "[\"sredniowiecze\",\"bogurodzica\"]",
+      "definition": "Honor, wierno\u015b\u0107, walka w imi\u0119 Boga \u2014 Roland ginie, ale nie zdradza.",
+      "quiz": "{\"question\":\"Roland ginie, ale nie tr\u0105bi o pomoc \u2014 honor ponad \u017cycie. Jaki kodeks warto\u015bci reprezentuje?\",\"wrong\":[\"sarmatyzm\",\"stoicyzm\",\"prometeizm\"],\"answer\":\"Etos rycerski \u2014 \u015bredniowieczny kodeks honorowy: odwaga, wierno\u015b\u0107, walka za wiar\u0119.\"}",
+      "forms": "[\"etosu rycerskiego\",\"etosem rycerskim\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "danse macabre",
+      "nodes": "[\"sredniowiecze\",\"barok\"]",
+      "definition": "Taniec \u015bmierci \u2014 kr\u00f3l i \u017cebrak ta\u0144cz\u0105 razem, bo \u015bmier\u0107 r\u00f3wna wszystkich.",
+      "quiz": "{\"question\":\"\u015amier\u0107 prowadzi do ta\u0144ca i kr\u00f3la, i \u017cebraka. Jaki \u015bredniowieczny motyw to wyra\u017ca?\",\"wrong\":[\"vanitas\",\"memento mori\",\"fatum\"],\"answer\":\"Danse macabre \u2014 taniec \u015bmierci, motyw r\u00f3wno\u015bci wobec \u015bmierci niezale\u017cnie od stanu.\"}",
+      "forms": "[\"danse macabre\"]",
+      "category": "epoki"
+    }
+  }
+]
