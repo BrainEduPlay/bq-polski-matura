@@ -1,0 +1,46 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "inwokacja",
+      "nodes": "[\"iliada\",\"antyk\"]",
+      "definition": "Wezwanie muzy na pocz\u0105tku eposu \u2014 Homer prosi o natchnienie.",
+      "quiz": "{\"question\":\"Homer zaczyna *Iliad\u0119* od wezwania muzy. Jak nazywamy t\u0119 konwencj\u0119?\",\"wrong\":[\"in medias res\",\"koncept\",\"apostrofa\"],\"answer\":\"Inwokacja \u2014 uroczyste wezwanie muzy o natchnienie, otwieraj\u0105ce epos.\"}",
+      "forms": "[\"inwokacji\",\"inwokacj\u0105\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "in medias res",
+      "nodes": "[\"iliada\"]",
+      "definition": "Start w \u015brodku akcji \u2014 *Iliada* wskakuje w 9. rok wojny.",
+      "quiz": "{\"question\":\"*Iliada* nie zaczyna od wybuchu wojny \u2014 wskakujemy w jej dziewi\u0105ty rok. Jaka to technika?\",\"wrong\":[\"inwokacja\",\"retrospekcja\",\"narracja ramowa\"],\"answer\":\"In medias res \u2014 rozpocz\u0119cie opowie\u015bci w \u015brodku wydarze\u0144, bez chronologicznego wst\u0119pu.\"}",
+      "forms": "[\"in medias res\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "por\u00f3wnanie homeryckie",
+      "nodes": "[\"iliada\"]",
+      "definition": "Rozbudowane por\u00f3wnanie \u2014 wojownik pada jak d\u0105b \u015bci\u0119ty w lesie.",
+      "quiz": "{\"question\":\"Homer por\u00f3wnuje spadaj\u0105cego wojownika do d\u0119bu w lesie \u2014 na p\u00f3\u0142 strony. Jaki to \u015brodek?\",\"wrong\":[\"sta\u0142y epitet\",\"metafora\",\"alegoria\"],\"answer\":\"Por\u00f3wnanie homeryckie \u2014 rozbudowane por\u00f3wnanie epiczne, tworz\u0105ce osobny obraz.\"}",
+      "forms": "[\"por\u00f3wnania homeryckiego\",\"por\u00f3wnaniem homeryckim\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "sta\u0142y epitet",
+      "nodes": "[\"iliada\"]",
+      "definition": "Achilles 'szybkonogi', Atena 'sowiooka' \u2014 przydomek przyklejony na sta\u0142e.",
+      "quiz": "{\"question\":\"Achilles jest zawsze 'szybkonogi', Atena 'sowiooka'. Jak nazywamy taki powtarzalny przydomek?\",\"wrong\":[\"por\u00f3wnanie homeryckie\",\"peryfraza\",\"metonimia\"],\"answer\":\"Sta\u0142y epitet \u2014 sta\u0142y, powtarzalny przydomek okre\u015blaj\u0105cy posta\u0107 lub przedmiot w eposie.\"}",
+      "forms": "[\"sta\u0142ego epitetu\",\"sta\u0142ym epitetem\"]",
+      "category": "poetyka"
+    }
+  }
+]
