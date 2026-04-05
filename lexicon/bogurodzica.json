@@ -1,0 +1,46 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "teocentryzm",
+      "nodes": "[\"bogurodzica\",\"sredniowiecze\",\"renesans\"]",
+      "definition": "B\u00f3g w centrum wszystkiego \u2014 cz\u0142owiek ma warto\u015b\u0107 tylko jako stworzenie Bo\u017ce.",
+      "quiz": "{\"question\":\"W *Bogurodzicy* cz\u0142owiek prosi Boga przez po\u015brednik\u00f3w. Jaka wizja \u015bwiata za tym stoi?\",\"wrong\":[\"antropocentryzm\",\"humanizm\",\"racjonalizm\"],\"answer\":\"Teocentryzm \u2014 \u015bwiatopogl\u0105d, w kt\u00f3rym B\u00f3g jest centrum i miar\u0105 wszystkiego.\"}",
+      "forms": "[\"teocentryzmu\",\"teocentryzmem\",\"teocentryzmie\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "hierarchia po\u015brednik\u00f3w",
+      "nodes": "[\"bogurodzica\",\"sredniowiecze\"]",
+      "definition": "Nie m\u00f3wisz wprost do Boga \u2014 prosisz Maryj\u0119, Maryja prosi Chrystusa.",
+      "quiz": "{\"question\":\"W *Bogurodzicy* modlitwa idzie: cz\u0142owiek \u2192 Maryja \u2192 Jan Chrzciciel \u2192 Chrystus. Jaka \u015bredniowieczna zasada?\",\"wrong\":[\"teocentryzm\",\"scholastyka\",\"feudalizm\"],\"answer\":\"Hierarchia po\u015brednik\u00f3w \u2014 zasada, \u017ce cz\u0142owiek zwraca si\u0119 do Boga przez \u015bwi\u0119tych, nie bezpo\u015brednio.\"}",
+      "forms": "[\"hierarchii po\u015brednik\u00f3w\",\"hierarchi\u0105 po\u015brednik\u00f3w\"]",
+      "category": "epoki"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "hymn",
+      "nodes": "[\"bogurodzica\",\"biblia\"]",
+      "definition": "Uroczysta pie\u015b\u0144 pochwalna \u2014 *Bogurodzica* to hymn religijny i bojowy w jednym.",
+      "quiz": "{\"question\":\"*Bogurodzica* pe\u0142ni\u0142a funkcj\u0119 modlitwy i pie\u015bni bojowej. Jaki gatunek liryczny reprezentuje?\",\"wrong\":[\"psalm\",\"tren\",\"oda\"],\"answer\":\"Hymn \u2014 uroczysta pie\u015b\u0144 pochwalna o charakterze religijnym lub patriotycznym.\"}",
+      "forms": "[\"hymnu\",\"hymnem\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "carmen patrium",
+      "nodes": "[\"bogurodzica\"]",
+      "definition": "Pie\u015b\u0144 ojczysta \u2014 tak D\u0142ugosz nazwa\u0142 *Bogurodzic\u0119* po Grunwaldzie.",
+      "quiz": "{\"question\":\"D\u0142ugosz nazwa\u0142 *Bogurodzic\u0119* pie\u015bni\u0105 ojczyst\u0105. Jakiego \u0142aci\u0144skiego terminu u\u017cy\u0142?\",\"wrong\":[\"ad fontes\",\"vanitas\",\"in medias res\"],\"answer\":\"Carmen patrium \u2014 pie\u015b\u0144 ojczysta, okre\u015blenie *Bogurodzicy* jako hymnu narodowego.\"}",
+      "forms": "[\"carmen patrium\"]",
+      "category": "poetyka"
+    }
+  }
+]
