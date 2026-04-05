@@ -1,0 +1,24 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "archetyp",
+      "nodes": "[\"mitologia\",\"biblia\"]",
+      "definition": "Uniwersalny wzorzec do\u015bwiadczenia \u2014 przetrwa\u0142 3000 lat, bo pytanie 'co znaczy by\u0107 cz\u0142owiekiem' wci\u0105\u017c nie ma odpowiedzi.",
+      "quiz": "{\"question\":\"Prometeusz = buntownik, Syzyf = absurd, Ikar = pycha. Jak nazywamy takie uniwersalne wzorce?\",\"wrong\":[\"motyw\",\"symbol\",\"alegoria\"],\"answer\":\"Archetyp \u2014 pierwotny, uniwersalny wzorzec postaci lub sytuacji obecny w kulturze od tysi\u0119cleci.\"}",
+      "forms": "[\"archetypu\",\"archetypem\",\"archetypy\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "kod kulturowy",
+      "nodes": "[\"mitologia\"]",
+      "definition": "Bez mitologii nie odczytasz literatury europejskiej \u2014 to wsp\u00f3lny j\u0119zyk.",
+      "quiz": "{\"question\":\"Konrad to Prometeusz, Wokulski to Ikar \u2014 bez mitologii nie zrozumiesz tych odniesie\u0144. Jaki to system?\",\"wrong\":[\"archetyp\",\"intertekstualno\u015b\u0107\",\"topos\"],\"answer\":\"Kod kulturowy \u2014 wsp\u00f3lny zas\u00f3b symboli i wzorc\u00f3w umo\u017cliwiaj\u0105cy odczytanie dzie\u0142a.\"}",
+      "forms": "[\"kodu kulturowego\",\"kodem kulturowym\"]",
+      "category": "konteksty"
+    }
+  }
+]
