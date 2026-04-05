@@ -1,0 +1,46 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "degeneracja moralna",
+      "nodes": "[\"makbet\"]",
+      "definition": "Przyzwoity cz\u0142owiek krok po kroku staje si\u0119 potworem.",
+      "quiz": "{\"question\":\"Makbet: od szanowanego wodza do nihilisty-mordercy. Jak nazywamy ten proces?\",\"wrong\":[\"hamartia\",\"hybris\",\"katharsis\"],\"answer\":\"Degeneracja moralna \u2014 stopniowy rozpad systemu warto\u015bci bohatera pod wp\u0142ywem zbrodni.\"}",
+      "forms": "[\"degeneracji moralnej\",\"degeneracj\u0105 moraln\u0105\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "symbolika krwi",
+      "nodes": "[\"makbet\"]",
+      "definition": "Krew = wina. Lady Makbet myje r\u0119ce z niewidzialnej plamy \u2014 sumienie nie odpuszcza.",
+      "quiz": "{\"question\":\"Lady Makbet lunatykuje i myje r\u0119ce z niewidzialnej plamy. Co symbolizuje krew w *Makbecie*?\",\"wrong\":[\"w\u0142adz\u0119\",\"zemst\u0119\",\"losu\"],\"answer\":\"Symbolika krwi \u2014 krew symbolizuje win\u0119, kt\u00f3rej nie da si\u0119 zmy\u0107 ani odwr\u00f3ci\u0107.\"}",
+      "forms": "[\"symboliki krwi\",\"symbolik\u0105 krwi\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "ambicja",
+      "nodes": "[\"makbet\",\"antygona\"]",
+      "definition": "Z\u0142o nie potrzebuje potwor\u00f3w \u2014 potrzebuje ambicji bez hamulc\u00f3w.",
+      "quiz": "{\"question\":\"Makbet nie jest z natury z\u0142y \u2014 przepowiednia i \u017cona uruchamiaj\u0105 w nim si\u0142\u0119, kt\u00f3ra niszczy. Jak\u0105?\",\"wrong\":[\"hybris\",\"fatum\",\"hamartia\"],\"answer\":\"Ambicja \u2014 pragnienie w\u0142adzy, kt\u00f3re bez moralnych hamulc\u00f3w prowadzi do zbrodni.\"}",
+      "forms": "[\"ambicji\",\"ambicj\u0105\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "Lady Makbet",
+      "nodes": "[\"makbet\"]",
+      "definition": "Planuje zbrodni\u0119, ale \u0142amie si\u0119 pierwsza \u2014 ironia: im m\u0105\u017c twardnieje, tym ona si\u0119 rozpada.",
+      "quiz": "{\"question\":\"Pocz\u0105tkowo zimna i zdecydowana, potem lunatykuje i myje r\u0119ce. Kt\u00f3ra posta\u0107 pokazuje, \u017ce zbrodnia niszczy planuj\u0105cego?\",\"wrong\":[\"Antygona\",\"Izabela \u0141\u0119cka\",\"Balladyna\"],\"answer\":\"Lady Makbet \u2014 wsp\u00f3\u0142autorka zbrodni, kt\u00f3ra za\u0142amuje si\u0119 pod ci\u0119\u017carem wyrzut\u00f3w sumienia.\"}",
+      "forms": "[\"Lady Makbet\"]",
+      "category": "lektury"
+    }
+  }
+]
