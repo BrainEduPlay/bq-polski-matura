@@ -1,0 +1,46 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "powie\u015b\u0107 realistyczna",
+      "nodes": "[\"lalka\",\"pozytywizm\"]",
+      "definition": "Spo\u0142ecze\u0144stwo pod mikroskopem \u2014 diagnoza jak u lekarza.",
+      "quiz": "{\"question\":\"*Lalka* pokazuje Warszaw\u0119 jak pod mikroskopem: arystokracja, bur\u017cuazja, biedota. Jaki to gatunek?\",\"wrong\":[\"epos\",\"powie\u015b\u0107 historyczna\",\"romans\"],\"answer\":\"Powie\u015b\u0107 realistyczna \u2014 gatunek ukazuj\u0105cy spo\u0142ecze\u0144stwo w spos\u00f3b wiarygodny i szczeg\u00f3\u0142owy.\"}",
+      "forms": "[\"powie\u015bci realistycznej\",\"powie\u015bci\u0105 realistyczn\u0105\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "idealista",
+      "nodes": "[\"lalka\",\"pozytywizm\"]",
+      "definition": "Wokulski, Rzecki, Ochocki \u2014 trzy pokolenia marzyci, ka\u017cde przegrywa inaczej.",
+      "quiz": "{\"question\":\"Wokulski ma energi\u0119, Rzecki \u017cyje przesz\u0142o\u015bci\u0105, Ochocki ucieka w nauk\u0119. Jaki typ bohatera \u0142\u0105czy ich wszystkich?\",\"wrong\":[\"pozytywista\",\"romantyk\",\"realista\"],\"answer\":\"Idealista \u2014 bohater kieruj\u0105cy si\u0119 idea\u0142ami, kt\u00f3re rozbijaj\u0105 si\u0119 o rzeczywisto\u015b\u0107.\"}",
+      "forms": "[\"idealisty\",\"idealist\u0105\",\"ideali\u015bci\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "narracja wielog\u0142osowa",
+      "nodes": "[\"lalka\"]",
+      "definition": "Trzy punkty widzenia: pami\u0119tnik Rzeckiego, narrator, my\u015bli Wokulskiego.",
+      "quiz": "{\"question\":\"*Lalka* opowiada z trzech perspektyw naraz: pami\u0119tnik, narrator i strumie\u0144 \u015bwiadomo\u015bci. Jaka to technika?\",\"wrong\":[\"narracja ramowa\",\"monolog wewn\u0119trzny\",\"mowa pozornie zale\u017cna\"],\"answer\":\"Narracja wielog\u0142osowa \u2014 u\u017cycie wielu perspektyw narracyjnych w jednym utworze.\"}",
+      "forms": "[\"narracji wielog\u0142osowej\",\"narracj\u0105 wielog\u0142osow\u0105\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "metafora",
+      "nodes": "[\"lalka\"]",
+      "definition": "Mi\u0142o\u015b\u0107 Wokulskiego to nie melodramat \u2014 to metafora energii kontra stagnacji.",
+      "quiz": "{\"question\":\"Mi\u0142o\u015b\u0107 Wokulskiego do Izabeli to nie romans \u2014 symbolizuje zderzenie nowoczesno\u015bci z feudalizmem. Jaki \u015brodek stylistyczny to opisuje?\",\"wrong\":[\"alegoria\",\"symbol\",\"por\u00f3wnanie\"],\"answer\":\"Metafora \u2014 przeniesienie znaczenia: mi\u0142o\u015b\u0107 jako obraz spo\u0142ecznego konfliktu.\"}",
+      "forms": "[\"metafory\",\"metafor\u0105\"]",
+      "category": "poetyka"
+    }
+  }
+]
