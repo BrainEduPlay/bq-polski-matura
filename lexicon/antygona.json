@@ -1,0 +1,46 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "konflikt tragiczny",
+      "nodes": "[\"antygona\",\"antyk\"]",
+      "definition": "Dwie racje, obie s\u0142uszne \u2014 \u017cadne wyj\u015bcie nie jest dobre.",
+      "quiz": "{\"question\":\"W *Antygonie* prawo boskie zderza si\u0119 z prawem pa\u0144stwowym. Jak nazywamy tak\u0105 sytuacj\u0119?\",\"wrong\":[\"ironia tragiczna\",\"hamartia\",\"katharsis\"],\"answer\":\"Konflikt tragiczny \u2014 zderzenie dw\u00f3ch r\u00f3wnorz\u0119dnych racji, bez mo\u017cliwo\u015bci rozstrzygni\u0119cia.\"}",
+      "forms": "[\"konfliktu tragicznego\",\"konfliktem tragicznym\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "hybris",
+      "nodes": "[\"antygona\",\"dziady3\",\"mitologia\",\"makbet\"]",
+      "definition": "Pycha wobec bog\u00f3w lub losu \u2014 zawsze ko\u0144czy si\u0119 \u017ale.",
+      "quiz": "{\"question\":\"Kreon nie s\u0142ucha nikogo, bo wierzy w w\u0142asn\u0105 nieomylno\u015b\u0107. Jakim terminem to okre\u015blamy?\",\"wrong\":[\"hamartia\",\"fatum\",\"prometeizm\"],\"answer\":\"Hybris \u2014 pycha wobec bog\u00f3w, losu lub ludzi. Prowadzi do upadku bohatera.\"}",
+      "forms": "[\"hybris\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "hamartia",
+      "nodes": "[\"antygona\"]",
+      "definition": "B\u0142\u0105d tragiczny \u2014 nie ze z\u0142o\u015bci, a z przekonania o w\u0142asnej s\u0142uszno\u015bci.",
+      "quiz": "{\"question\":\"Kreon nie jest tyranem \u2014 zbyt mocno wierzy\u0142 we w\u0142asn\u0105 racje. Jak nazywamy taki b\u0142\u0105d?\",\"wrong\":[\"hybris\",\"fatum\",\"konflikt tragiczny\"],\"answer\":\"Hamartia \u2014 b\u0142\u0105d tragiczny wynikaj\u0105cy nie ze z\u0142ej woli, ale z ludzkiej ograniczono\u015bci.\"}",
+      "forms": "[\"hamartii\",\"hamartia\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "prawo boskie",
+      "nodes": "[\"antygona\"]",
+      "definition": "Prawo wy\u017csze od ludzkiego \u2014 Antygona musi pochowa\u0107 brata.",
+      "quiz": "{\"question\":\"Antygona \u0142amie rozkaz kr\u00f3la, bo kieruje si\u0119 prawem wy\u017cszym ni\u017c stanowione. Jakim?\",\"wrong\":[\"prawo naturalne\",\"prawo zwyczajowe\",\"dekret kr\u00f3lewski\"],\"answer\":\"Prawo boskie \u2014 nakazy moralne uwa\u017cane za wy\u017csze ni\u017c prawo ustanowione przez ludzi.\"}",
+      "forms": "[\"prawa boskiego\",\"prawem boskim\"]",
+      "category": "poetyka"
+    }
+  }
+]
