@@ -1,0 +1,68 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "stoicyzm",
+      "nodes": "[\"filozofia\",\"antyk\"]",
+      "definition": "Zno\u015b los godnie \u2014 Kochanowski w *Pie\u015bni IX* to w\u0142a\u015bnie stoik.",
+      "quiz": "{\"question\":\"Kochanowski pisze: zno\u015b los z godno\u015bci\u0105. Jaka filozofia antyczna za tym stoi?\",\"wrong\":[\"epikureizm\",\"egzystencjalizm\",\"humanizm\"],\"answer\":\"Stoicyzm \u2014 filozofia opanowania emocji i godnego znoszenia przeciwno\u015bci losu.\"}",
+      "forms": "[\"stoicyzmu\",\"stoicyzmem\"]",
+      "category": "konteksty"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "epikureizm",
+      "nodes": "[\"filozofia\",\"antyk\"]",
+      "definition": "Rozs\u0105dna przyjemno\u015b\u0107 \u2014 Horacy: carpe diem.",
+      "quiz": "{\"question\":\"Horacy radzi: korzystaj z dnia. Jaka filozofia stoi za has\u0142em *carpe diem*?\",\"wrong\":[\"stoicyzm\",\"racjonalizm\",\"egzystencjalizm\"],\"answer\":\"Epikureizm \u2014 filozofia umiarowanej przyjemno\u015bci i spokoju ducha.\"}",
+      "forms": "[\"epikureizmu\",\"epikureizmem\"]",
+      "category": "konteksty"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "egzystencjalizm",
+      "nodes": "[\"filozofia\",\"mitologia\"]",
+      "definition": "Nie ma gotowego sensu \u017cycia \u2014 tworzysz go sam. Sartre i Camus.",
+      "quiz": "{\"question\":\"Camus pisze: istnienie jest absurdalne, ale trzeba \u017cy\u0107. Jaki nurt XX-wieczny to reprezentuje?\",\"wrong\":[\"pozytywizm\",\"racjonalizm\",\"humanizm\"],\"answer\":\"Egzystencjalizm \u2014 cz\u0142owiek jest wolny i skazany na wyb\u00f3r, sens \u017cycia nie jest dany.\"}",
+      "forms": "[\"egzystencjalizmu\",\"egzystencjalizmem\"]",
+      "category": "konteksty"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "scholastyka",
+      "nodes": "[\"filozofia\",\"sredniowiecze\"]",
+      "definition": "Wiara + rozum \u2014 \u015bw. Tomasz udowadnia\u0142, \u017ce to si\u0119 nie wyklucza.",
+      "quiz": "{\"question\":\"\u015aw. Tomasz \u0142\u0105czy\u0142 wiar\u0119 z rozumem w sp\u00f3jny system filozoficzny. Jak nazywamy ten nurt?\",\"wrong\":[\"humanizm\",\"racjonalizm\",\"teocentryzm\"],\"answer\":\"Scholastyka \u2014 \u015bredniowieczna filozofia \u0142\u0105cz\u0105ca teologi\u0119 z logik\u0105 i rozumem.\"}",
+      "forms": "[\"scholastyki\",\"scholastyk\u0105\"]",
+      "category": "konteksty"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "racjonalizm",
+      "nodes": "[\"filozofia\",\"renesans\"]",
+      "definition": "My\u015bl\u0119, wi\u0119c jestem \u2014 Kartezjusz postawi\u0142 rozum ponad wszystko.",
+      "quiz": "{\"question\":\"Kartezjusz: *Cogito ergo sum*. Jaka filozofia o\u015bwieceniowa stawia rozum jako \u017ar\u00f3d\u0142o wiedzy?\",\"wrong\":[\"empiryzm\",\"stoicyzm\",\"humanizm\"],\"answer\":\"Racjonalizm \u2014 nurt uznaj\u0105cy rozum za g\u0142\u00f3wne \u017ar\u00f3d\u0142o poznania \u015bwiata.\"}",
+      "forms": "[\"racjonalizmu\",\"racjonalizmem\"]",
+      "category": "konteksty"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "humanizm",
+      "nodes": "[\"filozofia\",\"renesans\"]",
+      "definition": "Czytaj klasyk\u00f3w, poznawaj j\u0119zyki, ciesz si\u0119 pi\u0119knem \u2014 cz\u0142owiek w centrum.",
+      "quiz": "{\"question\":\"Renesansowy idea\u0142: cz\u0142owiek jako warto\u015b\u0107 nadrz\u0119dna, kszta\u0142cenie si\u0119 na antycznych wzorcach. Jaki to nurt?\",\"wrong\":[\"teocentryzm\",\"pozytywizm\",\"egzystencjalizm\"],\"answer\":\"Humanizm \u2014 nurt stawiaj\u0105cy cz\u0142owieka i jego rozw\u00f3j w centrum zainteresowania.\"}",
+      "forms": "[\"humanizmu\",\"humanizmem\"]",
+      "category": "konteksty"
+    }
+  }
+]
